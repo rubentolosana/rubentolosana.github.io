@@ -99,35 +99,35 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2014
 ----
 
-- J.C. Vasquez-Correa, J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, E. Nöth. New computer aided device for real time analysis  of speech of people with Parkinson’s disease. Rev. Fac. Ing. Univ. Antioquia, vol. 1, no. 72, pp 87-103, 2014.
+- J.C. Vasquez-Correa, J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, E. Nöth. <a href="https://revistas.udea.edu.co/index.php/ingenieria/article/view/327870" target="_blank">New computer aided device for real time analysis  of speech of people with Parkinson’s disease </a>. Redin, vol. 1, no. 72, pp 87-103, 2014.
 
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, M.C. González-Rátiva, Elmar Nöth. New Spanish speech corpus database for the analysis Parkinson’s disease. Ninth International Conference on Language Resources and Evaluation, 2014.
+- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, M.C. González-Rátiva, Elmar Nöth. <a href="https://aclanthology.org/L14-1549/" target="_blank">New Spanish speech corpus database for the analysis Parkinson’s disease </a>. Ninth International Conference on Language Resources and Evaluation, 2014.
 
-- D.H. Peluffo-Ordóñez, S. Murillo-Rendón, **J.D. Arias-Londoño**, G. Castellanos-Domínguez. A multi-class extension for multi-labeler support vector machines. European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2014.
+- D.H. Peluffo-Ordóñez, S. Murillo-Rendón, **J.D. Arias-Londoño**, G. Castellanos-Domínguez. <a href="https://www.researchgate.net/publication/277597185_A_multi-class_extension_for_multi-labeler_support_vector_machines" target="_blank">A multi-class extension for multi-labeler support vector machines</a>. European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2014.
 
-- J.R. Orozco-Arroyave , E.A. Belalcázar-Bolaños, **J.D. Arias-Londoño**, F. Vargas-Bonilla, T. Haderlein, E. Nöth.  Phonation and Articulation Analysis of Spanish Vowels for Automatic Detection of Parkinson’s Disease. In: Sojka P., Horák A., Kopeček I., Pala K. (eds) Text, Speech and Dialogue. TSD 2014. Lecture Notes in Computer Science, vol 8655. Springer, Cham
+- J.R. Orozco-Arroyave , E.A. Belalcázar-Bolaños, **J.D. Arias-Londoño**, F. Vargas-Bonilla, T. Haderlein, E. Nöth.  <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2014/Orozco14-PAA.pdf" target="_blank">Phonation and Articulation Analysis of Spanish Vowels for Automatic Detection of Parkinson’s Disease </a>. In: Sojka P., Horák A., Kopeček I., Pala K. (eds) Text, Speech and Dialogue. TSD 2014. Lecture Notes in Computer Science, vol 8655. Springer, Cham
 
 2013
 ----
 
-- J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, S. Murillo-Rendón, G.Castellanos-Domínguez, J.F. Garcés. Nonlinear Dynamics for Hypernasality Detection in Spanish Vowels and Words. Cognitive Computation, vol. 5, no. 4, pp 448-457, 2013.
+- J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, S. Murillo-Rendón, G.Castellanos-Domínguez, J.F. Garcés. <a href="https://link.springer.com/article/10.1007/s12559-012-9166-z" target="_blank">Nonlinear Dynamics for Hypernasality Detection in Spanish Vowels and Words</a>. Cognitive Computation, vol. 5, no. 4, pp 448-457, 2013.
 
-- S. Murillo-Rendón, D. Peluffo-Ordóñez, **J.D. Arias-Londoño**, and C.G. Castellanos-Domínguez. Multi-labeler Analysis for Bi-class Problems Based on Soft-Margin Support Vector Machines, Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 274-282, Springer-Verlag, 2013.
+- S. Murillo-Rendón, D. Peluffo-Ordóñez, **J.D. Arias-Londoño**, and C.G. Castellanos-Domínguez. <a href="https://link.springer.com/chapter/10.1007/978-3-642-38637-4_28" target="_blank">Multi-labeler Analysis for Bi-class Problems Based on Soft-Margin Support Vector Machines </a>. Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 274-282, Springer-Verlag, 2013.
 
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. Perceptual Analysis of Speech Signals from People with Parkinson’s Disease, Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 201-211, Springer-Verlag, 2013.
+- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="https://link.springer.com/chapter/10.1007/978-3-642-38637-4_21" target="_blank">Perceptual Analysis of Speech Signals from People with Parkinson's Disease </a>. Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 201-211, Springer-Verlag, 2013.
 
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. Analysis of Speech from People with Parkinson’s Disease through Nonlinear Dynamics, Series Advances in Nonlinear Speech Processing - Lecture Notes in Computer Sciences, NOLISP2013, volume 7911, pages 112-119, Springer-Verlag, 2013.
+- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2013/Orozco13-AOS.pdf" target="_blank"> Analysis of Speech from People with Parkinson's Disease through Nonlinear Dynamics </a>. Series Advances in Nonlinear Speech Processing - Lecture Notes in Computer Sciences, NOLISP2013, volume 7911, pages 112-119, Springer-Verlag, 2013.
 
-- E.A. Belalcazar-Bolaños, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, C.G. Castellanos-Domínguez and E. Nöth. New Cues in Low-Frequency of Speech for Automatic Detection of Parkinson’s Disease, Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 283-292, Springer-Verlag, 2013.
+- E.A. Belalcazar-Bolaños, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, C.G. Castellanos-Domínguez and E. Nöth. <a href="https://www.springerprofessional.de/en/new-cues-in-low-frequency-of-speech-for-automatic-detection-of-p/4111878" target="_blank"> New Cues in Low-Frequency of Speech for Automatic Detection of Parkinson’s Disease </a>. Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 283-292, Springer-Verlag, 2013.
 
 2012
 ----
 
-- V. Osma-Ruiz, J.I. Godino-Llorente, N. Sáenz-Lechón, J.M. Gutiérrez-Arriola, **J.D. Arias-Londoño**, R. Fraile, B. Scola-Yurrita. Towards collaborative work among speech therapists, phonatricians, and ENT professionals. Analysis of the impact of ciphering techniques in the performance of an integrated tool for the diagnosis of voice disorders. Biomedical Signal Processing & Control, vol. 7, no. 1, pp 27-36, 2012.
+- V. Osma-Ruiz, J.I. Godino-Llorente, N. Sáenz-Lechón, J.M. Gutiérrez-Arriola, **J.D. Arias-Londoño**, R. Fraile, B. Scola-Yurrita. <a href="https://www.sciencedirect.com/science/article/pii/S1746809411001066" target="_blank">Towards collaborative work among speech therapists, phonatricians, and ENT professionals. Analysis of the impact of ciphering techniques in the performance of an integrated tool for the diagnosis of voice disorders </a>. Biomedical Signal Processing & Control, vol. 7, no. 1, pp 27-36, 2012.
 
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. Automatic detection of hypernasal speech signals using nonlinear and entropy measurements, 13th Annual Conference of the International Speech Communication Association, Interspeech 2012.
+- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/OrozcoArroyave12-ADO.pdf" target="_blank">Automatic detection of hypernasal speech signals using nonlinear and entropy measurements </a>. 13th Annual Conference of the International Speech Communication Association, Interspeech 2012.
 
-- J.M. Gutiérrez-Arriola, V. Osma-Ruiz, N. Sáenz-Lechón, J.I. Godino-Llorente, R. Fraile and **J.D. Arias-Londoño**. Objective measurements to evaluate glottal space segmentation from laryngeal images, 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC2012.
+- J.M. Gutiérrez-Arriola, V. Osma-Ruiz, N. Sáenz-Lechón, J.I. Godino-Llorente, R. Fraile and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/6347214/" target="_blank">Objective measurements to evaluate glottal space segmentation from laryngeal images</a>. 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC2012.
 
 2011
 ----
