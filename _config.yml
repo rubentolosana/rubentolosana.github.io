@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Julián Arias-Londoño"
   avatar           : "profile.png"
-  bio              : "Visiting Researcher"
+  bio              : "Visiting Researcher<br /> Universidad Politécnica de Madrid"
   location         : "Madrid, Spain."
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Arias-Londo%C3%B1o+JD&cauthor_id=21073260"
   googlescholar    : "https://scholar.google.com/citations?user=ZTdSU3wAAAAJ&hl=en"
-  email            :
+  email            : "julian.ariasl@udea.edu.co"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "julian-d-arias-londoño-17a75226"
   orcid            : "https://orcid.org/0000-0002-1928-773X"
   pinterest        :
   soundcloud       :
