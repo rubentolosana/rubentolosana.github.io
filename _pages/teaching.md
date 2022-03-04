@@ -36,3 +36,44 @@ Universidad Antonio Nariño, Dpto. of Electronic and Biomedical Engineering\
 2010
 
 
+Students
+====
+
+
+Current PhD students
+----
+
+- Gabriel Darío Uribe Guerra\
+Woring in Bayesian Optimization for animal feeding diet design.
+
+
+Current master students
+----
+
+- Catalina Bustamante\
+Working in dynamic functional connectivity for neurological states detection and characterization.
+
+- Johnnatan Jaramillo\
+Working in process mining for fail detection.
+
+
+Past PhD students
+----
+
+- [Jonny Alexander Uribe](https://co.linkedin.com/in/jonny-alexander-uribe)\
+Senior Machine Learning Modeler at La Haus
+
+
+Past master students
+----
+
+- Mario Alberto Giraldo Londoño\
+Senior Data Engineer at Universiad de Antioquia.
+
+- Germán Eduardo Melo Acosta\
+Senior Data Scientist at Globant.
+
+- Jesús Antonio Tamayo Herrera\
+PhD student at Instituto Politécnico Nacional, México.
+
+- Tatiana Villa Cañas
