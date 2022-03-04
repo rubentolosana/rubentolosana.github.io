@@ -132,39 +132,39 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 2011
 ----
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, M. Markaki, and Y. Stylianou. On combining information from modulation spectra and mel-frequency cepstral coefficients for automatic detection of pathological voices. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 60-69, 2011.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente, M. Markaki, and Y. Stylianou. <a href="https://www.tandfonline.com/doi/full/10.3109/14015439.2010.528788?casa_token=AAoiaPJprGUAAAAA%3AgZvr1X89McnqYlyO3hjHaEV3T75wMQgGFGNjFqAjnEXp8GRsHfm6_gJUO6JeyhlTcC4DMwzm05deX6E" target="_blank">On combining information from modulation spectra and mel-frequency cepstral coefficients for automatic detection of pathological voices</a>. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 60-69, 2011.
 
-- N. Sáenz-Lechón, R. Fraile, J.I. Godino-Llorente, R. Fernández-Baillo, V. Osma-Ruiz, J.M. Gutiérrez-Arriola, and **J.D. Arias-Londoño**. Towards objective evaluation of perceived roughness and breathiness based on mel-frequency cepstral analysis. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 52-59, 2011.
+- N. Sáenz-Lechón, R. Fraile, J.I. Godino-Llorente, R. Fernández-Baillo, V. Osma-Ruiz, J.M. Gutiérrez-Arriola, and **J.D. Arias-Londoño**. <a href="https://www.tandfonline.com/doi/full/10.3109/14015439.2010.517551?casa_token=C0KxhmX_OacAAAAA%3AQUf_cEzprWT03hlrC3rNzuyPS3qugxxZfwxaCw72zhqe5ezvDgw4LR6LhAgcuurgpwJp2LErO-AHGpk" target="_blank">Towards objective evaluation of perceived roughness and breathiness based on mel-frequency cepstral analysis</a>. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 52-59, 2011.
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. Automatic detection of pathological voices using complexity measurements, noise parameters and mel-cepstral coefficients. IEEE Transactions on Biomedical Engineering, vol. 58, no. 2, pp 370-379, 2011.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. <a href="https://ieeexplore.ieee.org/abstract/document/5605660" target="_blank">Automatic detection of pathological voices using complexity measurements, noise parameters and mel-cepstral coefficients </a>. IEEE Transactions on Biomedical Engineering, vol. 58, no. 2, pp 370-379, 2011.
 
-- J.R. Orozco-Arroyave, S. Murillo-Rendón, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, E. Delgado-Trejos, and C.G. Castellanos-Domínguez. Nonlinear dynamics for hypernasality detection, Series Advances in Nonlinear Speech Processing - Lecture Notes in Computer Sciences, NOLISP2011, volume 7015, pages 207-214, Springer-Verlag, 2011.
+- J.R. Orozco-Arroyave, S. Murillo-Rendón, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, E. Delgado-Trejos, and C.G. Castellanos-Domínguez. <a href="https://link.springer.com/chapter/10.1007/978-3-642-25020-0_27" target="_blank">Nonlinear dynamics for hypernasality detection</a>. Series Advances in Nonlinear Speech Processing - Lecture Notes in Computer Sciences, NOLISP2011, volume 7015, pages 207-214, Springer-Verlag, 2011.
 
-- S. Murillo-Rendón, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño** and C.G. Castellanos-Domínguez. Automatic detection of Hypernasality in Children. Series New Challenges on Bioinspired Applications - Lecture Notes in Computer Sciences,volume 6687, Part II, pages 167-174, Springer-Verlag, 2011.
+- S. Murillo-Rendón, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño** and C.G. Castellanos-Domínguez. <a href="https://link.springer.com/chapter/10.1007/978-3-642-21326-7_19" target="_blank">Automatic detection of Hypernasality in Children</a>. Series New Challenges on Bioinspired Applications - Lecture Notes in Computer Sciences,volume 6687, Part II, pages 167-174, Springer-Verlag, 2011.
 
-- J.I. Godino-Llorente, **J.D. Arias-Londoño**, N. Sáenz-Lechón, V. Osma-Ruiz, G. Castellanos-Domínguez and J.M. Gutiérrez-Arriola. Automatic assessment of pathological voice signals based on noise, cepstral and nonlinear features, 9th Pan European Voice Conference, 8th Workshop of the European Laryngological Society, PEVOC2011. Invited paper.
+- J.I. Godino-Llorente, **J.D. Arias-Londoño**, N. Sáenz-Lechón, V. Osma-Ruiz, G. Castellanos-Domínguez and J.M. Gutiérrez-Arriola. Automatic assessment of pathological voice signals based on noise, cepstral and nonlinear features, 9th Pan European Voice Conference, 8th Workshop of the European Laryngological Society, PEVOC2011. **Invited paper**.
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz and J.M. Gutiérrez-Arriola. Automatic GRBAS assessment using complexity measures and a multi-class GMM-based detector, 7th Workshop on Models and Analysis of Vocal Emissions for Biomedical Applications, MAVEBA2011.
 
-- J.R. Orozco-Arroyave, S. Murillo-Rendón, A.M. Álvarez-Meza, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, and C.G. Castellanos-Domínguez. Automatic selection of acoustic and non-linear dynamic features in voice signals for hypernasality detection. 12th Annual Conference of the International Speech Communication Association, Interspeech2011.
+- J.R. Orozco-Arroyave, S. Murillo-Rendón, A.M. Álvarez-Meza, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, and C.G. Castellanos-Domínguez. <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.658.7296&rep=rep1&type=pdf" target="_blank">Automatic selection of acoustic and non-linear dynamic features in voice signals for hypernasality detection</a>. 12th Annual Conference of the International Speech Communication Association, Interspeech2011.
 
 2010
 ----
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. An improved method for voice pathology detection by means of a HMM-based feature space transformation. Pattern Recognition, vol. 43, no. 9, pp 3100-3112, 2010.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. <a href="https://www.sciencedirect.com/science/article/pii/S0031320310001391" target="_blank">An improved method for voice pathology detection by means of a HMM-based feature space transformation</a>. Pattern Recognition, vol. 43, no. 9, pp 3100-3112, 2010.
 
-- M. Markaki, Y. Stylianou, **J.D. Arias-Londoño**, and J.I. Godino-Llorente. Dysphonia detection based on modulation spectral features and cepstral coefficients. Proceedings of 35th IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP2010.
+- M. Markaki, Y. Stylianou, **J.D. Arias-Londoño**, and J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/abstract/document/5495020" target="_blank">Dysphonia detection based on modulation spectral features and cepstral coefficients</a>. Proceedings of 35th IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP2010.
 
 2009
 ----
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, J.A. Jaramillo-Garzón, and G. Castellanos-Domínguez. Dissimilarity-based classification for stochastic models of embedding spaces applied to voice pathology detection. Rev. Fac. Ing. Univ. Antioquia, vol. 1, no. 50, pp 102-112, 2009.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente, J.A. Jaramillo-Garzón, and G. Castellanos-Domínguez. <a href="http://tesis.udea.edu.co/bitstream/10495/13364/1/JulianArias_2009_Classificationstochasticmodels.pdf" target="_blank">Dissimilarity-based classification for stochastic models of embedding spaces applied to voice pathology detection </a>. Rev. Fac. Ing. Univ. Antioquia, vol. 1, no. 50, pp 102-112, 2009.
 
-- G. Daza-Santacoloma, **J.D. Arias-Londoño**, N. Sáenz-Lechón, Victor Osma-Ruiz, J.I. Godino- Llorente, and G. Castellanos-Domínguez. Dynamic feature extraction: an application to voice pathology detection. Intelligent Automation and Soft Computing, vol. 15, no. 4, pp 665-680, 2009.
+- G. Daza-Santacoloma, **J.D. Arias-Londoño**, N. Sáenz-Lechón, Victor Osma-Ruiz, J.I. Godino- Llorente, and G. Castellanos-Domínguez. <a href="https://www.tandfonline.com/doi/abs/10.1080/10798587.2009.10643056" target="_blank">Dynamic feature extraction: an application to voice pathology detection</a>. Intelligent Automation and Soft Computing, vol. 15, no. 4, pp 665-680, 2009.
 
 - V. Osma-Ruiz, J.M. Gutiérrez-Arriola, J.I. Godino-Llorente, N. Sáenz-Lechón, R. Fraile, and **J.D. Arias-Londoño**. Advanced pre-processing of larynx images to improve the segmentation of glottal area. Proceedings of 6th International Workshop on Models and Analysis of Vocal Emissions for Biomedical Applications, MAVEBA2009.
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, G. Castellanos-Domínguez, N. Sáenz-Lechón, and V. Osma-Ruiz. Complexity Analysis of Pathological Voices by means of Hidden Markov Entropy measurements. Proceedings 31st Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC2009. **Finalist of the best paper student award**.
+- **J.D. Arias-Londoño**, J.I. Godino-Llorente, G. Castellanos-Domínguez, N. Sáenz-Lechón, and V. Osma-Ruiz. <a href="https://ieeexplore.ieee.org/abstract/document/5334996" target="_blank">Complexity Analysis of Pathological Voices by means of Hidden Markov Entropy measurements</a>. Proceedings 31st Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC2009. **Finalist of the best paper student award**.
 
 - **J.D. Arias-Londoño**, J.I. Godino-Llorente, and G. Castellanos-Domínguez. Short time analysis of pathological voices using complexity measures. Proceedings 3rd Advanced Voice Function Assessment International Workshop, AVFA2009.
 

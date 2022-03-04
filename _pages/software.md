@@ -1,9 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Software"
 permalink: /software/
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+- [COVID19 detection from X-Ray images](https://github.com/jdariasl/COVIDNET)\
+Source code of the paper: “Artificial Intelligence applied to chest X-Ray images for the automatic detection of COVID-19. A thoughtful evaluation approach”, IEEE Access, vol. 8, pp. 226811-226827, 2020.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+- [Entropies from Markov Models as Complexity Measures of Embedded Attractor](https://github.com/jdariasl/ME)
+Source code of the paper “Entropies from Markov Models as Complexity Measures of Embedded Attractor”, Entropy, 17(6), pp. 3595-3620, 2015.
+
