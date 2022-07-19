@@ -20,6 +20,8 @@ About me
 News
 ======
 
+- 19/07/2022 I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society e.V](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
+
 - 29/09/2021 I was invited to give a talk on [Introduction to Bayesian optimization](https://es-la.facebook.com/CienciasEconomicasUdeA/videos/4184039641719094/) at the School of Economics, Universidad de Antioquia.
 
 - 30/07/2021 **X-Rays and artificial intelligence to reduce false negatives in the diagnosis of COVID-19**
