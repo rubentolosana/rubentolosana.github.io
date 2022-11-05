@@ -13,6 +13,27 @@ Books
 - C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://link.springer.com/book/10.1007/978-3-030-87664-7" target="_blank">Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks</a>. *Advances in Computer Vision and Pattern Recognition, Springer*, 2022.
 
 
+
+Book Chapters
+-----
+
+- **R. Tolosana**, C. Rathgeb, R. Vera-Rodriguez, C. Busch, L. Verdoliva, S. Lyu, H. H. Nguyen, J. Yamagishi, I. Echizen, P. Rot, K. Grm, V. Struc, A. Dantcheva, Z. Akhtar, S. Romero-Tapiador, J. Fierrez, A. Morales, J. Ortega-Garcia, E. Kindt, C. Jasserand, T. Kalvet and M. Tiits. <a href="https://link.springer.com/chapter/10.1007/978-3-030-87664-7_21" target="_blank">Future Trends in Digital Face Manipulation and Detection</a>. Christian Rathgeb, Ruben Tolosana, Ruben Vera-Rodriguez and Christoph Busch (Eds.), *Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks, Springer*, 2022.
+
+- J. Hernandez-Ortega, **R. Tolosana**, J. Fierrez and A. Morales. <a href="https://link.springer.com/chapter/10.1007/978-3-030-87664-7_12" target="_blank">DeepFakes Detection based on Heart Rate Estimation: Single- and Multi-Frame</a>. Christian Rathgeb, Ruben Tolosana, Ruben Vera-Rodriguez and Christoph Busch (Eds.), *Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks, Springer*, 2022. 
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, A. Morales and J. Ortega-Garcia. <a href="https://link.springer.com/chapter/10.1007/978-3-030-87664-7_1" target="_blank">An Introduction to Digital Face Manipulation</a>. Christian Rathgeb, Ruben Tolosana, Ruben Vera-Rodriguez and Christoph Busch (Eds.), *Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks, Springer*, 2022.
+
+- J. C. Neves, **R. Tolosana**, R. Vera-Rodriguez, V. Lopes, H. Proenca and J. Fierrez. <a href="https://link.springer.com/chapter/10.1007/978-981-16-7621-5_8" target="_blank">GAN Fingerprints in Face Image Synthesis</a>. Husrev Taha Sencar, Luisa Verdoliva and Nasir Memon (Eds.), *Multimedia Forensics, Springer*, 2022.
+
+- M. Gomez-Barrero, **R. Tolosana**, J. Kolberg and C. Busch. <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003003489-5/multi-spectral-short-wave-infrared-sensors-convolutional-neural-networks-biometric-presentation-attack-detection-marta-gomez-barrero-ruben-tolosana-jascha-kolberg-christoph-busch" target="_blank">Multi-Spectral Short-Wave Infrared Sensors and Convolutional Neural Networks for Biometric Presentation Attack Detection</a>. Gaurav Jaswal and Vivek Kanhangad and Raghavendra Ramachandra (Eds.), *AI and Deep Learning in Biometric Security: Trends, Potential, and Challenges, CRC Press*, 2020.
+
+- R. Vera-Rodriguez, **R. Tolosana**, J. Hernandez-Ortega, A. Acien, A. Morales, J. Fierrez and J. Ortega-Garcia. <a href="https://www.worldscientific.com/doi/10.1142/9789811226830_0003" target="_blank">Modeling the Complexity of Signature and Touch-Screen Biometrics using the Lognormality Principle</a>. Rejean Plamondon, Angelo Marcelli and Miguel A. Ferrer (Eds.), *The Lognormality Principle and its Applications, World Scientific*, 2020.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://link.springer.com/chapter/10.1007/978-3-319-92627-8_19" target="_blank">Presentation Attacks in Signature Biometrics: Types and Introduction to Attack Detection</a>. S. Marcel, M.S. Nixon, J. fierrez and N. Evans (Eds.), *Handbook of Biometric Anti-Spoofing (2nd Edition), Springer*, 2018.
+
+
+
+
 Journal Articles
 -----
 
@@ -94,5 +115,94 @@ Journal Articles
 
 - **R. Tolosana**, R. Vera-Rodriguez, J. Ortega-Garcia and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/7104071" target="_blank">Preprocessing and Feature Selection for Improved Sensor Interoperability in Online Biometric Signature Verification</a>. *IEEE Access*, Vol. 3, pp. 478-489, 2015.
 
+
+
+
+
+Conference Papers
+-----
+- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2207.07596" target="_blank">Mobile Keystroke Biometrics Using Transformers</a>. in *Proc. IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG*, January 2023.
+
+**2022**
+
+- R. Daza, D. DeAlcala, A. Morales, **R. Tolosana**, R. Cobos and J. Fierrez. <a href="https://arxiv.org/abs/2112.09165">ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2022.
+
+- G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, A. Acien and G. L. Lan. <a href="https://ieeexplore.ieee.org/document/9794524" target="_blank">Mobile Passive Authentication through Touchscreen and Background Sensor Data</a>.  in *Proc. IEEE International Workshop on Biometrics and Forensics, IWBF*, April 2022.
+
+**2021**
+
+- **R. Tolosana**, R. Vera-Rodriguez, C. Gonzalez-Garcia, J. Fierrez, S. Rengifo, A. Morales, J. Ortega-Garcia, J. C. Ruiz-Garcia, S. Romero-Tapiador, J. Jiang, S. Lai, L. Jin, Y. Zhu, J. Galbally, M. Diaz, M. Ferrer, M. Gomez-Barrero, I. Hodashinsky, K. Sarin, A. Slezkin, M. Bardamova, M. Svetlakov, M. Saleem, C. Szucs, B. Kovari, F. Pulsmeyer, M. Wehbi, D. Zanca, S. Ahmad, S. Mishra and S. Jabin. <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-86337-1_48" target="_blank">ICDAR 2021 Competition on On-Line Signature Verification</a>. in *Proc. International Conference on Document Analysis and Recogniton, ICDAR*, Lausanne, Switzerland, September 2021.
+
+- **R. Tolosana**, P. Delgado-Santos, A. Perez-Uribe, R. Vera-Rodriguez, J. Fierrez and A. Morales. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16139/15946" target="_blank">DeepWriteSYN: On-Line Handwriting Synthesis via Deep Short-Term Representations</a>. in *Proc. 35th AAAI Conference on Artificial Intelligence, AAAI*, Vancouver, Canada, February 2021.
+
+- J. Hernandez-Ortega, **R. Tolosana**, J. Fierrez and A. Morales. <a href="https://arxiv.org/abs/2010.00400" target="_blank">DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation</a>. in *Proc. 35th AAAI Conference on Artificial Intelligence Workshops, AAAIw*, Vancouver, Canada, February 2021.
+
+- M. Caruana, R. Vera-Rodriguez and **R. Tolosana**. <a href="https://link.springer.com/chapter/10.1007/978-3-030-68821-9_42" target="_blank">Analysing and Exploiting Complexity Information in On-Line Signature Verification</a>. in *Proc. International Conference on Pattern Recognition Workshops, ICPRw*, Milan, Italy, 2021.
+
+- **R. Tolosana**, S. Romero-Tapiador, J. Fierrez and R. Vera-Rodriguez. <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-68821-9_38" target="_blank">DeepFakes Evolution: Analysis of Facial Regions and Fake Detection Performance</a>. in *Proc. International Conference on Pattern Recognition Workshops, ICPRw*, Milan, Italy, 2021.
+
+**2020**
+
+- A. Morales, A. Acien, J. Fierrez, J. V. Monaco, **R. Tolosana**, R. Vera-Rodriguez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/9202723" target="_blank">Keystroke Biometrics in Response to Fake News Propagation in a Global Pandemic</a>. in *Proc. IEEE Intl. Workshop on Secure Digital Identity Management, SDIM*, July 2020.
+
+- R. Daza, A. Morales, J. Fierrez and **R. Tolosana**. <a href="https://dl.acm.org/doi/10.1145/3395035.3425257" target="_blank">mEBAL: A Multimodal Database for Eye Blink Detection and Attention Level Estimation</a>. in *Proc. 23rd ACM International Conference on Multimodal Interaction, ICMI*, Utrecht, Netherlands, October 2020.
+
+- J. Hernandez-Ortega, R. Daza, A. Morales, J. Fierrez and **R. Tolosana**. <a href="https://ieeexplore.ieee.org/document/9202610" target="_blank">Heart Rate Estimation from Face Videos for Student Assessment: Experiments on edBB</a>. in *Proc. IEEE Computer Software and Applications Conference, COMPSAC*, Madrid, Spain, July 2020.
+
+- O. Delgado-Mohatar, **R. Tolosana**, J. Fierrez and A. Morales. <a href="https://ieeexplore.ieee.org/document/9202574" target="_blank">Blockchain in the Internet of Things: Architectures and Implementation</a>. in *Proc. IEEE Computer Software and Applications Conference, COMPSAC*, Madrid, Spain, July 2020.
+
+**2019**
+
+- A. Acien, A. Morales, R. Vera-Rodriguez, J. Fierrez and **R. Tolosana**. <a href="https://dl.acm.org/doi/10.1145/3347450.3357663" target="_blank">MultiLock: Mobile Active Authentication based on Multiple Biometric and Behavioral Patterns</a>. in *Proc. ACM Intl. Conf. on Multimedia, Workshop on Multimodal Understanding and Learning for Embodied Applications, MULEA*, Nice, France, October 2019.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and A. Morales. <a href="https://dl.acm.org/doi/abs/10.1145/3343031.3350578" target="_blank">BioTouchPass Demo: Handwritten Passwords for Touchscreen Biometrics</a>. in *Proc. ACM Multimedia, ACMM*, Nice, France, October 2019.
+
+- R. Vera-Rodriguez, **R. Tolosana**, M. Caruana, G. Manzano, C. Gonzalez-Garcia, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8978081" target="_blank">DeepSignCX: Signature Complexity Detection using Recurrent Neural Networks</a>. in *Proc. 15th International Conference on Document Analysis and Recognition, ICDAR*, Sydney, Australia, September 2019.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, A. Morales and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8977961" target="_blank">Do You Need More Data? The DeepSignDB On-Line Handwritten Signature Biometric Database</a>. in *Proc. 15th International Conference on Document Analysis and Recognition, ICDAR*, Sydney, Australia, September 2019.
+
+- O. Delgado-Mohatar, J. Fierrez, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://ieeexplore.ieee.org/document/9025645" target="_blank">Biometric Template Storage with Blockchain: A First Look into Cost and Performance Tradeoffs</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Long Beach, CA, USA, June 2019.
+
+- **R. Tolosana**, J. Gismero-Trujillo, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/9025461" target="_blank">MobileTouchDB: Mobile Touch Character Database in the Wild and Biometric Benchmark</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Long Beach, CA, USA, June 2019.
+
+- O. Delgado-Mohatar, J. Fierrez, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/1903.05496" target="_blank">Blockchain and Biometrics: A First Look into Opportunities and Challenges</a>. in *Proc. International Congress on Blockchain and Applications*, Avila, Spain, June 2019.
+
+**2018**
+
+- R. Vera-Rodriguez, **R. Tolosana**, J. Hernandez-Ortega, A. Morales, J. Fierrez and J. Ortega-Garcia. <a href="http://biometrics.eps.uam.es/fierrez/files/2018_ICPRAI_Lognormal_Vera.pdf" target="_blank">Modeling the Complexity of Biomechanical Tasks using the Lognormality Principle: Applications to Signature Recognition and Touch-screen Children Detection</a>. in *Proc. IAPR Intl. Conf. on Pattern Recognition and Artificial Intelligence, ICPRAI*, May 2018.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8575551" target="_blank">Incorporating Touch Biometrics to Mobile One-Time Passwords: Exploration of Digits</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Salt Lake City, Utah, USA, June 2018.
+
+- **R. Tolosana**, M. Gomez-Barrero, J. Kolberg, A. Morales, C. Busch and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8553413" target="_blank">Towards Fingerprint Presentation Attack Detection Based on Convolutional Neural Networks and Short Wave Infrared Imaging</a>. in *Proc. 17th International Conference of the Biometrics Special Interest Group, BIOSIG*, September 2018.
+
+- A. Morales, F. M. Costela, **R. Tolosana** and R. L. Woods. <a href="https://dl.acm.org/doi/10.1145/3231884.3231890" target="_blank">Saccade Landing Point Prediction: A Novel Approach based on Recurrent Neural Networks</a>. in *Proc. 2018 International Conference on Machine Learning Technologies, ICMLT 2018*, Jinan, China, May 2018.
+
+**2017**
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8270043" target="_blank">Biometric Signature Verification Using Recurrent Neural Networks</a>. in *Proc. 14th IAPR Int. Conference on Document Analysis and Recognition, ICDAR*, Kyoto, Japan, November 2017.
+
+- **R. Tolosana**, R. Vera-Rodriguez, R. Guest, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8269971" target="_blank">Complexity-based Biometric Signature Verification</a>. in *Proc. 14th IAPR Int. Conference on Document Analysis and Recognition, ICDAR*, Kyoto, Japan, November 2017.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Ortega-Garcia and J. Fierrez. <a href="http://biometrics.eps.uam.es/fierrez/files/IGS2017_paper_25.pdf" target="_blank">Assessment of Using the Finger in On-Line Handwritten Signature Verification Systems</a>. in *Proc. 18th Int. Graphonomics Society Conference, IGS*, Gaeta, Italy, June 2017.
+
+**2016**
+
+- D. Morocho, A. Morales, J. Fierrez and **R. Tolosana**. <a href="https://ieeexplore.ieee.org/document/7449680" target="_blank">Signature Recognition: Establishing Human Baseline Performance via Crowdsourcing</a>. in *Proc. 4th Int. Workshop on Biometrics and Forensics, IWBF*, Limassol, Cyprus, March 2016.
+
+**2015**
+
+- R. Vera-Rodriguez, J. Fierrez, A. Morales, **R. Tolosana** and J. Ortega-Garcia. Automatic Student Authentication Using Dynamic Signature Recognition. in *Proc. Congreso Internacional sobre Aprendizaje, Innovacion y Competitividad, CINAIC*, Octubre 2015.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/7110241" target="_blank">Feature-Based Dynamic Signature Verification under Forensic Scenarios</a>. in *Proc. 3rd International Workshop on Biometrics and Forensics, IWBF*, Gjøvik, Norway, March 2015. 
+
+- R. Vera-Rodriguez, **R. Tolosana**, J. Ortega-Garcia and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/7110242" target="_blank">e-BioSign: Stylus- and Finger-Input Multi-Device Database for Dynamic Signature Recognition</a>. in *Proc. 3rd International Workshop on Biometrics and Forensics, IWBF*, Gjøvik, Norway, March 2015.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Ortega-Garcia and J. Fierrez. <a href="https://ieeexplore.ieee.org/abstract/document/7368583" target="_blank">Update Strategies for HMM-Based Dynamic Signature Biometric Systems</a>. in *Proc. 7th IEEE Int. Workshop on Information Forensics and Security, WIFS*, Rome, Italy, November 2015.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Ortega-Garcia and J. Fierrez. <a href="https://ieeexplore.ieee.org/abstract/document/7389687" target="_blank">Increasing the Robustness of Biometric Templates for Dynamic Signature Biometric Systems</a>. in *Proc. 49th Annual Int. Carnahan Conf. on Security Technology*, Taipei, Taiwan, September 2015.
+
+- R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, A. Acien and **R. Tolosana**. <a href="https://ieeexplore.ieee.org/document/7358756" target="_blank">e-BioSign Tool: Towards Scientific Assessment of Dynamic Signatures under Forensic Conditions</a>. in *Proc. IEEE Seventh International Conference on Biometrics: Theory, Applications and Systems, BTAS*, Arlington, Virginia, USA, September 2015.
+
+- **R. Tolosana**, R. Vera-Rodriguez, J. Ortega-Garcia and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/7139047" target="_blank">Optimal Feature Selection and Inter-Operability Compensation for On-Line Biometric Signature Authentication</a>. in *Proc. IEEE/IAPR Int. Conf. on Biometrics, ICB*, Phuket, Thailand, May 2015.
 
 
