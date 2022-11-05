@@ -5,179 +5,94 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on <a href="https://scholar.google.com/citations?user=ZTdSU3wAAAAJ">my Google Scholar profile</a>.
+You can also find my publications on <a href="https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en">my Google Scholar profile</a>.
 
-2021
+Books
 -----
 
-- L. Moro-Velázquez, J.A. Gómez-García, **J.D. Arias-Londoño**, N. Dehak, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942100015X" target="_blank">Advances in Parkinson's Disease detection and assessment using voice and speech: A review of the articulatory and phonatory aspects</a>. Biomedical Signal Processing and Control, vol 66.  102418, 2021.
+- C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://link.springer.com/book/10.1007/978-3-030-87664-7" target="_blank">Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks</a>. *Advances in Computer Vision and Pattern Recognition, Springer*, 2022.
 
-- J.A. Gómez-García, L. Moro-Velázquez, **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.sciencedirect.com/science/article/pii/S1746809420302056" target="_blank">On the design of automatic voice condition analysis systems. Part III: review of acoustic modelling strategies</a>. Biomedical Signal Processing and Control, vol 66.  102049, 2021.
 
-- A. Santana-Velásquez, J.F. Duitama, **J.D Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-030-69774-7_7" target="_blank"> Automatic Classification of Diagnosis-Related Groups Using ANN and XGBoost Models</a>. In: Orjuela-Cañón A.D., Lopez J., Arias-Londoño J.D., Figueroa-García J.C. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1346. Springer, Cham., 2020.
+Journal Articles
+-----
 
-2020
-----
+**2023**
 
-- **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/9293268" target="_blank">Artificial Intelligence applied to chest X-Ray images for the automatic detection of COVID-19. A thoughtful evaluation approach</a>. IEEE Access, vol. 8, 2020.
+- G. Stragapede, R. Vera-Rodriguez, **R. Tolosana** and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">BehavePassDB: Public Database for Mobile Behavioral Biometrics and Benchmark Evaluation</a>. *Pattern Recognition*. Vol. 123, 109089, 2023.
 
-- J. Villar-Vesga, J. Henao-Restrepo, D. C Voshart, D. Aguillón, A. Villegas, D. Castaño, **J.D. Arias-Londoño**, I.S. Zuhorn, L. Ribosvki, L. Barazzuol, G. P. Cardona-Gómez, R. A. Posada-Duque. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2020.587989/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Aging_Neuroscience&id=587989" target="_blank">Differential profile of systemic extracellular vesicles from sporadic and familiar Alzheimer’s disease leads to neuroglial and endothelial cell degeneration</a>. Frontiers in Aging Neuroscience. 12:587989. 2020. [Open access]
+**2022**
 
-- **J.D. Arias-Londoño**, J.A. Gómez-García, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/8917580" target="_blank">Multimodal and multi-output deep learning architectures for the automatic assessment of voice quality using the GRB scale</a>. IEEE Journal of Selected Topics in Signal Processing, vol 20, no. 2, pp 413 - 422, 2020.
+- P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2204.03992" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *arXiv preprint arXiv:2204.03992*, 2022.
 
-- A. M. Sabogal-Guáqueta, **J.D. Arias-Londoño**, J.A. Gutierrez-Vargas, D. Sepulveda-Falla, M. Glatzel, C.A. Villegas-Lanau, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0925443920301423" target="_blank">Common disbalance in the brain parenchyma of dementias: Phospholipid profile analysis between CADASIL and sporadic Alzheimer's disease</a>.  BBA - Molecular Basis of Disease, vol. 1866, no. 1, 165797, 2020. [link]
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2206.01441" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *arXiv preprint arXiv:2206.01441*, 2022.
 
-- A. Santana-Velásquez, J. Freddy-Duitama and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/9247889" target="_blank">Automatic classification of Diagnosis-Related Groups using ANN and XGBoost models</a>. 3rd IEEE Colombian Conference on Applications in Computational Intelligence - COLCACI 2020.
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://arxiv.org/abs/2206.10465" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *arXiv preprint arXiv:2206.10465*, 2022.
 
-2019
-----
+- J. C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2204.04236" target="_blank">ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection</a>. *arXiv preprint arXiv:2204.04236*, 2022.
 
-- **J.D. Arias-Londoño**, J.A. Gómez-García. <a href="https://link.springer.com/chapter/10.1007/978-3-030-65654-6_6" target="_blank">Predicting UPDRS Scores in Parkinson’s Disease Using Voice Signals: A Deep Learning/Transfer-Learning-Based Approach</a>. In: Godino-Llorente J.I. (eds) Automatic Assessment of Parkinsonian Speech. AAPS 2019. Communications in Computer and Information Science, vol 1295. Springer, Cham.
+- **R. Tolosana**, S. Romero-Tapiador, R. Vera-Rodriguez, E. Gonzalez-Sosa and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197622000070" target="_blank">DeepFakes Detection across Generations: Analysis of Facial Regions, Fusion, and Performance Evaluation</a>. *Engineering Applications of Artificial Intelligence*, Vol. 110, 104673, 2022.
 
-- J. Jaramillo, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-030-36211-9_18" target="_blank">Fail Detection in WfM/BPM Systems from Event Log Sequences Using HMM-Type Models</a>. In: Orjuela-Cañón A., Figueroa-García J., Arias-Londoño J. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 1096, pp 223-234. Springer, Cham, 2019.
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez, F. Deravi and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0167865522002264" target="_blank">GaitPrivacyON: Privacy-Preserving Mobile Gait Biometrics using Unsupervised Learning</a>. *Pattern Recognition Letters*, Vol. 161, pp. 20-37, 2022.
 
-- A. Tamayo, **J.D. Arias-Londoño**, D. Burgos, G. Quiroz.  <a href="https://revistalenguaje.univalle.edu.co/index.php/lenguaje/%20article%20/view%20/7937" target="_blank">Sentiment Analysis of News Articles in Spanish using Predicate Features</a>. Lenguaje, vol. 47, no. 2, pp 235-267, 2019.
+- **R. Tolosana**, R. Vera-Rodriguez, C. Gonzalez-Garcia, J. Fierrez, A. Morales, J. Ortega-Garcia, J. C. Ruiz-Garcia, S. Romero-Tapiador, S. Rengifo, M. Caruana, J. Jiang, S. Lai, L. Jin, Y. Zhu, J. Galbally, M. Diaz, M. Ferrer, M. Gomez-Barrero, I. Hodashinsky, K. Sarin, A. Slezkin, M. Bardamova, M. Svetlakov, M. Saleem, C. Szucs, B. Kovari, F. Pulsmeyer, M. Wehbi, D. Zanca, S. Ahmad, S. Mishra and S. J. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322000905" target="_blank">SVC-onGoing: Signature Verification Competition</a>. *Pattern Recognition*, Vol. 127, 108609, 2022.
 
-- J. Jaramillo, **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/8781973" target="_blank">Automatic classification of event logs sequences for failure detection in WfM/BPM systems</a>. 2nd IEEE Colombian Conference on Applications in Computational Intelligence - COLCACI 2019.
+- G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, A. Acien and G. L. Lan. <a href="https://www.sciencedirect.com/science/article/pii/S016786552200071X" target="_blank">Mobile Behavioral Biometrics for Passive Authentication</a>. *Pattern Recognition Letters*, Vol. 157, pp. 35-41, 2022.
 
-- L.V. Cobaleda, J.F. Duitama, G. Melo-Acosta,  **J.D. Arias-Londoño**. <a href="https://www.proquest.com/openview/530e6137e025d797ad4efec1b5d25048/1" target="_blank">Modular and Evolutionary architecture for high availability transactional systems with intelligent components</a>. The 2019 World Congress in Computer Science, Computer Engineering, & Applied computing.  [Open access]
+- P. Delgado-Santos, G. Stragapede, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://dl.acm.org/doi/full/10.1145/3510579" target="_blank">A Survey of Privacy Vulnerabilities of Mobile Device Sensors</a>. *ACM Computing Surveys*, no. 224, pp. 1-30, 2022.
 
-2018
-----
+- **R. Tolosana**, J. C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/9716145" target="_blank">Child-Computer Interaction with Mobile Devices: Recent Works, New Dataset, and Age Detection</a>. *IEEE Transactions on Emerging Topics in Computing*, pp. 1-13, 2022.
 
-- A. M. Sabogal-Guaqueta, J. G. Villamil, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00989/full" target="_blank">Inverse Phosphatidylcholine/Phosphatidylinositol Levels as Peripheral Biomarkers and Phosphatidylcholine/Lysophosphatidylethanolamine-Phosphatidylserine as a Central Indicator of Postischemic Cognitive Impairment in Rats</a>. Frontiers in Neuroscience, section Neurodegeneration, vol. 12, Paper 989, 2018.
+- A. Morales, J. Fierrez, A. Acien, **R. Tolosana** and I. Serna. <a href="https://www.sciencedirect.com/science/article/pii/S0031320321004635" target="_blank">SetMargin Loss applied to Deep Keystroke Biometrics with Circle Packing Interpretation</a>. *Pattern Recognition*, Vol. 122, 108283, 2022.
 
-- M.A. Giraldo Londoño, J.F. Duitama, **J.D. Arias-Londoño**. <a href="https://link.springer.com/chapter/10.1007/978-3-030-03023-0_12" target="_blank">Cost-Balance Setting of MapReduce and Spark-Based Architectures for SVM</a>. In: Orjuela-Cañón A., Figueroa-García J., Arias-Londoño J. (eds) Applications of Computational Intelligence. Communications in Computer and Information Science, vol 833, pp 137-149. Springer, Cham, 2018.
+**2021**
 
-- **J.D. Arias-Londoño**, J.A. Gómez-García, L. Moro-Velázquez, J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/document/8622498" target="_blank">ByoVoz Automatic Voice Condition Analysis System for the 2018 FEMH Challenge</a>. Proceedings of the IEEE International Conference on Big Data, 2018.
+- P. Melzi, **R. Tolosana**, A. Cecconi, A. Sanz‑Garcia, G. Ortega, L. Jimenez‑Borreguero and R. Vera-Rodriguez. <a href="https://www.nature.com/articles/s41598-021-02179-1" target="_blank">Analyzing Artificial Intelligence Systems for the Prediction of Atrial Fibrillation from Sinus‑Rhythm ECGs Including Demographics and Feature Visualization</a>. *Scientific Reports*, Vol. 11, 2021.
 
-- A. M. Sabogal-Guáqueta, R. Posada-Duque, Natalie Charlotte Cortes, **J.D. Arias-Londoño**, G.P. Cardona-Gómez. <a href="https://www.sciencedirect.com/science/article/pii/S0028390818301709" target="_blank">Changes in the hippocampal and peripheral phospholipid profiles are associated with neurodegeneration hallmarks in a long-term global cerebral ischemia model: Attenuation by Linalool</a>. Neuropharmacology, vol. 135, pp 555-571, 2018.
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/9335993" target="_blank">DeepSign: Deep On-Line Signature Verification</a>. *IEEE Transactions on Biometrics, Behavior, and Identity Science*, Vol. 3, pp. 229-239, 2021.
 
-- J.G. Villamil-Ortiz, A. Barrera-Ocampo, **J.D. Arias-Londoño**, A. Villegas, F. Lopera, G.P. Cardona-Gómez. <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad170554" target="_blank">Differential Pattern of Phospholipid Profile in the Temporal Cortex from E280A-Familiar and Sporadic Alzheimer’s Disease Brains</a>. Journal of Alzheimer's Disease, vol. 61, no. 1, pp 209-219, 2018.
+- A. Morales, J. Fierrez, R. Vera-Rodriguez and **R. Tolosana**. <a href="https://ieeexplore.ieee.org/document/9163294" target="_blank">SensitiveNets: Learning Agnostic Representations with Application to Face Images</a>. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, Vol. 43, n. 6, pp. 2158-2164, 2021.
 
-- M. Giraldo, J.F. Duitama, **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/8484855" target="_blank">MapReduce and Spark-based architecture for bi-class classification using SVM</a>. Colombian Conference on Applications in Computational Intelligence - COLCACI 2018.
+**2020**
 
-- J. Uirbe, **J.D. Arias-Londoño**, and A. Perera-Lluna. <a href="https://www.scitepress.org/Papers/2018/66479/66479.pdf" target="_blank">Protein Disorder Prediction Using Jumping Motifs from Torsion Angles Dynamics in Ramachandran Plots</a>. BIOSTEC- BIOINFORMATICS 2018. **Best paper student award**.
+- **R. Tolosana**, R. Vera-Rodriguez, R. Guest, J. Fierrez and J. Ortega-Garcia. <a href="https://link.springer.com/article/10.1007/s10032-020-00351-3" target="_blank">Exploiting Complexity in Pen- and Touch-based Signature Biometrics</a>. *International Journal on Document Analysis and Recognition*, Vol. 23, pp. 129-141, 2020.
 
-2017
-----
+- M. Faundez-Zanuy, J. Fierrez, M. A. Ferrer, M. Diaz, **R. Tolosana** and R. Plamondon. <a href="https://link.springer.com/article/10.1007/s12559-020-09755-z" target="_blank">Handwriting Biometrics: Applications and Future Trends in e-Security and e-Health</a>. *Cognitive Computation*, Vol. 12, pp. 940-953, 2020.
 
-- G. Melo-Acosta, F. Duitama-Muñoz, and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/8088206" target="_blank">Fraud Detection in Big Data using Supervised and Semi-Supervised Learning Techniques</a>. COLCOM 2017.
+- E. Gonzalez-Sosa, P. Perez, **R. Tolosana**, R. Kachach and A. Villegas. <a href="https://ieeexplore.ieee.org/document/9152989" target="_blank">Enhanced Self-Perception in Mixed Reality: Egocentric Arm Segmentation and Database with Automatic Labelling</a>. *IEEE Access*, Vol. 8, pp. 146887-146900, 2020.
 
-- J. Uirbe, **J.D. Arias-Londoño**, and A. Perera-Lluna. <a href="https://www.scitepress.org/Papers/2017/61405/pdf/index.html" target="_blank">Protein disorder prediction using information theory measures on the distribution of the dihedral torsion angles from Ramachandran plots</a>. BIOSTEC- BIOINFORMATICS 2017. **Best paper award**.
+- O. Delgado-Mohatar, J. Fierrez, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2003.09262" target="_blank">Blockchain meets Biometrics: Concepts, Application to Template Protection, and Trends</a>. *arXiv preprint arXiv: 2003.09262*, 2020.
 
-- J.E. Salazar-Jiménez, J.D. Sánchez-Carvajal, B. Quiros-Gómez, and **J.D. Arias-Londoño**. <a href="https://www.scitepress.org/papers/2017/61418/61418.pdf" target="_blank">Automatic feature selection in the SOPFs dissolution profile prediction problem</a>. BIOSTEC-BIOINFORMATICS 2017.
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/abstract/document/8998358" target="_blank">BioTouchPass2: Touchscreen Password Biometrics Using Time-Aligned Recurrent Neural Networks</a>. *IEEE Transactions on Information Forensics and Security*, Vol. 5, pp. 2616-2628, 2020.
 
-2016
-----
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, A. Morales and J. Ortega-Garcia. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253520303110" target="_blank">DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection</a>. *Information Fusion*, Vol. 64, pp. 131-148, 2020.
 
-- J.G. Villamil-Ortiz, A. Barrera-Ocampo, D. Piedrahita, C.M. Velásquez-Rodríguez, **J.D. Arias-Londoño** and G.P. Cardona-Gómez. <a href="https://www.frontiersin.org/articles/10.3389/fncel.2016.00260/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cellular_Neuroscience&id=204795" target="_blank">BACE1 RNAi Restores the Composition of Phosphatidylethanolamine-Derivates Related to Memory Improvement in Aged 3xTg-AD Mice</a>. Front. Cell. Neurosci. 10:260. 2016.
+- J. C. Neves, **R. Tolosana**, R. Vera-Rodriguez, V. Lopes, H. Proenca and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/9133490" target="_blank">GANprintR: Improved Fakes and Evaluation of the State of the Art in Face Manipulation Detection</a>. *IEEE Journal of Selected Topics in Signal Processing*, Vol. 14, pp. 1038-1048, 2020.
 
-- G. Zapata-Zapata, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, J.R. Orozco-Arroyave. <a href="https://revistas.udea.edu.co/index.php/ingenieria/article/view/22931" target="_blank">On-line signature verification using Gaussian Mixture Models and small-sample learning strategies</a>. Redin, no. 79, pp 84-97, 2016.
+- **R. Tolosana**, R. Vera-Rodriguez, R. Guest, J. Fierrez and J. Ortega-Garcia. <a href="https://link.springer.com/article/10.1007/s10032-020-00351-3" target="_blank">Exploiting Complexity in Pen-and Touch-based Signature Biometrics</a>. *International Journal on Document Analysis and Recognition*, n. 23, pp. 129–141, 2020.
 
-- J.R. Orozco-Arroyave, F. Hönig, **J.D. Arias-Londoño**, J. F. Vargas-Bonilla, K. Daqrouq, S. Skodda, J. Rusz and E. Nöth. <a href="https://asa.scitation.org/doi/full/10.1121/1.4939739" target="_blank">Automatic detection of Parkinson's disease in running speech spoken in three different languages</a>. The Journal of the Acoustical Society of America. vol. 139, no. 1, pp 481-500, 2016.
+- **R. Tolosana**, R. Vera-Rodriguez and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/8691794" target="_blank">BioTouchPass: Handwritten Passwords for Touchscreen Biometrics</a>. *IEEE Transactions on Mobile Computing*, Vol. 19, n. 7, pp. 1532-1543, 2020.
 
-- **J.D. Arias-Londoño**, J.E. Salazar-Jiménez, and B. Quiros-Gómez. DISOLPHARM - An Intelligent Computational Tool for Management and Prediction of Drug Dissolution Test/Profiles. IDIFARMA 2016.
+**2019**
 
-- J.R. Orozco-Arroyave, J.C. Vásquez-Correa, F. Höning, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, S. Skodda, J. Rusz, E. Noth. <a href="https://ieeexplore.ieee.org/document/7472927" target="_blank">Towards an automatic monitoring of the neurological state of Parkinson's patients from speech</a>. ICASSP, 2016.
+- **R. Tolosana**, M. Gomez-Barrero, C. Busch and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8794818" target="_blank">Biometric Presentation Attack Detection: Beyond the Visible Spectrum</a>. *IEEE Transactions on Information Forensics and Security*, Vol. 15, pp. 1261-1275, 2019.
 
-2015
-----
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-bmt.2018.5259" target="_blank">Reducing the Template Aging Effect in On-Line Signature Biometrics</a>. *IET Biometrics*, Vol. 8, n. 6, pp. 422-430, 2019.
 
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente. <a href="https://www.mdpi.com/1099-4300/17/6/3595" target="_blank">Entropies from Markov models as complexity measures of embedded attractors</a>. Entropy, vol. 17, no. 6, pp 3595-3620, 2015.
+**2018**
 
-- J.R. Orozco-Arroyave, F. Hönig, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla and E. Nöth. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.12106" target="_blank">Spectral and cepstral analyzes for Parkinson's disease detection in Spanish vowels and words</a>.  Expert Systems, vol. 32, no. 6, pp 688-697, 2015.
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/8259229" target="_blank">Exploring Recurrent Neural Networks for On-Line Handwritten Signature Biometrics</a>. *IEEE Access*, Vol. 6, pp. 5128-5138, 2018.
 
-- J.R.Orozco-Arroyave, E.A.Belalcazar-Bolaños, **J.D. Arias-Londoño**, J.F.Vargas-Bonilla, S.Skodda, J.Rusz, K.Daqrouq, F.Hönig, and E. Nöth. <a href="https://ieeexplore.ieee.org/document/7192603" target="_blank">Characterization Methods for the Detection of Multiple Voice Disorders: Neurological, Functional, and Laryngeal Diseases</a>. IEEE Transactions on Biomedical and Health Informatics, vol. 9, no. 6, pp 1820-1828, 2015.
+**2017**
 
-- J.C. Vásquez-Correa, T. Arias-Vergara, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, and E. Nöth. <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2015/Vasquez-Correa15-ADO.pdf" target="_blank">Automatic detection of Parkinson's disease from continuous speech recorded in non-controlled noise conditions</a>. 16th Annual Conference of the International Speech Communication Association, INTERSPEECH 2015.
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, A. Morales and J. Ortega-Garcia. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176792" target="_blank">Benchmarking Desktop and Mobile Handwriting across COTS Devices: the e-BioSign Biometric Database</a>. *PLOS ONE*, Vol. 5, n. 12, 2017.
 
-- T. Villa-Cañas, **J.D. Arias-Londoño**, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, and E. Nöth. <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2015/Villa-Canas15-LCA.pdf" target="_blank">Low-frequency components analysis in running speech for the automatic detection of Parkinson's disease</a>. 16th Annual Conference of the International Speech Communication Association, INTERSPEECH 2015.  Finalist of the best paper student award.
+**2016**
 
-- J.R. Orozco-Arroyave, F. Hönig, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, S. Skodda, J. Rusz, and E. Nöth. <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2015/Orozco-Arroyave15-VTI.pdf" target="_blank">Voiced/unvoiced transitions in speech as a potential bio-marker to detect Parkinson's disease</a>. 16th Annual Conference of the International Speech Communication Association, INTERSPEECH 2015.
+- A. Morales, J. Fierrez, **R. Tolosana**, J. Ortega-Garcia, J. Galbally, M. Gomez-Barrero, A. Anjos and S. Marcel. <a href="https://ieeexplore.ieee.org/document/7738412" target="_blank">Keystroke Biometrics Ongoing Competition</a>. *IEEE Access*, Vol. 4, pp. 7736-7746, 2016.
 
-2014
-----
+**2015**
 
-- J.C. Vasquez-Correa, J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, E. Nöth. <a href="https://revistas.udea.edu.co/index.php/ingenieria/article/view/327870" target="_blank">New computer aided device for real time analysis  of speech of people with Parkinson’s disease </a>. Redin, vol. 1, no. 72, pp 87-103, 2014.
+- **R. Tolosana**, R. Vera-Rodriguez, J. Ortega-Garcia and J. Fierrez. <a href="https://ieeexplore.ieee.org/document/7104071" target="_blank">Preprocessing and Feature Selection for Improved Sensor Interoperability in Online Biometric Signature Verification</a>. *IEEE Access*, Vol. 3, pp. 478-489, 2015.
 
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, M.C. González-Rátiva, Elmar Nöth. <a href="https://aclanthology.org/L14-1549/" target="_blank">New Spanish speech corpus database for the analysis Parkinson’s disease </a>. Ninth International Conference on Language Resources and Evaluation, 2014.
 
-- D.H. Peluffo-Ordóñez, S. Murillo-Rendón, **J.D. Arias-Londoño**, G. Castellanos-Domínguez. <a href="https://www.researchgate.net/publication/277597185_A_multi-class_extension_for_multi-labeler_support_vector_machines" target="_blank">A multi-class extension for multi-labeler support vector machines</a>. European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2014.
 
-- J.R. Orozco-Arroyave , E.A. Belalcázar-Bolaños, **J.D. Arias-Londoño**, F. Vargas-Bonilla, T. Haderlein, E. Nöth.  <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2014/Orozco14-PAA.pdf" target="_blank">Phonation and Articulation Analysis of Spanish Vowels for Automatic Detection of Parkinson’s Disease </a>. In: Sojka P., Horák A., Kopeček I., Pala K. (eds) Text, Speech and Dialogue. TSD 2014. Lecture Notes in Computer Science, vol 8655. Springer, Cham
-
-2013
-----
-
-- J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, S. Murillo-Rendón, G.Castellanos-Domínguez, J.F. Garcés. <a href="https://link.springer.com/article/10.1007/s12559-012-9166-z" target="_blank">Nonlinear Dynamics for Hypernasality Detection in Spanish Vowels and Words</a>. Cognitive Computation, vol. 5, no. 4, pp 448-457, 2013.
-
-- S. Murillo-Rendón, D. Peluffo-Ordóñez, **J.D. Arias-Londoño**, and C.G. Castellanos-Domínguez. <a href="https://link.springer.com/chapter/10.1007/978-3-642-38637-4_28" target="_blank">Multi-labeler Analysis for Bi-class Problems Based on Soft-Margin Support Vector Machines </a>. Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 274-282, Springer-Verlag, 2013.
-
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="https://link.springer.com/chapter/10.1007/978-3-642-38637-4_21" target="_blank">Perceptual Analysis of Speech Signals from People with Parkinson's Disease </a>. Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 201-211, Springer-Verlag, 2013.
-
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2013/Orozco13-AOS.pdf" target="_blank"> Analysis of Speech from People with Parkinson's Disease through Nonlinear Dynamics </a>. Series Advances in Nonlinear Speech Processing - Lecture Notes in Computer Sciences, NOLISP2013, volume 7911, pages 112-119, Springer-Verlag, 2013.
-
-- E.A. Belalcazar-Bolaños, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, C.G. Castellanos-Domínguez and E. Nöth. <a href="https://www.springerprofessional.de/en/new-cues-in-low-frequency-of-speech-for-automatic-detection-of-p/4111878" target="_blank"> New Cues in Low-Frequency of Speech for Automatic Detection of Parkinson’s Disease </a>. Series Natural and Artificial Models in Computation and Biology - Lecture Notes in Computer Science, volume 7930, pages 283-292, Springer-Verlag, 2013.
-
-2012
-----
-
-- V. Osma-Ruiz, J.I. Godino-Llorente, N. Sáenz-Lechón, J.M. Gutiérrez-Arriola, **J.D. Arias-Londoño**, R. Fraile, B. Scola-Yurrita. <a href="https://www.sciencedirect.com/science/article/pii/S1746809411001066" target="_blank">Towards collaborative work among speech therapists, phonatricians, and ENT professionals. Analysis of the impact of ciphering techniques in the performance of an integrated tool for the diagnosis of voice disorders </a>. Biomedical Signal Processing & Control, vol. 7, no. 1, pp 27-36, 2012.
-
-- J.R. Orozco-Arroyave, **J.D. Arias-Londoño**, J F Vargas-Bonilla and E. Nöth. <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2012/OrozcoArroyave12-ADO.pdf" target="_blank">Automatic detection of hypernasal speech signals using nonlinear and entropy measurements </a>. 13th Annual Conference of the International Speech Communication Association, Interspeech 2012.
-
-- J.M. Gutiérrez-Arriola, V. Osma-Ruiz, N. Sáenz-Lechón, J.I. Godino-Llorente, R. Fraile and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/6347214/" target="_blank">Objective measurements to evaluate glottal space segmentation from laryngeal images</a>. 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC2012.
-
-2011
-----
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, M. Markaki, and Y. Stylianou. <a href="https://www.tandfonline.com/doi/full/10.3109/14015439.2010.528788?casa_token=AAoiaPJprGUAAAAA%3AgZvr1X89McnqYlyO3hjHaEV3T75wMQgGFGNjFqAjnEXp8GRsHfm6_gJUO6JeyhlTcC4DMwzm05deX6E" target="_blank">On combining information from modulation spectra and mel-frequency cepstral coefficients for automatic detection of pathological voices</a>. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 60-69, 2011.
-
-- N. Sáenz-Lechón, R. Fraile, J.I. Godino-Llorente, R. Fernández-Baillo, V. Osma-Ruiz, J.M. Gutiérrez-Arriola, and **J.D. Arias-Londoño**. <a href="https://www.tandfonline.com/doi/full/10.3109/14015439.2010.517551?casa_token=C0KxhmX_OacAAAAA%3AQUf_cEzprWT03hlrC3rNzuyPS3qugxxZfwxaCw72zhqe5ezvDgw4LR6LhAgcuurgpwJp2LErO-AHGpk" target="_blank">Towards objective evaluation of perceived roughness and breathiness based on mel-frequency cepstral analysis</a>. Logopedics Phoniatrics Vocology, vol. 36, no. 2, pp 52-59, 2011.
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. <a href="https://ieeexplore.ieee.org/abstract/document/5605660" target="_blank">Automatic detection of pathological voices using complexity measurements, noise parameters and mel-cepstral coefficients </a>. IEEE Transactions on Biomedical Engineering, vol. 58, no. 2, pp 370-379, 2011.
-
-- J.R. Orozco-Arroyave, S. Murillo-Rendón, J.F. Vargas-Bonilla, **J.D. Arias-Londoño**, E. Delgado-Trejos, and C.G. Castellanos-Domínguez. <a href="https://link.springer.com/chapter/10.1007/978-3-642-25020-0_27" target="_blank">Nonlinear dynamics for hypernasality detection</a>. Series Advances in Nonlinear Speech Processing - Lecture Notes in Computer Sciences, NOLISP2011, volume 7015, pages 207-214, Springer-Verlag, 2011.
-
-- S. Murillo-Rendón, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, **J.D. Arias-Londoño** and C.G. Castellanos-Domínguez. <a href="https://link.springer.com/chapter/10.1007/978-3-642-21326-7_19" target="_blank">Automatic detection of Hypernasality in Children</a>. Series New Challenges on Bioinspired Applications - Lecture Notes in Computer Sciences,volume 6687, Part II, pages 167-174, Springer-Verlag, 2011.
-
-- J.I. Godino-Llorente, **J.D. Arias-Londoño**, N. Sáenz-Lechón, V. Osma-Ruiz, G. Castellanos-Domínguez and J.M. Gutiérrez-Arriola. Automatic assessment of pathological voice signals based on noise, cepstral and nonlinear features, 9th Pan European Voice Conference, 8th Workshop of the European Laryngological Society, PEVOC2011. **Invited paper**.
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz and J.M. Gutiérrez-Arriola. Automatic GRBAS assessment using complexity measures and a multi-class GMM-based detector, 7th Workshop on Models and Analysis of Vocal Emissions for Biomedical Applications, MAVEBA2011.
-
-- J.R. Orozco-Arroyave, S. Murillo-Rendón, A.M. Álvarez-Meza, **J.D. Arias-Londoño**, J.F. Vargas-Bonilla, and C.G. Castellanos-Domínguez. <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.658.7296&rep=rep1&type=pdf" target="_blank">Automatic selection of acoustic and non-linear dynamic features in voice signals for hypernasality detection</a>. 12th Annual Conference of the International Speech Communication Association, Interspeech2011.
-
-2010
-----
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, N. Sáenz-Lechón, V. Osma-Ruiz, and G. Castellanos-Domínguez. <a href="https://www.sciencedirect.com/science/article/pii/S0031320310001391" target="_blank">An improved method for voice pathology detection by means of a HMM-based feature space transformation</a>. Pattern Recognition, vol. 43, no. 9, pp 3100-3112, 2010.
-
-- M. Markaki, Y. Stylianou, **J.D. Arias-Londoño**, and J.I. Godino-Llorente. <a href="https://ieeexplore.ieee.org/abstract/document/5495020" target="_blank">Dysphonia detection based on modulation spectral features and cepstral coefficients</a>. Proceedings of 35th IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP2010.
-
-2009
-----
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, J.A. Jaramillo-Garzón, and G. Castellanos-Domínguez. <a href="http://tesis.udea.edu.co/bitstream/10495/13364/1/JulianArias_2009_Classificationstochasticmodels.pdf" target="_blank">Dissimilarity-based classification for stochastic models of embedding spaces applied to voice pathology detection </a>. Rev. Fac. Ing. Univ. Antioquia, vol. 1, no. 50, pp 102-112, 2009.
-
-- G. Daza-Santacoloma, **J.D. Arias-Londoño**, N. Sáenz-Lechón, Victor Osma-Ruiz, J.I. Godino- Llorente, and G. Castellanos-Domínguez. <a href="https://www.tandfonline.com/doi/abs/10.1080/10798587.2009.10643056" target="_blank">Dynamic feature extraction: an application to voice pathology detection</a>. Intelligent Automation and Soft Computing, vol. 15, no. 4, pp 665-680, 2009.
-
-- V. Osma-Ruiz, J.M. Gutiérrez-Arriola, J.I. Godino-Llorente, N. Sáenz-Lechón, R. Fraile, and **J.D. Arias-Londoño**. Advanced pre-processing of larynx images to improve the segmentation of glottal area. Proceedings of 6th International Workshop on Models and Analysis of Vocal Emissions for Biomedical Applications, MAVEBA2009.
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, G. Castellanos-Domínguez, N. Sáenz-Lechón, and V. Osma-Ruiz. <a href="https://ieeexplore.ieee.org/abstract/document/5334996" target="_blank">Complexity Analysis of Pathological Voices by means of Hidden Markov Entropy measurements</a>. Proceedings 31st Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC2009. **Finalist of the best paper student award**.
-
-- **J.D. Arias-Londoño**, J.I. Godino-Llorente, and G. Castellanos-Domínguez. Short time analysis of pathological voices using complexity measures. Proceedings 3rd Advanced Voice Function Assessment International Workshop, AVFA2009.
-
-- M.O. Sarria-Paja, **J.D. Arias-Londoño**, J.I. Godino-Llorente, and G. Castellanos-Domínguez. On improvement of discriminative HMM training for pathological voice classification. Proceedings 3rd Advanced Voice Function Assessment International Workshop, AVFA2009.
-
-2008
-----
-
-- N. Sáenz-Lechón, V. Osma-Ruiz, J.I. Godino-Llorente, M. Blanco-Velasco, F. Cruz-Roldán, and **J.D. Arias-Londoño**. <a href="https://ieeexplore.ieee.org/document/4494380" target="_blank">Effects of audio compression in automatic detection of voice pathologies</a>. IEEE Transactions on Biomedical Engineering, vol. 55, no. 12, pp 2831-2835, 2008.
-
-2007
-----
-
-- J.A. Jaramillo-Garzón, **J.D. Arias-Londoño**, and G. Castellanos-Domínguez. Spanish: <a href="https://revistas.utp.edu.co/index.php/revistaciencia/article/view/4021" target="_blank">Método híbrido de sintonización para algoritmos genéticos a partir de regresión por vectores de soporte</a>. Scientia et Technica, vol. XIII, no. 37, 2007.
-
-- **J.D. Arias-Londoño**, G. Castellanos-Domínguez, and J.I. Godino-Llorente. Spanish: <a href="https://revistas.utp.edu.co/index.php/revistaciencia/article/view/5331" target="_blank">Diseño simultáneo de una etapa de extracción de características y un clasificador basado en HMM</a>. Scientia et Technica, vol. XIII, no. 35, 2007.
