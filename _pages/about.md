@@ -40,6 +40,8 @@ News
 
 - **September, 2021:** Co-Organizer of the [ICDAR 2021 Competition on On-Line Signature Verification (SVC 2021)](https://sites.google.com/view/SVC2021/home). 
 
+- **July, 2019:** Local Organization Committee and Poster Chair of the [9th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2019)](http://www.ibpria.org/2019/).
+
 - **October, 2018:** I have been accepted as Editorial Board in the [IEEE Biometrics Council Newsletter](http://ieee-biometrics.org/index.php/publications/newsletter).
 
 - **September, 2018:** I received the [EAB Industry Award](https://eab.org/award/reports/report2018.html?ts=1651190400055) by the European Association for Biometrics (EAB).
