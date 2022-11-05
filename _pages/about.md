@@ -17,7 +17,7 @@ About me
 
 &nbsp;
 
-News :exclamation:
+News 
 ======
 
 - **November, 2022:** I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
