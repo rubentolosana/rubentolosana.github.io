@@ -13,16 +13,14 @@ redirect_from:
 About me
 ======
 
-<div style="text-align: justify">I received the M.Sc. degree in Telecommunication Engineering, and the Ph.D. degree in Computer and Telecommunication Engineering, from Universidad Autonoma de Madrid, in 2014 and 2019, respectively. In 2014, I joined the Biometrics and Data Pattern Analytics - BiDA Lab at the Universidad Autonoma de Madrid, where I'm currently Assistant Professor. I'm also a member of the [ELLIS Society](https://ellis.eu/members) and Editorial Board of the [IEEE Biometrics Council Newsletter](http://ieee-biometrics.org/index.php/publications/newsletter).
-  
-  My research interests are mainly focused on signal and image processing, pattern recognition, and machine learning, particularly in the areas of DeepFakes, Human-Computer Interaction, Biometrics, and Health. </div>   
+<div style="text-align: justify">I received the M.Sc. degree in Telecommunication Engineering, and the Ph.D. degree in Computer and Telecommunication Engineering, from Universidad Autonoma de Madrid, in 2014 and 2019, respectively. In 2014, I joined the Biometrics and Data Pattern Analytics - BiDA Lab at the Universidad Autonoma de Madrid, where I'm currently Assistant Professor. I'm a member of the <a href="https://ellis.eu/" target="_blank">ELLIS Society</a> (European Laboratory for Learning and Intelligent Systems) and Editorial Board of the <a href="http://ieee-biometrics.org/index.php/publications/newsletter" target="_blank">IEEE Biometrics Council Newsletter</a>. My research interests are mainly focused on signal and image processing, pattern recognition, and machine learning, particularly in the areas of DeepFakes, Human-Computer Interaction, Biometrics, and Health. </div>   
 \
 &nbsp;
 
 News
 ======
 
-- 19/07/2022 I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
+- 03/11/2022 I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
 
 - 29/09/2021 I was invited to give a talk on [Introduction to Bayesian optimization](https://es-la.facebook.com/CienciasEconomicasUdeA/videos/4184039641719094/) at the School of Economics, Universidad de Antioquia.
 
