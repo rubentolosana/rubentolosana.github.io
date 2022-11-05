@@ -11,9 +11,9 @@ title                    : "Ruben Tolosana"
 title_separator          : "-"
 name                     : &name "Ruben Tolosana"
 description              : &description "personal description"
-url                      : https://jdariasl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rubentolosana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jdariasl/jdariasl.github.io"
+repository               : "rubentolosana/rubentolosana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julián Arias-Londoño"
-  avatar           : "profile.png"
-  bio              : "Senior Researcher<br /> Universidad Politécnica de Madrid"
+  name             : "Ruben Tolosana"
+  avatar           : "IMG_6134.jpg"
+  bio              : "Assistant Professor<br /> Universidad Autónoma de Madrid"
   location         : "Madrid, Spain."
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Arias-Londo%C3%B1o+JD&cauthor_id=21073260"
-  googlescholar    : "https://scholar.google.com/citations?user=ZTdSU3wAAAAJ&hl=en"
-  email            : "julian.arias@upm.es"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en"
+  email            : "ruben.tolosana@uam.es"
+  researchgate     : "https://www.researchgate.net/profile/Ruben-Tolosana"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jdariasl"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "julian-d-arias-londoño-17a75226"
-  orcid            : "https://orcid.org/0000-0002-1928-773X"
+  linkedin         : "https://es.linkedin.com/in/ruben-tolosana-975878100"
+  orcid            : "https://orcid.org/0000-0002-9393-3066"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "judaarlo"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
