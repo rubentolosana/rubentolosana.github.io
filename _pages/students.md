@@ -11,7 +11,12 @@ Paula Delgado-Santos
 -----
 
 <p> 
-<img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150">Texto tan extenso como queramos que cubrirá la parte derecha de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
+<img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
+<DIV align="center">
+ <P>PhD Candidate (Universidad Autónoma de Madrid)
+ <P>Thesis: Towards New Discrimination-aware Learning Methods
+ <P>Supervisors: Aythami Morales and Javier Ortega-García
+</DIV>
 </p>
 
 <br>
@@ -19,11 +24,7 @@ Paula Delgado-Santos
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 Giuseppe Stragapede
 -----
