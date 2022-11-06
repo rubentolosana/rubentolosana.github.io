@@ -6,12 +6,10 @@ author_profile: true
 ---
 
 
-Paula Delgado-Santos
------
+<p align="left">Paula Delgado-Santos</p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
-<DIV align="center">
  <p>
  <p>PhD Candidate (Universidad Autónoma de Madrid)
  <p>Thesis: Towards New Discrimination-aware Learning Methods
@@ -25,9 +23,7 @@ Paula Delgado-Santos
 <br/>
 
 
-
-Giuseppe Stragapede
------
+<p align="left">Giuseppe Stragapede</p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
@@ -45,5 +41,5 @@ Giuseppe Stragapede
 <br>
 <br>
 
- prueba2
+ prueba3
 
