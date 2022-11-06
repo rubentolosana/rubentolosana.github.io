@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-![Cartoon](images/profileRT.JPG?raw=true)
+![Foto](images/profileRT.JPG?raw=true)
 
 Current PhD students:
 *    Oscar Sainz (2020-)
