@@ -12,10 +12,10 @@ author_profile: true
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
 <DIV align="center">
- <P>
- <P>PhD Candidate (Universidad Autónoma de Madrid)
- <P>Thesis: Towards New Discrimination-aware Learning Methods
- <P>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>
+ <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Thesis: Towards New Discrimination-aware Learning Methods
+ <p>Supervisors: Aythami Morales and Javier Ortega-García
 </DIV>
 </p>
 
@@ -31,10 +31,10 @@ author_profile: true
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
 <DIV align="center">
- <P>
- <P>PhD Candidate (Universidad Autónoma de Madrid)
- <P>Thesis: Towards New Discrimination-aware Learning Methods
- <P>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>
+ <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Thesis: Towards New Discrimination-aware Learning Methods
+ <p>Supervisors: Aythami Morales and Javier Ortega-García
 </DIV>
 </p>
 
