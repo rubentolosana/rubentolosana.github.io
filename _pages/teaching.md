@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 Master Degrees
-======
+-----
 
 - [Image Processing and Computer Vision (IPCV)](https://www.uam.es/ss/Satellite?c=Page&cid=1446763361143&language=en&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal)\
 Universidad Autonoma de Madrid
@@ -25,7 +26,7 @@ Universidad Autonoma de Madrid
 
 
 Bachelor Degrees
-======
+-----
 
 - [Biomedical Engineering](https://www.uam.es/EPS/IngenieriaBiomedica/1446800382089.htm?language=en&nodepath=Biomedical%20Engineering)\
 Universidad Autonoma de Madrid
