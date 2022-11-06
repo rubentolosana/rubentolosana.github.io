@@ -12,8 +12,8 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/paula.jpg" align="left" height="350" width="200"> 
 <DIV align="center">
  <p>
- <p>Supervisors: Ruben Tolosana and Richard Guest
- <p>Thesis: Towards New Discrimination-aware Learning Methods
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://www.kent.ac.uk/engineering/people/669/guest-richard">Richard Guest</a>
+ <p><b>Thesis:</b> Mobile Device Background Sensors: Authentication vs Privacy
  <p><a href="https://scholar.google.es/citations?hl=en&user=-UgABOgAAAAJ">Google Scholar</a> 
 </p>
 
@@ -30,9 +30,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/giuseppe.jpg" align="left" height="350" width="200"> 
 <DIV align="center">
  <p>
- <p>Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez
- <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Quantifying Privacy with Application to Mobile User Interaction
+ <p><a href="https://scholar.google.es/citations?user=98KBPccAAAAJ&hl=en&oi=ao">Google Scholar</a>
 </p>
 
 <br>
@@ -50,9 +50,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/pietror.PNG" align="left" height="350" width="200"> 
 <DIV align="center">
  <p>
- <p>Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez
- <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Quantifying Privacy in Human-Computer Interfaces
+ <p><a href="https://scholar.google.es/citations?user=iGAKK84AAAAJ&hl=en&oi=ao">Google Scholar</a>
 </p>
 
 <br>
@@ -70,9 +70,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/juancarlos.PNG" align="left" height="350" width="200"> 
 <DIV align="center">
  <p>
- <p>Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez
- <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Analysis of Human-Machine Interaction for Digital Health
+ <p><a href="https://scholar.google.es/citations?user=CTaqwlYAAAAJ&hl=es&oi=ao">Google Scholar</a>
 </p>
 
 <br>
@@ -90,9 +90,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/sergio.PNG" align="left" height="350" width="200"> 
 <DIV align="center">
  <p>
- <p>Supervisors: Ruben Tolosana and Aythami Morales
- <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://aythami.me/">Aythami Morales</a>
+ <p><b>Thesis:</b> Artificial Intelligence Applied to Precision Nutrition
+ <p><a href="https://scholar.google.es/citations?user=fjh1KJUAAAAJ&hl=es&oi=ao">Google Scholar</a>
 </p>
 
 <br>
