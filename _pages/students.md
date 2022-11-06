@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-<p align="left"><H1>Paula Delgado-Santos</H1></p>
+<p align="left"><H2>Paula Delgado-Santos</H2></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
@@ -23,7 +23,7 @@ author_profile: true
 <br/>
 
 
-<p align="left"><H2><b>Giuseppe Stragapede</b></H2></p>
+<p align="left"><H2>Giuseppe Stragapede</H2></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
@@ -40,5 +40,5 @@ author_profile: true
 <br>
 <br>
 
- prueba4
+ prueba5
 
