@@ -46,7 +46,7 @@ author_profile: true
 <p align="left"><b>Pietro Melzi</b></p>
 
 <p> 
-<img src="https://rubentolosana.github.io/images/pietro.jfif" align="left" height="300" width="150"> 
+<img src="https://rubentolosana.github.io/images/pietror.PNG" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
  <p>PhD Candidate (Universidad Autónoma de Madrid)
