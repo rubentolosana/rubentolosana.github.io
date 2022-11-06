@@ -5,75 +5,31 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- [Fundamentals of Deep Learning](https://rramosp.github.io/2021.deeplearning/intro.html)\
-Posgradute course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
-Every semestrer since 2018
+Master Degrees
+======
 
-- [Introduction to Machine Learning](https://jdariasl.github.io/ML_2020/intro.html)\
-Undergraduate course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
-Every semestrer since 2014
+- [Image Processing and Computer Vision (IPCV)](https://www.uam.es/ss/Satellite?c=Page&cid=1446763361143&language=en&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal)\
+Universidad Autonoma de Madrid
 
-- Probabilistic Machine Learning\
-Posgradute course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
-2014
+- [Deep Learning for Audio and Visual Signal Processing (MUDL4AVS)](https://www.uam.es/ss/Satellite?c=Page&cid=1446796837144&language=en&nodepath=Master%27s+Degree+in+Deep+Learning+for+Audio+and+Video+Signal+Processing&pagename=EscuelaPolitecnica%2FPage%2FUAM_contenidoFinal)\
+Universidad Autonoma de Madrid
 
-- Discrete-event systems simulation\
-Undergraduate course\
-Universidad de Antioquia, Dpto. of Systems Engineering and Computer Science\
-2012-2014
+- [Data Science (DS)](https://www.uam.es/EPS/MasterCD/1446800691531.htm?language=en&nodepath=M?ster%20Universitario%20en%20Ciencia%20de%20Datos)\
+Universidad Autonoma de Madrid
 
-- Digital Signal Processing\
-Undergraduate course\
-Universidad Antonio Nariño, Dpto. of Electronic and Biomedical Engineering\
-2011
+- [ICT Research and Innovation (I2ICSI)](https://www.uam.es/EPS/MasterTIC/1242668435853.htm?language=en&nodepath=Master%20in%20Research%20and%20Innovation%20in%20ICT%20(I%3Csup%3E2%3C/sup%3E-ICT))\
+Universidad Autonoma de Madrid
 
-- Introduction to Digital Electronics\
-Undergraduate course\
-Universidad Antonio Nariño, Dpto. of Electronic and Biomedical Engineering\
-2010
+- [Telecommunication Engineering (MUIT)](https://www.uam.es/EPS/MasterIT/1242674946858.htm?language=en&nodepath=Master%27s%20Degree%20in%20Telecommunication%20Engineering)\
+Universidad Autonoma de Madrid
 
 
-Students
-====
+Bachelor Degrees
+======
 
+- [Biomedical Engineering](https://www.uam.es/EPS/IngenieriaBiomedica/1446800382089.htm?language=en&nodepath=Biomedical%20Engineering)\
+Universidad Autonoma de Madrid
 
-Current PhD students
-----
+- [Telecommunication Engineering](https://www.uam.es/EPS/IngenieriaTecnologiasYServComunicacion/1446764162740.htm?language=en&nodepath=Telecommunication%20Technology%20and%20Service%20Engineering)\
+Universidad Autonoma de Madrid
 
-- Gabriel Darío Uribe Guerra\
-Woring in Bayesian Optimization for animal feeding diet design.
-
-
-Current master students
-----
-
-- Catalina Bustamante\
-Working in dynamic functional connectivity for neurological states detection and characterization.
-
-- Johnnatan Jaramillo\
-Working in process mining for fail detection.
-
-
-Past PhD students
-----
-
-- [Jonny Alexander Uribe](https://co.linkedin.com/in/jonny-alexander-uribe)\
-Senior Machine Learning Modeler at La Haus
-
-
-Past master students
-----
-
-- Mario Alberto Giraldo Londoño\
-Senior Data Engineer at Universiad de Antioquia.
-
-- Germán Eduardo Melo Acosta\
-Senior Data Scientist at Globant.
-
-- Jesús Antonio Tamayo Herrera\
-PhD student at Instituto Politécnico Nacional, México.
-
-- Tatiana Villa Cañas
