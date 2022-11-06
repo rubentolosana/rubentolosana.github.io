@@ -15,5 +15,5 @@ author_profile: true
               In Munich, I was the founder and president of a student-run management consultancy for non-profits, <a href="https://www.180dcmunich.org/">180DC Munich</a>. With great interdisciplinary colleagues, we have already helped more than 30 NGOs improve their impact measurement and effectivity.
             </td>
           </tr>
-  </tbody></table>
+</tbody></table>
 
