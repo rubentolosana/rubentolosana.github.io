@@ -23,7 +23,7 @@ author_profile: true
 <br/>
 
 
-<p align="left"><H2><strong>Giuseppe Stragapede</strong></H2></p>
+<p align="left"><H2><b>Giuseppe Stragapede</b></H2></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
