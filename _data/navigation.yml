@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Research"
+  - title: "Projects"
     url: /research/   
 
   - title: "Students"
@@ -12,8 +12,3 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Software"
-    url: /software/   
-
-  - title: "CV"
-    url: /cv/
