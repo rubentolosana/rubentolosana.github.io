@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Students"
 permalink: /students/
 author_profile: true
 ---
 
 
-<p align="left">Paula Delgado-Santos</p>
+<p align="left"><H1>Paula Delgado-Santos</H1></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
@@ -24,7 +23,7 @@ author_profile: true
 <br/>
 
 
-<p align="left">Giuseppe Stragapede</p>
+<p align="left"><H2><strong>Giuseppe Stragapede</strong></H2></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/profileRT.JPG" align="left" height="300" width="150"> 
