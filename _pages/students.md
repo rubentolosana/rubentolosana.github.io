@@ -16,7 +16,6 @@ Paula Delgado-Santos
  <p>PhD Candidate (Universidad Autónoma de Madrid)
  <p>Thesis: Towards New Discrimination-aware Learning Methods
  <p>Supervisors: Aythami Morales and Javier Ortega-García
-</DIV>
 </p>
 
 <br>
