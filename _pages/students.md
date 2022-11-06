@@ -8,7 +8,7 @@ author_profile: true
 <p align="left"><b>Paula Delgado-Santos</b></p>
 
 <p> 
-<img src="https://rubentolosana.github.io/images/paula.JPG" align="left" height="300" width="150"> 
+<img src="https://rubentolosana.github.io/images/paula.jpg" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
  <p>PhD Candidate (Universidad Autónoma de Madrid)
@@ -26,7 +26,7 @@ author_profile: true
 <p align="left"><b>Giuseppe Stragapede</b></p>
 
 <p> 
-<img src="https://rubentolosana.github.io/images/giuseppe.JPG" align="left" height="300" width="150"> 
+<img src="https://rubentolosana.github.io/images/giuseppe.jpg" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
  <p>PhD Candidate (Universidad Autónoma de Madrid)
@@ -46,7 +46,7 @@ author_profile: true
 <p align="left"><b>Pietro Melzi</b></p>
 
 <p> 
-<img src="https://rubentolosana.github.io/images/pietro.JFIF" align="left" height="300" width="150"> 
+<img src="https://rubentolosana.github.io/images/pietro.jfif" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
  <p>PhD Candidate (Universidad Autónoma de Madrid)
