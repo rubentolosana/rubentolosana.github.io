@@ -11,9 +11,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/paula.jpg" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
- <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Supervisors: Ruben Tolosana and Richard Guest
  <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>Google Scholar: 
 </p>
 
 <br>
@@ -29,9 +29,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/giuseppe.jpg" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
- <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez
  <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>
 </p>
 
 <br>
@@ -49,9 +49,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/pietror.PNG" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
- <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez
  <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>
 </p>
 
 <br>
@@ -69,9 +69,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/juancarlos.PNG" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
- <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez
  <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>
 </p>
 
 <br>
@@ -89,9 +89,9 @@ author_profile: true
 <img src="https://rubentolosana.github.io/images/sergio.PNG" align="left" height="300" width="150"> 
 <DIV align="center">
  <p>
- <p>PhD Candidate (Universidad Autónoma de Madrid)
+ <p>Supervisors: Ruben Tolosana and Aythami Morales
  <p>Thesis: Towards New Discrimination-aware Learning Methods
- <p>Supervisors: Aythami Morales and Javier Ortega-García
+ <p>
 </p>
 
 <br>
