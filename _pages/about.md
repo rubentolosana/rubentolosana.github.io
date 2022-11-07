@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **November, 2022:** Evaluator of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
+
 - **November, 2022:** I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
 
 - **2022:** General Co-Chair and Program Co-Chair of [The 18th IEEE Int. Conf. on Advanced Video and Signal-Based Surveillance (AVSS 2022)](http://atvs.ii.uam.es/avss2022/index.html).
