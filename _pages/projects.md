@@ -8,7 +8,7 @@ author_profile: true
 Participation as member of the research team:
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="275"> 
 </a>
 
 # (2021-2024) AI4Food
@@ -37,7 +37,7 @@ Participation as member of the research team:
 <br/>
   
  <a> 
-<img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="350"> 
+<img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="300"> 
 </a>
 
 # (2021-2024) AI4Food
