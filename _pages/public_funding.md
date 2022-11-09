@@ -8,7 +8,6 @@ author_profile: true
 Participation as member of the research team:
 
 <br>
-<br>
 
 <a> 
 <img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
