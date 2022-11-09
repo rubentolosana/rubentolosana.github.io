@@ -5,6 +5,8 @@ permalink: /students/
 author_profile: true
 ---
 
+<br>
+<br>
 
 <p align="left"><b>Paula Delgado-Santos</b></p>
 
