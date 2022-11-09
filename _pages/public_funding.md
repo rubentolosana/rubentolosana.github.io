@@ -7,8 +7,11 @@ author_profile: true
 
 Participation as member of the research team:
 
+<br>
+<br>
+
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="300"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
 </a>
 
 # (2022-2024) INTER-ACTION
