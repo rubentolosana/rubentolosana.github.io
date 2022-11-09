@@ -8,6 +8,35 @@ author_profile: true
 Participation as member of the research team:
 
 <a> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="300"> 
+</a>
+
+# (2022-2024) INTER-ACTION
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Human Interaction with Smart Devices in Security and Digital Health Domains</p>
+ <p><b>Type:</b> Spanish National R&D Program</p>
+ <p><b>Code:</b> PID2021-126521OB-I00</p>
+ <p><b>Funding:</b> ca. 220 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2022 - December 2024</p>
+ <p><b>Principal investigator(s):</b> Javier Ortega-Garcia and Ruben Vera-Rodriguez</p>
+ <p><b>Objectives:</b></p>
+ <p>- Acquire, generate synthetic data, and analyze human-machine interaction data as a ground basis of research.</p>
+ <p>- Improve the robustness and security performance of biometrics from human-machine interaction data.</p>
+ <p>- Propose new schemes for human-machine interaction data over time in the digital health and wellness domains.</p>
+<p>- Proposal and development of new schemes in the privacy preserving domain to quantify and remove the sensitive attributes contained in human-machine interaction data.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+
+
+<a> 
 <img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="300"> 
 </a>
 
