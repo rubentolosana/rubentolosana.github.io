@@ -6,9 +6,15 @@ main:
   - title: "Public Funding"
     url: /public_funding/   
 
+  - title: "Private Funding"
+    url: /private_funding/ 
+
   - title: "PhD Students"
     url: /students/ 
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Gallery"
+    url: /gallery/ 
 
