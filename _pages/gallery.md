@@ -27,6 +27,13 @@ Research Event PRIMA/TRESPASS and Summer School, Madrid, Spain (June 2022)
 <img src="https://rubentolosana.github.io/images/PRIMA_TRESPASS.jfif" align="center" width="1000"/>
 
 
+ICDAR 2019 Conference, Sydney, Australia (September 2019)
+-----
+- Presenting our research and technology at [15th International Conference on Document Analysis and Recognition, ICDAR](https://icdar2019.org/). 
+
+<img src="https://rubentolosana.github.io/images/ICDAR_2019.jfif" align="center" width="1000"/>
+
+
 CVPR 2019 Conference, Long Beach, USA (June 2019)
 -----
 - Presenting our research and technology at [IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw](https://cvpr2019.thecvf.com/). 
