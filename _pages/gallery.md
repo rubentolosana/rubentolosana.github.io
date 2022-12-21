@@ -25,3 +25,19 @@ Research Event PRIMA/TRESPASS and Summer School (June 2022)
 - Local Organizer Committee and Speaker of the Research Event and Summer School of [PRIMA](https://www.prima-itn.eu/) and [TRESPASS](https://www.trespass-etn.eu/) EU ITNs. 
 
 <img src="https://rubentolosana.github.io/images/PRIMA_TRESPASS.jfif" align="center" width="1000"/>
+
+
+
+
+European Biometrics Industry Award (September 2018)
+-----
+- I received the [European Biometrics Industry Award](https://eab.org/award/reports/report2018.html?ts=1651190400055) from the European Association for Biometrics (EAB). 
+
+<img src="https://rubentolosana.github.io/images/eab2018.jpg" align="center" width="1000"/>
+
+
+Research Internship at da/sec Group, Germany (July 2018)
+-----
+- Presenting the results of my research internship in the topic of fingerprint presentation attack detection to the members of the [da/sec group](https://dasec.h-da.de/). 
+
+<img src="https://rubentolosana.github.io/images/2018_Darmstadt_Internship.jfif" align="center" width="1000"/>
