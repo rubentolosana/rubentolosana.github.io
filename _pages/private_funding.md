@@ -134,7 +134,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/accenture.PNG" align="right" height="175" width="300"> 
+<img src="https://rubentolosana.github.io/images/accenture.PNG" align="right" height="175" width="250"> 
 </a>
 
 # (2017-2021) ACN-ANALYTICS
@@ -159,7 +159,7 @@ Participation as member of the research team:
 <br/>
 
 <a> 
-<img src="https://rubentolosana.github.io/images/santander.PNG" align="right" height="175" width="300"> 
+<img src="https://rubentolosana.github.io/images/santander.PNG" align="right" height="175" width="250"> 
 </a>
 
 # (2017-2018) CEAL-NEUROMETRICS
@@ -184,7 +184,7 @@ Participation as member of the research team:
 <br/>
 
 <a> 
-<img src="https://rubentolosana.github.io/images/cecabank.PNG" align="right" height="175" width="300"> 
+<img src="https://rubentolosana.github.io/images/cecabank.PNG" align="right" height="175" width="250"> 
 </a>
 
 # (2016-2020) CECA-ANALYTICS
@@ -208,7 +208,7 @@ Participation as member of the research team:
 <br/>
 
 <a> 
-<img src="https://rubentolosana.github.io/images/cecabank.PNG" align="right" height="175" width="300"> 
+<img src="https://rubentolosana.github.io/images/cecabank.PNG" align="right" height="175" width="250"> 
 </a>
 
 # (2014-2016) CECA-SIGN
