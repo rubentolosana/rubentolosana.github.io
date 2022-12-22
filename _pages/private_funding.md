@@ -35,7 +35,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/veridas.png" align="right" height="150" width="300"> 
+<img src="https://rubentolosana.github.io/images/veridas.png" align="right" height="150" width="250"> 
 </a>
 
 # (2022) VERIDAS-ANTISPOOF
@@ -106,7 +106,7 @@ Participation as member of the research team:
 
 
  <a> 
-<img src="https://rubentolosana.github.io/images/fundacionBBVA.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/fundacionBBVA.png" align="right" height="175" width="300"> 
 </a>
 
 # (2018-2020) FBBVA-BIOGUARD
