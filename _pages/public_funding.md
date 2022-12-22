@@ -247,3 +247,26 @@ Participation as member of the research team:
 <br>
 <br>
 <br/>
+
+
+<a> 
+<img src="https://rubentolosana.github.io/images/logoBEAT.png" align="right" height="150" width="250"> 
+</a>
+
+# (2012-2016) BEAT
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Biometrics Evaluation and Testing</p>
+ <p><b>Type:</b> FP7-SECURITY, CP-FP: Small or Medium-scale Focused Research Project</p>
+ <p><b>Code:</b> SEC-2011.5.1-1-284989</p>
+ <p><b>Funding:</b> ca. 3.5 Meuros (ca. 530 Keuros for UAM)</p>
+ <p><b>Participants:</b> 10 EU Institutions, including Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> March 2012 - February 2016</p>
+ <p><b>Principal investigator(s):</b> Sebastien Marcel (<u>Julian Fierrez</u> for UAM)</p> 
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
