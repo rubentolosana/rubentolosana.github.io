@@ -130,3 +130,104 @@ Participation as member of the research team:
 <br>
 <br>
 <br/>
+
+
+
+<a> 
+<img src="https://rubentolosana.github.io/images/accenture.PNG" align="right" height="175" width="300"> 
+</a>
+
+# (2017-2021) ACN-ANALYTICS
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Advanced Analytics</p>
+ <p><b>Type:</b> Technical Support Contract with Accenture</p>
+ <p><b>Funding:</b> ca. 80 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
+ <p><b>Period:</b> February 2017 - January 2021</p>
+ <p><b>Principal investigator(s):</b> Julian Fierrez</p>
+ <p><b>Objectives:</b></p>
+ <p>- Technical support in advanced analytics including text, image, and video inputs.</p>
+
+
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+<a> 
+<img src="https://rubentolosana.github.io/images/santander.PNG" align="right" height="175" width="300"> 
+</a>
+
+# (2017-2018) CEAL-NEUROMETRICS
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Characterization of Neuro-Degenerative Disorders with new Biomarkers</p>
+ <p><b>Type:</b> Competitive Research Grant (UAM-CEAL), Banco Santander</p>
+ <p><b>Funding:</b> 12.5 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
+ <p><b>Period:</b> July 2017 - December 2018</p>
+ <p><b>Principal investigator(s):</b> Aythami Morales</p>
+ <p><b>Objectives:</b></p>
+ <p>- To study new biomarkers for monitoring neuro-degenerative disorders.</p>
+ <p>- To foster research collaborations between Universidad Autonoma de Madrid (Spain) and Universidad de Antioquia (Colombia).</p>
+
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+<a> 
+<img src="https://rubentolosana.github.io/images/cecabank.PNG" align="right" height="175" width="300"> 
+</a>
+
+# (2016-2020) CECA-ANALYTICS
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Cognitive Analytics for Biometric Signature Authentication in Banking Scenarios</p>
+ <p><b>Type:</b> R&D Contract with Cecabank</p>
+ <p><b>Funding:</b> ca. 40 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
+ <p><b>Period:</b> October 2016 - September 2020</p>
+ <p><b>Principal investigator(s):</b> Julian Fierrez</p>
+ <p><b>Objectives:</b></p>
+ <p>- Research and Development in biometrics for improving the security and the user experience in banking applications at bank branches, remotely using desktop computing, and in mobile scenarios using smartphones.</p>
+
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+<a> 
+<img src="https://rubentolosana.github.io/images/cecabank.PNG" align="right" height="175" width="300"> 
+</a>
+
+# (2014-2016) CECA-SIGN
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> e-BioSign: Improvement of Signature Comparison Technology</p>
+ <p><b>Type:</b>  R&D Contract with Cecabank</p>
+ <p><b>Funding:</b> ca. 100 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
+ <p><b>Period:</b> April 2014 - May 2016</p>
+ <p><b>Principal investigator(s):</b> Julian Fierrez and Javier Ortega-Garcia</p>
+ <p><b>Objectives:</b></p>
+ <p>- Transfer of signature biometrics technology, including the development of an SDK to be integrated in Ceca systems.</p>
+ <p>- Development of methods and tools to enable the forensic comparison of dynamic signatures, under the same principles followed by forensic experts when comparing signature images.</p>
+
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
