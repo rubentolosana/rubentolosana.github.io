@@ -23,7 +23,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 220 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> January 2022 - December 2024</p>
- <p><b>Principal investigator(s):</b> Javier Ortega-Garcia and Ruben Vera-Rodriguez</p>
+ <p><b>Principal investigator(s):</b> <u>Javier Ortega-Garcia</u> and <u>Ruben Vera-Rodriguez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Acquire, generate synthetic data, and analyze human-machine interaction data as a ground basis of research.</p>
  <p>- Improve the robustness and security performance of biometrics from human-machine interaction data.</p>
@@ -52,7 +52,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 310 Keuros UAM (620 Keuros in total)</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid and IMDEA-Food Institute</p>
  <p><b>Period:</b> July 2021 - June 2024</p>
- <p><b>Principal investigator(s):</b> Javier Ortega-García (UAM technical lead: Aythami Morales)</p>
+ <p><b>Principal investigator(s):</b> <u>Javier Ortega-García</u> (UAM technical lead: <u>Aythami Morales</u>)</p>
  <p><b>Objectives:</b></p>
  <p>- AI4Food will develop a series of enabling technologies to process, analyze and exploit a large number of biometric signals indicative of individual habits, phenotypic and molecular data.</p>
  <p>- AI4Food will integrate all this information and develop new machine learning algorithms to generate a paradigm shift in the field of nutritional counselling.</p>
@@ -79,7 +79,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 502 Keuros</p>
  <p><b>Participants:</b> UAM, Univ. Applied Sciences H-DA (Germany), Univ. Groningen (Netherlands), IDIAP (Switzerland), Chalmers Univ. (Sweden), Katholieke Univ. Leuven (Belgium)</p>
  <p><b>Period:</b> January 2020 – December 2023</p>
- <p><b>Principal investigator(s):</b> Massimiliano Todisco (Julian Fierrez and Aythami Morales for UAM)</p>
+ <p><b>Principal investigator(s):</b> Massimiliano Todisco (<u>Julian Fierrez</u> and <u>Aythami Morales</u> for UAM)</p>
  <p><b>Objectives:</b></p>
  <p>- To combat rising security challenges, the global market for biometric technologies is growing at a fast pace. It includes all processes used to recognise, authenticate and identify persons based on biological and/or behavioural characteristics.</p>
  <p>- The EU-funded TReSPAsS-ETN project will deliver a new type of security protection (through generalised presentation attack detection (PAD) technologies) and privacy preservation (through computationally feasible encryption solutions).</p>
@@ -106,7 +106,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 485 Keuros</p>
  <p><b>Participants:</b> UAM, Univ. of Kent (UK), NTNU (Norway), NR (Norway), Julius-Max Univ. (Germany), Katholieke Univ. Leuven (Belgium)</p>
  <p><b>Period:</b> January 2020 – December 2023</p>
- <p><b>Principal investigator(s):</b> Raymond Veldhuis (Ruben Vera-Rodriguez and Julian Fierrez for UAM)</p>
+ <p><b>Principal investigator(s):</b> Raymond Veldhuis (<u>Ruben Vera-Rodriguez</u> and <u>Julian Fierrez</u> for UAM)</p>
  <p><b>Objectives:</b></p>
  <p>- To train 14 creative, entrepreneurial, and innovative researchers as privacy protection experts.</p>
  <p>- To contribute to a full understanding of the multidisciplinary nature of privacy protection in a digitalised society.</p>
@@ -133,7 +133,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40 Meuros in total (ca. 200 Keuros for UAM)</p>
  <p><b>Participants:</b> UAM + 44 more: Janssen, Takeda, Lilly, Pfizer, Sanofi, ECRIN, Cambridge Cognition, Asociación de Parkinson Madrid, Imperial College London, etc.</p>
  <p><b>Period:</b> November 2019 - April 2025</p>
- <p><b>Principal investigator(s):</b> Fai Ng from Newcastle Univ., UK (Julian Fierrez for UAM)</p>
+ <p><b>Principal investigator(s):</b> Fai Ng from Newcastle Univ., UK (<u>Julian Fierrez</u> for UAM)</p>
  <p><b>Objectives:</b></p>
  <p>- Fatigue and sleep disturbances are two common and disabling symptoms that affect patients with neurodegenerative disorders (NDD) and immune-mediated inflammatory diseases (IMID). These symptoms are major predictors of poor quality of life and increased healthcare cost. Current questionnaire-based approaches to measure these symptoms have key limitations preventing them from being used as reliable endpoints in clinical trials to evaluate the effect of therapies.</p>
  <p>- IDEA-FAST aims to address these issues by identifying novel digital endpoints for fatigue and sleep disturbances that will provide more objective, sensitive and reliable measures of the severity and impact of these symptoms in ecological settings. Such digital endpoints will not only help to gain insight into the underpinning mechanisms of fatigue and sleep disturbances, but will also vastly improve the efficiency of clinical trials, ultimately reducing the time and cost to bring new therapies to patients.</p>
