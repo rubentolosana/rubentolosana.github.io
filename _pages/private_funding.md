@@ -22,7 +22,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> May 2022 - July 2023</p>
- <p><b>Principal investigator(s):</b> Ruben Tolosana and Ruben Vera-Rodriguez</p>
+ <p><b>Principal investigator(s):</b> <u>Ruben Tolosana</u> and Ruben Vera-Rodriguez</p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to detect falls in elderly population using mobile devices and Artificial Intelligence methods.</p>
 </DIV>
