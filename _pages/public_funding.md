@@ -215,7 +215,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 280 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> January 2016 - December 2018</p>
- <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Javier Ortega-Garcia</u></p>
  <p><b>Objectives:</b></p>
  <p>- Proposal and development of novel cognitive authentication schemes based on behavioral biometrics from heterogeneous data sets originating from human-machine interaction.</p>
  <p>- Improving the state of the art in continuous authentication systems making use of biometrics.</p>
@@ -264,6 +264,9 @@ Participation as member of the research team:
  <p><b>Participants:</b> 10 EU Institutions, including Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> March 2012 - February 2016</p>
  <p><b>Principal investigator(s):</b> Sebastien Marcel (<u>Julian Fierrez</u> for UAM)</p> 
+ <p><b>Objectives:</b></p>
+ <p>- Identity management using Biometrics is deployed in a growing number of applications ranging from identification platforms (e.g. biometric passports) to access control systems for border checks or banking transactions. Unfortunately, the reliability of these technologies remains difficult to compare. There are no european-wide standards for evaluating their accuracy, their robustness to attacks or their privacy preservation strength.</p>
+ <p>- BEAT will fill this gap by building an online and open platform to transparently evaluate biometric systems, designing protocols and tools for vulnerability analysis and developing standardization documents for Common Criteria evaluations. The planned impact is three-fold: the reliability of biometric systems becomes standardized and comparable, potentially leading to a meaningful increase in their performance; technology transfer from research to companies becomes easier with the use of an interoperable framework; authorities and decision-makers become more informed about the progress made in biometrics as results impact standards.</p>
 </DIV>
 </p>
 
