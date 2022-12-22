@@ -10,7 +10,7 @@ Participation as member of the research team:
 <br>
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
 # (2022-2024) INTER-ACTION
@@ -39,7 +39,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="300"> 
+<img src="https://rubentolosana.github.io/images/logocomunidadmadrid.png" align="right" height="150" width="250"> 
 </a>
 
 # (2021-2024) AI4Food
@@ -66,7 +66,7 @@ Participation as member of the research team:
 <br/>
   
  <a> 
-<img src="https://rubentolosana.github.io/images/logoTRESPASS.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoTRESPASS.png" align="right" height="150" width="225"> 
 </a>
 
 # (2020-2023) TRESPASS-ETN
@@ -93,7 +93,7 @@ Participation as member of the research team:
 
 
  <a> 
-<img src="https://rubentolosana.github.io/images/logoPRIMA.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoPRIMA.png" align="right" height="150" width="225"> 
 </a>
 
 # (2020-2023) PRIMA
@@ -120,7 +120,7 @@ Participation as member of the research team:
 
 
  <a> 
-<img src="https://rubentolosana.github.io/images/logoIDEA.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoIDEA.png" align="right" height="150" width="225"> 
 </a>
 
 # (2019-2025) IDEA-FAST
@@ -148,7 +148,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
 # (2020-2021) REAVIPERO
@@ -173,7 +173,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
 # (2019-2021) BIBECA
@@ -202,7 +202,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
 # (2016-2018) COGNIMETRICS
@@ -228,7 +228,7 @@ Participation as member of the research team:
 <br/>
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
 # (2013-2015) BIO-SHIELD
@@ -250,7 +250,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoBEAT.png" align="right" height="150" width="250"> 
+<img src="https://rubentolosana.github.io/images/logoBEAT.png" align="right" height="150" width="225"> 
 </a>
 
 # (2012-2016) BEAT
