@@ -145,3 +145,57 @@ Participation as member of the research team:
 <br>
 <br>
 <br/>
+
+
+<a> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+</a>
+
+# (2020-2021) REAVIPERO
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Spanish Network of Machine Learning and Computer Vision for Human Analysis and Robotic Perception</p>
+ <p><b>Type:</b> Spanish National R&D Program, Research Network</p>
+ <p><b>Code:</b> RED2018-102511-T</p>
+ <p><b>Funding:</b> ca. 10 Keuros (Full Project)</p>
+ <p><b>Participants:</b> 8 Spanish universities, including Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2020 - December 2021</p>
+ <p><b>Principal investigator(s):</b> Filiberto Pla (<u>Julian Fierrez</u> for UAM)</p>
+ <p><b>Objectives:</b></p>
+ <p>- To foster collaboration between Spanish research groups working in Computer Vision and Pattern Recognition.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+
+<a> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+</a>
+
+# (2019-2021) BIBECA
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Biometrics and Behavior for Context-Aware and Secure Human-Computer Interaction</p>
+ <p><b>Type:</b> Spanish National R&D Program</p>
+ <p><b>Code:</b> RTI2018-101248-B-I00</p>
+ <p><b>Funding:</b> ca. 243 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2019 - December 2021</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
+ <p><b>Objectives:</b></p>
+ <p>- Generating a better understanding about the nature of biometrics in terms of distinctiveness, permanence, and relation to stress levels and emotions. New methods for analyzing and modelling complex yet structured relations on heterogeneous data will be developed in BIBECA.</p>
+ <p>- Design of robust algorithms in terms of biometric representation and matching from uncooperative users in unconstrained and varying scenarios. BIBECA will contribute in this topic to: innovative adaptive fusion schemes, and public databases with heterogeneous continuous biometrics, in realistic mobile and desktop setups.</p>
+<p>- Experimental exploration and technology development towards new biometrics applications: mobile authentication and ubiquitous biometrics.</p>
+<p>- Understand and improve the usability of biometric systems.</p>
+<p>- Understand and improve the security in biometric systems. BIBECA will track the advances in security against attacks and privacy preservation in biometric systems, and will adapt and investigate those advances for the kind of human interaction signals to be explored during the project implementation.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
