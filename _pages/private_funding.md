@@ -22,7 +22,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> May 2022 - July 2023</p>
- <p><b>Principal investigator(s):</b> <u>Ruben Tolosana</u> and Ruben Vera-Rodriguez</p>
+ <p><b>Principal investigator(s):</b> <u>Ruben Tolosana</u> and <u>Ruben Vera-Rodriguez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to detect falls in elderly population using mobile devices and Artificial Intelligence methods.</p>
 </DIV>
@@ -47,7 +47,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40K</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> March 2022 - November 2022</p>
- <p><b>Principal investigator(s):</b> Julian Fierrez and Aythami Morales</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to detect presentation attacks to facial biometric systems (e.g., facial masks, printed faces, replay attacks) in accordance to NIST and ISO developments in this area.</p>
 </DIV>
@@ -70,7 +70,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40K</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> September 2020 - June 2021</p>
- <p><b>Principal investigator(s):</b> Julian Fierrez</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to measure facial biometric quality both as a single scalar measure that predicts the utility of the face input and as a vector or quality indicators in accordance to NIST developments in this area.</p>
 </DIV>
@@ -94,7 +94,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 30 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> October 2019 - December 2021</p>
- <p><b>Principal investigator(s):</b> Julian Fierrez and Aythami Morales</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development in biometrics for enabling remote assesment of e-learning sessions conducted in desktop computers with webcam, physical keyboard, and mouse.</p>
 </DIV>
@@ -118,7 +118,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 100 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> September 2018 - August 2020</p>
- <p><b>Principal investigator(s):</b> Javier Ortega-Garcia</p>
+ <p><b>Principal investigator(s):</b> <u>Javier Ortega-Garcia</u></p>
  <p><b>Objectives:</b></p>
  <p>- To explore new mobile continuous monitoring schemes based on the ensemble of heterogeneous data generated from the interaction between human and devices.</p>
  <p>- The study of novel continuous trustworthy metrics developed specifically for mobile scenarios.</p>
@@ -146,7 +146,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 80 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> February 2017 - January 2021</p>
- <p><b>Principal investigator(s):</b> Julian Fierrez</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Technical support in advanced analytics including text, image, and video inputs.</p>
 
@@ -171,7 +171,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> 12.5 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> July 2017 - December 2018</p>
- <p><b>Principal investigator(s):</b> Aythami Morales</p>
+ <p><b>Principal investigator(s):</b> <u>Aythami Morales</u></p>
  <p><b>Objectives:</b></p>
  <p>- To study new biomarkers for monitoring neuro-degenerative disorders.</p>
  <p>- To foster research collaborations between Universidad Autonoma de Madrid (Spain) and Universidad de Antioquia (Colombia).</p>
@@ -196,7 +196,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> October 2016 - September 2020</p>
- <p><b>Principal investigator(s):</b> Julian Fierrez</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development in biometrics for improving the security and the user experience in banking applications at bank branches, remotely using desktop computing, and in mobile scenarios using smartphones.</p>
 
@@ -220,7 +220,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 100 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> April 2014 - May 2016</p>
- <p><b>Principal investigator(s):</b> Julian Fierrez and Javier Ortega-Garcia</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Javier Ortega-Garcia</u></p>
  <p><b>Objectives:</b></p>
  <p>- Transfer of signature biometrics technology, including the development of an SDK to be integrated in Ceca systems.</p>
  <p>- Development of methods and tools to enable the forensic comparison of dynamic signatures, under the same principles followed by forensic experts when comparing signature images.</p>
