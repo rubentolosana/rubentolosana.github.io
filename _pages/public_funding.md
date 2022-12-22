@@ -199,3 +199,51 @@ Participation as member of the research team:
 <br>
 <br>
 <br/>
+
+
+<a> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+</a>
+
+# (2016-2018) COGNIMETRICS
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Cognitive Biometric Authentication: Human Interaction for Identification</p>
+ <p><b>Type:</b> Spanish National R&D Program</p>
+ <p><b>Code:</b> TEC2015-70627-R</p>
+ <p><b>Funding:</b> ca. 280 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2016 - December 2018</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
+ <p><b>Objectives:</b></p>
+ <p>- Proposal and development of novel cognitive authentication schemes based on behavioral biometrics from heterogeneous data sets originating from human-machine interaction.</p>
+ <p>- Improving the state of the art in continuous authentication systems making use of biometrics.</p>
+<p>- Proposal and development of novel user-dependent information fusion schemes, adaptive over time, and making use of context information.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+<a> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="250"> 
+</a>
+
+# (2013-2015) BIO-SHIELD
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Evaluation of Performance and Countermeasures against Attacks and Threats on Biometrics Systems</p>
+ <p><b>Type:</b> Spanish National R&D Program</p>
+ <p><b>Code:</b> TEC2012-34881</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2013 - December 2015</p>
+ <p><b>Principal investigator(s):</b> <u>Javier Ortega-Garcia</u></p> 
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
