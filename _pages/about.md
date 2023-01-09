@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **January, 2023:** Technical Area Committee of the [European Association For Signal Processing (EURASIP)](https://eurasip.org/technical-area-committees/). In particular, in the area BForSec: Biometrics, Data Forensics, and Security.
+
 - **November, 2022:** Evaluator of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
 
 - **November, 2022:** I have been accepted as [member](https://ellis.eu/members) by the [ELLIS Society](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems.
