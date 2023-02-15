@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+AAAI 2023, Washington DC, USA (February 2023)
+-----
+- Presenting our research and technology at [the 37th AAAI Conference on Artificial Intelligence](https://aaai-23.aaai.org/)
+
+<img src="https://rubentolosana.github.io/images/AAAI23.png" align="center" width="1000"/>
+
 
 IEEE AVSS 2022, Madrid, Spain (December 2022)
 -----
