@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **February, 2023:** Presenting our research and technology at [the 37th AAAI Conference on Artificial Intelligence](https://aaai-23.aaai.org/). 
+
 - **January, 2023:** I have been accepted as Technical Area Committee of the [European Association For Signal Processing (EURASIP)](https://eurasip.org/technical-area-committees/). In particular, in the area BForSec: Biometrics, Data Forensics, and Security.
 
 - **November, 2022:** Evaluator of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
