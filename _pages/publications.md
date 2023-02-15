@@ -109,9 +109,11 @@ Conference Papers
 
 - R. Daza, A. Morales, **R. Tolosana**, L.F. Gomez, J. Fierrez and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.09210">edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms</a>. in *Proc. AAAI Conference on Artificial Intelligence, AAAI*, February 2023.
 
-- P. Melzi, H.O. Shahreza, C. Rathgeb, R. Tolosana, R. Vera-Rodriguez, J. Fierrez, S. Marcel and C. Busch. <a href="https://openaccess.thecvf.com/content/WACV2023W/DVPBA/html/Melzi_Multi-IVE_Privacy_Enhancement_of_Multiple_Soft-Biometrics_in_Face_Embeddings_WACVW_2023_paper.html" target="_blank">Multi-IVE: Privacy Enhancement of Multiple Soft-Biometrics in Face Embeddings</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, January 2023.
+- P. Melzi, H.O. Shahreza, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, S. Marcel and C. Busch. <a href="https://openaccess.thecvf.com/content/WACV2023W/DVPBA/html/Melzi_Multi-IVE_Privacy_Enhancement_of_Multiple_Soft-Biometrics_in_Face_Embeddings_WACVW_2023_paper.html" target="_blank">Multi-IVE: Privacy Enhancement of Multiple Soft-Biometrics in Face Embeddings</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, January 2023.
 
 - G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2207.07596" target="_blank">Mobile Keystroke Biometrics Using Transformers</a>. in *Proc. IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG*, January 2023.
+
+- G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, J. Fierrez, J. Ortega-Garcia, S. Rasnayaka, S. Seneviratne, V. Dissanayake, J. Liebers, A. Islam, S.B. Belhaouari, S. Ahmad, S. Jabin. <a href="https://ieeexplore.ieee.org/abstract/document/10007985" target="_blank">IJCB 2022 Mobile Behavioral Biometrics Competition (MobileB2C)</a>.  in *Proc. IEEE International Joint Conference on Biometrics, IJCB*, October 2022.
 
 - R. Daza, D. DeAlcala, A. Morales, **R. Tolosana**, R. Cobos and J. Fierrez. <a href="https://arxiv.org/abs/2112.09165">ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2022.
 
