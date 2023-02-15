@@ -40,7 +40,7 @@ Journal Articles
 
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana** and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">BehavePassDB: Public Database for Mobile Behavioral Biometrics and Benchmark Evaluation</a>. *Pattern Recognition*. Vol. 123, 109089, 2023.
 
-- P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2204.03992" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *arXiv preprint arXiv:2204.03992*, 2022.
+- P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2204.03992" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *IEEE Access*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2206.01441" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *arXiv preprint arXiv:2206.01441*, 2022.
 
@@ -104,6 +104,11 @@ Journal Articles
 
 Conference Papers
 -----
+
+- R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2023.
+
+- R. Daza, A. Morales, **R. Tolosana**, L.F. Gomez, J. Fierrez and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.09210">edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms</a>. in *Proc. AAAI Conference on Artificial Intelligence, AAAI*, February 2023.
+
 - G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2207.07596" target="_blank">Mobile Keystroke Biometrics Using Transformers</a>. in *Proc. IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG*, January 2023.
 
 - R. Daza, D. DeAlcala, A. Morales, **R. Tolosana**, R. Cobos and J. Fierrez. <a href="https://arxiv.org/abs/2112.09165">ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2022.
