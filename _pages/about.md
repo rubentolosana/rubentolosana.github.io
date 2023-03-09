@@ -20,7 +20,7 @@ About me
 News 
 ======
 
-- **March, 2023:** Area Chair of the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/). 
+- **March, 2023:** Area Chair of the [IEEE Int. Joint Conf. on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/). 
 
 - **March, 2023:** Publicity Chair of [The 19th IEEE Int. Conf. on Advanced Video and Signal-Based Surveillance (AVSS 2023)](https://www.avss2023.org/). 
 
