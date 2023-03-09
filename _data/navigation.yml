@@ -12,6 +12,9 @@ main:
   - title: "PhD Students"
     url: /students/ 
 
+ - title: "Community Service"
+    url: /service/ 
+
   - title: "Teaching"
     url: /teaching/    
     
