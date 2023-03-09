@@ -13,12 +13,16 @@ redirect_from:
 About me
 ======
 
-<div style="text-align: justify">I received the M.Sc. degree in Telecommunication Engineering, and the Ph.D. degree in Computer and Telecommunication Engineering, from Universidad Autonoma de Madrid, in 2014 and 2019, respectively. In 2014, I joined the Biometrics and Data Pattern Analytics - BiDA Lab at the Universidad Autonoma de Madrid, where I'm currently Assistant Professor. I'm a member of the <a href="https://ellis.eu/" target="_blank">ELLIS Society</a> (European Laboratory for Learning and Intelligent Systems) and Editorial Board of the <a href="http://ieee-biometrics.org/index.php/publications/newsletter" target="_blank">IEEE Biometrics Council Newsletter</a>. My research interests are mainly focused on signal and image processing, pattern recognition, and machine learning, particularly in the areas of DeepFakes, Human-Computer Interaction, Biometrics, and Health. </div>   
+<div style="text-align: justify">I received the M.Sc. degree in Telecommunication Engineering, and the Ph.D. degree in Computer and Telecommunication Engineering, from Universidad Autonoma de Madrid, in 2014 and 2019, respectively. In 2014, I joined the Biometrics and Data Pattern Analytics - BiDA Lab at the Universidad Autonoma de Madrid, where I'm currently Assistant Professor. I'm a member of the <a href="https://ellis.eu/" target="_blank">ELLIS Society</a> (European Laboratory for Learning and Intelligent Systems), Technical Area Committee of <a href="https://eurasip.org/" target="_blank">EURASIP</a> (European Association For Signal Processing), and Editorial Board of the <a href="http://ieee-biometrics.org/index.php/publications/newsletter" target="_blank">IEEE Biometrics Council Newsletter</a>. My research interests are mainly focused on signal and image processing, pattern recognition, and machine learning, particularly in the areas of DeepFakes, Human-Computer Interaction, Biometrics, and Health. </div>   
 
 &nbsp;
 
 News 
 ======
+
+- **March, 2023:** Area Chair of the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/). 
+
+- **March, 2023:** Publicity Chair of [The 19th IEEE Int. Conf. on Advanced Video and Signal-Based Surveillance (AVSS 2023)](https://www.avss2023.org/). 
 
 - **February, 2023:** Presenting our research and technology at [the 37th AAAI Conference on Artificial Intelligence](https://aaai-23.aaai.org/). 
 
