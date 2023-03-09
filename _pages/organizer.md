@@ -5,13 +5,6 @@ permalink: /organizer/
 author_profile: true
 ---
 
-Over the years, I have helped to the research community in many different ways.
-
-General
------
-
-- In progress.
-
 
 General Chair
 -----
@@ -20,6 +13,18 @@ General Chair
 
 
 Program Chair
+-----
+
+- In progress.
+
+
+Area Chair
+-----
+
+- In progress.
+
+
+Publicity Chair
 -----
 
 - In progress.
@@ -38,16 +43,6 @@ Workshop Organization
 
 
 
-Journal Reviewer
------
-
-- In progress.
-
-
-Conference Reviewer
------
-
-- In progress.
 
 
 
