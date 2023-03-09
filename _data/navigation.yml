@@ -12,8 +12,11 @@ main:
   - title: "PhD Students"
     url: /students/ 
 
-  - title: "Community Service"
-    url: /service/ 
+  - title: "Organizer"
+    url: /organizer/ 
+    
+  - title: "Reviewer"
+    url: /reviewer/ 
 
   - title: "Teaching"
     url: /teaching/    
