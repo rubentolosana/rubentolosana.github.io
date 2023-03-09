@@ -5,6 +5,11 @@ permalink: /reviewer/
 author_profile: true
 ---
 
+Technical Area Committee
+-----
+
+- In progress.
+
 
 Journal Reviewer
 -----
@@ -12,7 +17,7 @@ Journal Reviewer
 - In progress.
 
 
-Conference Reviewer
+Program Committee Member
 -----
 
 - In progress.
