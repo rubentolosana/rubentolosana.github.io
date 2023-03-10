@@ -12,12 +12,6 @@ main:
   - title: "PhD Students"
     url: /students/ 
 
-  - title: "Organizer"
-    url: /organizer/ 
-    
-  - title: "Reviewer"
-    url: /reviewer/ 
-
   - title: "Teaching"
     url: /teaching/    
     
