@@ -46,13 +46,13 @@ Local Organizer
 - Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA, Springer, Madrid, Spain, July 2019. <a href="http://www.ibpria.org/2019/">[Web]</a>
 - IAPR Iberoamerican Congress on Pattern Recognition, CIARP, Madrid, Spain, 2018. <a href="http://atvs.ii.uam.es/ciarp2018/">[Web]</a> 
 - Intl. Carnahan Conf. on Security Technology, ICCST, IEEE Press, Madrid, Spain, October 2017. <a href="http://atvs.ii.uam.es/iccst2017/">[Web]</a>
-- XXXI Simposium Nacional de la Unión Científica Internacional de Radio, URSI 2016, Madrid, Spain, September 2016. <a href="http://rfcas.eps.uam.es/ursi2016/">[Web]</a>
+- Simposium Nacional de la Unión Científica Internacional de Radio, URSI 2016, Madrid, Spain, September 2016. <a href="http://rfcas.eps.uam.es/ursi2016/">[Web]</a>
 
 
 Workshop Organizer
 -----
 
-- Workshop on Digital Face Manipulation and Detection, European Association for Biometrics (EAB), Virtual, July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
+- Workshop on Digital Face Manipulation and Detection, European Association for Biometrics (EAB), July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
 
 
 Competition Organizer
