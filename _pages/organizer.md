@@ -31,22 +31,36 @@ Publicity Chair
 - IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Daegu, South Korea, November 2023. <a href="https://www.avss2023.org/">[Web]</a>
 
 
+Session Chair
+-----
+
+- IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Madrid, Spain, November 2022. <a href="http://atvs.ii.uam.es/avss2022/">[Web]</a>
+- Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA, Springer, Madrid, Spain, July 2019. <a href="http://www.ibpria.org/2019/">[Web]</a>
+- IAPR Iberoamerican Congress on Pattern Recognition, CIARP, Madrid, Spain, 2018. <a href="http://atvs.ii.uam.es/ciarp2018/">[Web]</a> 
+
+
 Local Organizer
 -----
 
 - IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Madrid, Spain, November 2022. <a href="http://atvs.ii.uam.es/avss2022/">[Web]</a>
+- Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA, Springer, Madrid, Spain, July 2019. <a href="http://www.ibpria.org/2019/">[Web]</a>
+- IAPR Iberoamerican Congress on Pattern Recognition, CIARP, Madrid, Spain, 2018. <a href="http://atvs.ii.uam.es/ciarp2018/">[Web]</a> 
+- Intl. Carnahan Conf. on Security Technology, ICCST, IEEE Press, Madrid, Spain, October 2017. <a href="http://atvs.ii.uam.es/iccst2017/">[Web]</a>
+- XXXI Simposium Nacional de la Unión Científica Internacional de Radio, URSI 2016, Madrid, Spain, September 2016. <a href="http://rfcas.eps.uam.es/ursi2016/">[Web]</a>
 
 
 Workshop Organizer
 -----
 
-- In progress.
+- Workshop on Digital Face Manipulation and Detection, European Association for Biometrics (EAB), Virtual, July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
 
 
 Competition Organizer
 -----
 
-- In progress.
+- MobileB2C: Mobile Behavioral Biometrics Competition, official competition at IEEE/IAPR Intl. Joint Conf. on Biometrics, IJCB 2022, Abu Dhabi, United Arab Emirates, October 2022. <a href="https://sites.google.com/view/mobileb2c">[Web]</a>
+- SVC-onGoing: Signature Verification Competition, official competition at IAPR Intl. Conf. on Document Analysis and Recognition, ICDAR 2021, Lausanne, Switzerland, September 2021. <a href="https://sites.google.com/view/SVC2021/">[Web]</a>
+
 
 
 
