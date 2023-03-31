@@ -9,7 +9,7 @@ author_profile: true
 General Chair
 -----
 
-- In progress.
+- IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Madrid, Spain, November 2022.
 
 
 Program Chair
