@@ -9,7 +9,7 @@ IPCV Master 2023, Universidad Autonoma de Madrid, Spain (May 2023)
 -----
 - Teaching "People Detection and Biometric Recognition" course to the international students of the [Master's Degree in Image Processing and Computer Vision (IPCV)](http://ipcv.eu/)
 
-<img src="https://rubentolosana.github.io/images/IPCV2023.jpg" align="center" width="1000"/>
+<img src="https://rubentolosana.github.io/images/IPCV_May2023.jpg" align="center" width="1000"/>
 
 
 AAAI 2023, Washington DC, USA (February 2023)
