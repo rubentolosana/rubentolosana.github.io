@@ -52,7 +52,7 @@ Local Organizer
 Workshop Organizer
 -----
 
-- Workshop on Advances of Mobile and Wearable Biometrics (WAMWB) at the ACM Intl. Conf. on Mobile Human-Computer Interaction, MobileHCI 2023, Athens, Greece, September 2023.<a href="https://sites.google.com/view/wamwb/home-page">[Web]</a> 
+- Workshop on Advances of Mobile and Wearable Biometrics (WAMWB) at the ACM Intl. Conf. on Mobile Human-Computer Interaction, MobileHCI 2023, Athens, Greece, September 2023. <a href="https://sites.google.com/view/wamwb/home-page">[Web]</a> 
 - Workshop on Digital Face Manipulation and Detection, European Association for Biometrics (EAB), July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
 
 
