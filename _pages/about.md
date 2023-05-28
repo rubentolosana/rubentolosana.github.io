@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **May, 2023:** Co-Organizer of the [Workshop on Advances of Mobile and Wearable Biometrics (WAMWB)](https://sites.google.com/view/wamwb/home-page) at the [ACM International Conference on Mobile Human-Computer Interaction (MobileHCI 2023)](https://mobilehci.acm.org/2023/). 
+
 - **March, 2023:** Area Chair of the [IEEE Int. Joint Conf. on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/). 
 
 - **March, 2023:** Publicity Chair of [The 19th IEEE Int. Conf. on Advanced Video and Signal-Based Surveillance (AVSS 2023)](https://www.avss2023.org/). 
