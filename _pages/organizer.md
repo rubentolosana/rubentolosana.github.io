@@ -59,6 +59,7 @@ Workshop Organizer
 Competition Organizer
 -----
 
+- KVC: Keystroke Verification Challenge, official competition at IEEE Intl. Conf. on Big Data, BigData 2023, Sorrento, Italy, December 2023. <a href="https://sites.google.com/view/bida-kvc/home">[Web]</a> 
 - MobileB2C: Mobile Behavioral Biometrics Competition, official competition at IEEE/IAPR Intl. Joint Conf. on Biometrics, IJCB 2022, Abu Dhabi, United Arab Emirates, October 2022. <a href="https://sites.google.com/view/mobileb2c">[Web]</a>
 - SVC-onGoing: Signature Verification Competition, official competition at IAPR Intl. Conf. on Document Analysis and Recognition, ICDAR 2021, Lausanne, Switzerland, September 2021. <a href="https://sites.google.com/view/SVC2021/">[Web]</a>
 
