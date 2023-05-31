@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **June, 2023:** Co-Organizer of the [Keystroke Verification Challenge (KVC)](https://sites.google.com/view/bida-kvc/home) at the [IEEE BigData 2023](http://bigdataieee.org/BigData2023/index.html).
+
 - **May, 2023:** Co-Organizer of the [Workshop on Advances of Mobile and Wearable Biometrics (WAMWB)](https://sites.google.com/view/wamwb/home-page) at the [ACM International Conference on Mobile Human-Computer Interaction (MobileHCI 2023)](https://mobilehci.acm.org/2023/). 
 
 - **March, 2023:** Area Chair of the [IEEE Int. Joint Conf. on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/). 
