@@ -38,9 +38,17 @@ Book Chapters
 Journal Articles
 -----
 
+- S. Romero-Tapiador, B. Lacruz-Pleguezuelos, **R. Tolosana**, G. Freixer, R. Daza, C.M. Fernández-Díaz, E. Aguilar-Aguilar, J. Fernández-Cabezas, S. Cruz Gil, S. Molina-Arranz, M.C. Crespo, T. Laguna-Lobo, L.J. Marcos-Zambrano, R. Vera-Rodriguez, J. Fierrez, A. Ramírez de Molina, J. Ortega-Garcia, I. Espinosa-Salinas, A. Morales and E. Carrillo de Santa Pau. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">AI4FoodDB: A Database for Personalized e-Health Nutrition and Lifestyle through Wearable Devices and Artificial Intelligence</a>. *Database: The Journal of Biological Databases and Curation*, 2023.
+
+- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2212.13075" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *arXiv preprint arXiv:2212.13075*, 2023.
+
+- M. Ghafourian, B. Sumer, R. Vera-Rodriguez, J. Fierrez, **R. Tolosana**, A. Morales and E. Kindt. <a href="https://arxiv.org/abs/2302.10883" target="_blank">Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis</a>. *arXiv preprint arXiv:2302.10883*, 2023.
+
+- H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2302.13286" target="_blank">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *arXiv preprint arXiv:2302.13286*, 2023.
+
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana** and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">BehavePassDB: Public Database for Mobile Behavioral Biometrics and Benchmark Evaluation</a>. *Pattern Recognition*. Vol. 123, 109089, 2023.
 
-- P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2204.03992" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *IEEE Access*, 2023.
+- P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://ieeexplore.ieee.org/document/10043674" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *IEEE Access*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2206.01441" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *arXiv preprint arXiv:2206.01441*, 2022.
 
@@ -105,13 +113,17 @@ Journal Articles
 Conference Papers
 -----
 
-- R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2023.
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations</a>. *arXiv preprint arXiv:2305.19962*, 2023.
 
-- R. Daza, A. Morales, **R. Tolosana**, L.F. Gomez, J. Fierrez and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.09210">edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms</a>. in *Proc. AAAI Conference on Artificial Intelligence, AAAI*, February 2023.
+- D. DeAlcala, A. Morales, **R. Tolosana**, A. Acien, J. Fierrez, S. Hernández, M.A. Ferrer and M. Diaz. <a href="https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/DeAlcala_BeCAPTCHA-Type_Biometric_Keystroke_Data_Generation_for_Improved_Bot_Detection_CVPRW_2023_paper.html">BeCAPTCHA-Type: Biometric Keystroke Data Generation for Improved Bot Detection</a>. in *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Vancouver, Canada, June 2023.
 
-- P. Melzi, H.O. Shahreza, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, S. Marcel and C. Busch. <a href="https://openaccess.thecvf.com/content/WACV2023W/DVPBA/html/Melzi_Multi-IVE_Privacy_Enhancement_of_Multiple_Soft-Biometrics_in_Face_Embeddings_WACVW_2023_paper.html" target="_blank">Multi-IVE: Privacy Enhancement of Multiple Soft-Biometrics in Face Embeddings</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, January 2023.
+- R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, Washington DC, USA, February 2023.
 
-- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2207.07596" target="_blank">Mobile Keystroke Biometrics Using Transformers</a>. in *Proc. IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG*, January 2023.
+- R. Daza, A. Morales, **R. Tolosana**, L.F. Gomez, J. Fierrez and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.09210">edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms</a>. in *Proc. AAAI Conference on Artificial Intelligence, AAAI*, Washington DC, USA, February 2023.
+
+- P. Melzi, H.O. Shahreza, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, S. Marcel and C. Busch. <a href="https://openaccess.thecvf.com/content/WACV2023W/DVPBA/html/Melzi_Multi-IVE_Privacy_Enhancement_of_Multiple_Soft-Biometrics_in_Face_Embeddings_WACVW_2023_paper.html" target="_blank">Multi-IVE: Privacy Enhancement of Multiple Soft-Biometrics in Face Embeddings</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, Waikoloa, Hawaii, USA, January 2023.
+
+- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://www.computer.org/csdl/proceedings-article/fg/2023/10042710/1KOv17kjZPG" target="_blank">Mobile Keystroke Biometrics Using Transformers</a>. in *Proc. IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG*, Waikoloa, Hawaii, USA, January 2023.
 
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, J. Fierrez, J. Ortega-Garcia, S. Rasnayaka, S. Seneviratne, V. Dissanayake, J. Liebers, A. Islam, S.B. Belhaouari, S. Ahmad, S. Jabin. <a href="https://ieeexplore.ieee.org/abstract/document/10007985" target="_blank">IJCB 2022 Mobile Behavioral Biometrics Competition (MobileB2C)</a>.  in *Proc. IEEE International Joint Conference on Biometrics, IJCB*, October 2022.
 
