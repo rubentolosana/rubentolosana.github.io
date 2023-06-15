@@ -47,7 +47,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40K</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> March 2022 - November 2022</p>
- <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
+ <p><b>Principal investigator(s):</b> <u>Aythami Morales</u> and <u>Ruben Tolosana</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to detect presentation attacks to facial biometric systems (e.g., facial masks, printed faces, replay attacks) in accordance to NIST and ISO developments in this area.</p>
 </DIV>
