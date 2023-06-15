@@ -18,6 +18,8 @@ Books
 Book Chapters 
 -----
 
+- C. Gonzalez-Garcia, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia. <a href="https://link.springer.com/chapter/10.1007/978-981-19-5288-3_16" target="_blank">Introduction to Presentation Attacks in Signature Biometrics and Recent Advances</a>. S. Marcel, J. Fierrez and N. Evans (Eds.), *Handbook of Biometric Anti-Spoofing (3rd Edition), Springer*, 2023.
+
 - **R. Tolosana**, C. Rathgeb, R. Vera-Rodriguez, C. Busch, L. Verdoliva, S. Lyu, H. H. Nguyen, J. Yamagishi, I. Echizen, P. Rot, K. Grm, V. Struc, A. Dantcheva, Z. Akhtar, S. Romero-Tapiador, J. Fierrez, A. Morales, J. Ortega-Garcia, E. Kindt, C. Jasserand, T. Kalvet and M. Tiits. <a href="https://link.springer.com/chapter/10.1007/978-3-030-87664-7_21" target="_blank">Future Trends in Digital Face Manipulation and Detection</a>. Christian Rathgeb, Ruben Tolosana, Ruben Vera-Rodriguez and Christoph Busch (Eds.), *Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks, Springer*, 2022.
 
 - J. Hernandez-Ortega, **R. Tolosana**, J. Fierrez and A. Morales. <a href="https://link.springer.com/chapter/10.1007/978-3-030-87664-7_12" target="_blank">DeepFakes Detection based on Heart Rate Estimation: Single- and Multi-Frame</a>. Christian Rathgeb, Ruben Tolosana, Ruben Vera-Rodriguez and Christoph Busch (Eds.), *Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks, Springer*, 2022. 
@@ -30,7 +32,7 @@ Book Chapters
 
 - R. Vera-Rodriguez, **R. Tolosana**, J. Hernandez-Ortega, A. Acien, A. Morales, J. Fierrez and J. Ortega-Garcia. <a href="https://www.worldscientific.com/doi/10.1142/9789811226830_0003" target="_blank">Modeling the Complexity of Signature and Touch-Screen Biometrics using the Lognormality Principle</a>. Rejean Plamondon, Angelo Marcelli and Miguel A. Ferrer (Eds.), *The Lognormality Principle and its Applications, World Scientific*, 2020.
 
-- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://link.springer.com/chapter/10.1007/978-3-319-92627-8_19" target="_blank">Presentation Attacks in Signature Biometrics: Types and Introduction to Attack Detection</a>. S. Marcel, M.S. Nixon, J. fierrez and N. Evans (Eds.), *Handbook of Biometric Anti-Spoofing (2nd Edition), Springer*, 2018.
+- **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://link.springer.com/chapter/10.1007/978-3-319-92627-8_19" target="_blank">Presentation Attacks in Signature Biometrics: Types and Introduction to Attack Detection</a>. S. Marcel, M.S. Nixon, J. Fierrez and N. Evans (Eds.), *Handbook of Biometric Anti-Spoofing (2nd Edition), Springer*, 2018.
 
 
 
@@ -115,7 +117,7 @@ Conference Papers
 
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations</a>. *arXiv preprint arXiv:2305.19962*, 2023.
 
-- D. DeAlcala, A. Morales, **R. Tolosana**, A. Acien, J. Fierrez, S. Hernández, M.A. Ferrer and M. Diaz. <a href="https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/DeAlcala_BeCAPTCHA-Type_Biometric_Keystroke_Data_Generation_for_Improved_Bot_Detection_CVPRW_2023_paper.html">BeCAPTCHA-Type: Biometric Keystroke Data Generation for Improved Bot Detection</a>. in *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Vancouver, Canada, June 2023.
+- D. DeAlcala, A. Morales, **R. Tolosana**, A. Acien, J. Fierrez, S. Hernández, M.A. Ferrer and M. Diaz. <a href="https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/DeAlcala_BeCAPTCHA-Type_Biometric_Keystroke_Data_Generation_for_Improved_Bot_Detection_CVPRW_2023_paper.html">BeCAPTCHA-Type: Biometric Keystroke Data Generation for Improved Bot Detection</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Vancouver, Canada, June 2023.
 
 - R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, Washington DC, USA, February 2023.
 
