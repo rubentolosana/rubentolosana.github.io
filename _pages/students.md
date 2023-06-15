@@ -101,3 +101,23 @@ author_profile: true
 <br>
 <br>
 <br>
+
+ <br/>
+
+
+<p align="left"><b>Ivan Loel de Andres</b></p>
+
+<p> 
+<img src="https://rubentolosana.github.io/images/ivan.png" align="left" height="350" width="200"> 
+<DIV align="center">
+ <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Human Interaction with Smart Devices in Security and Digital Health Domains
+ <p>Google Scholar
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
