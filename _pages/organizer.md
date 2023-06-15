@@ -34,6 +34,7 @@ Publicity Chair
 Session Chair
 -----
 
+- Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA, Springer, Alicante, Spain, June 2023. <a href="http://www.ibpria.org/2023/">[Web]</a>
 - IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Madrid, Spain, November 2022. <a href="http://atvs.ii.uam.es/avss2022/">[Web]</a>
 - Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA, Springer, Madrid, Spain, July 2019. <a href="http://www.ibpria.org/2019/">[Web]</a>
 - IAPR Iberoamerican Congress on Pattern Recognition, CIARP, Madrid, Spain, 2018. <a href="http://atvs.ii.uam.es/ciarp2018/">[Web]</a> 
