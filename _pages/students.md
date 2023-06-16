@@ -105,7 +105,7 @@ author_profile: true
  <br/>
 
 
-<p align="left"><b>Ivan Loel de Andres</b></p>
+<p align="left"><b>Ivan de Andres</b></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/ivan.png" align="left" height="350" width="200"> 
