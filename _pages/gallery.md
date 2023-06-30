@@ -5,6 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Best Ph.D. Thesis Award in 2019-2022, Alicante, Spain (June 2023)
+-----
+- I received the Best Ph.D. Thesis Award in 2019-2022 from the Spanish Association for Pattern Recognition and Image Analysis [AERFAI](https://www.aerfai.org/). 
+
+<img src="https://rubentolosana.github.io/images/AERFAI_Award_2023.png" align="center" width="1000"/>
+
+
 IPCV Master 2023, Universidad Autonoma de Madrid, Spain (May 2023)
 -----
 - Teaching "People Detection and Biometric Recognition" course to the international students of the [Master's Degree in Image Processing and Computer Vision (IPCV)](http://ipcv.eu/)
