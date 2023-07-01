@@ -20,7 +20,7 @@ About me
 News 
 ======
 
-- **June, 2023:** I received the Best Ph.D. Thesis Award in 2019-2022 from the Spanish Association for Pattern Recognition and Image Analysis [AERFAI](https://www.aerfai.org/).
+- **June, 2023:** I received the Best Ph.D. Thesis Award in 2019-2022 from the Spanish Association for Pattern Recognition and Image Analysis [(AERFAI)](https://www.aerfai.org/).
 
 - **June, 2023:** Co-Organizer of the [Keystroke Verification Challenge (KVC)](https://sites.google.com/view/bida-kvc/home) at the [IEEE International Conference on Big Data (BigData 2023)](http://bigdataieee.org/BigData2023/index.html).
 
