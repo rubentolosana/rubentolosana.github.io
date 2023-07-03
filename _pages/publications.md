@@ -35,11 +35,13 @@ Book Chapters
 - **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia. <a href="https://link.springer.com/chapter/10.1007/978-3-319-92627-8_19" target="_blank">Presentation Attacks in Signature Biometrics: Types and Introduction to Attack Detection</a>. S. Marcel, M.S. Nixon, J. Fierrez and N. Evans (Eds.), *Handbook of Biometric Anti-Spoofing (2nd Edition), Springer*, 2018.
 
 
-
-
 Journal Articles
 -----
 
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">M-GaitFormer: Mobile Biometric Gait Verification Using Transformers</a>. *Engineering Applications of Artificial Intelligence*, 2023.
+
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2206.01441" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
+  
 - S. Romero-Tapiador, B. Lacruz-Pleguezuelos, **R. Tolosana**, G. Freixer, R. Daza, C.M. Fernández-Díaz, E. Aguilar-Aguilar, J. Fernández-Cabezas, S. Cruz Gil, S. Molina-Arranz, M.C. Crespo, T. Laguna-Lobo, L.J. Marcos-Zambrano, R. Vera-Rodriguez, J. Fierrez, A. Ramírez de Molina, J. Ortega-Garcia, I. Espinosa-Salinas, A. Morales and E. Carrillo de Santa Pau. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">AI4FoodDB: A Database for Personalized e-Health Nutrition and Lifestyle through Wearable Devices and Artificial Intelligence</a>. *Database: The Journal of Biological Databases and Curation*, 2023.
 
 - G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2212.13075" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *arXiv preprint arXiv:2212.13075*, 2023.
@@ -51,8 +53,6 @@ Journal Articles
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana** and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">BehavePassDB: Public Database for Mobile Behavioral Biometrics and Benchmark Evaluation</a>. *Pattern Recognition*. Vol. 123, 109089, 2023.
 
 - P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://ieeexplore.ieee.org/document/10043674" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *IEEE Access*, 2023.
-
-- P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2206.01441" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *arXiv preprint arXiv:2206.01441*, 2022.
 
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://arxiv.org/abs/2206.10465" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *arXiv preprint arXiv:2206.10465*, 2022.
 
