@@ -40,7 +40,7 @@ Journal Articles
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">M-GaitFormer: Mobile Biometric Gait Verification Using Transformers</a>. *Engineering Applications of Artificial Intelligence*, 2023.
 
-- P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2206.01441" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032300496X" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
   
 - S. Romero-Tapiador, B. Lacruz-Pleguezuelos, **R. Tolosana**, G. Freixer, R. Daza, C.M. Fernández-Díaz, E. Aguilar-Aguilar, J. Fernández-Cabezas, S. Cruz Gil, S. Molina-Arranz, M.C. Crespo, T. Laguna-Lobo, L.J. Marcos-Zambrano, R. Vera-Rodriguez, J. Fierrez, A. Ramírez de Molina, J. Ortega-Garcia, I. Espinosa-Salinas, A. Morales and E. Carrillo de Santa Pau. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">AI4FoodDB: A Database for Personalized e-Health Nutrition and Lifestyle through Wearable Devices and Artificial Intelligence</a>. *Database: The Journal of Biological Databases and Curation*, 2023.
 
