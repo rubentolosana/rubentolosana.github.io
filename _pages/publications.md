@@ -115,9 +115,17 @@ Journal Articles
 Conference Papers
 -----
 
-- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations</a>. *arXiv preprint arXiv:2305.19962*, 2023.
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations</a>. in *Proc. IEEE/CVF International Conference on Computer Vision Workshops, ICCVw*, Paris, France, October 2023.
+
+- P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, P. Delgado-Santos, G. Stragapede, J. Fierrez, J. Ortega-Garcia. <a href="https://arxiv.org/abs/2307.01663" target="_blank">Exploring Transformers for On-Line Handwritten Signature Verification</a>. in *Proc. ACM International Conference on Mobile Human-Computer Interaction Workshop, MobileHCIw*, Athens, Greece, September 2023.
+
+- J.C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, C. Moro. <a href="https://arxiv.org/abs/2307.05275" target="_blank">CareFall: Automatic Fall Detection through Wearable Devices and AI Methods</a>. in *Proc. ACM International Conference on Mobile Human-Computer Interaction Workshop, MobileHCIw*, Athens, Greece, September 2023.
+
+- L.F. Gomez, J. Fierrez, A. Morales, M. Ghafourian, **R. Tolosana**, I. Solano, A. Garcia, F. Zamora-Martinez. <a href="https://ieeexplore.ieee.org/abstract/document/10197034" target="_blank">PAD-Phys: Exploiting Physiology for Presentation Attack Detection in Face Biometrics</a>. in *Proc. IEEE 47th Annual Computers, Software, and Applications Conference, COMPSAC*, Torino, Italy, July 2023.
 
 - D. DeAlcala, A. Morales, **R. Tolosana**, A. Acien, J. Fierrez, S. Hernández, M.A. Ferrer and M. Diaz. <a href="https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/DeAlcala_BeCAPTCHA-Type_Biometric_Keystroke_Data_Generation_for_Improved_Bot_Detection_CVPRW_2023_paper.html">BeCAPTCHA-Type: Biometric Keystroke Data Generation for Improved Bot Detection</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Vancouver, Canada, June 2023.
+
+- P. Melzi, J.M. Rodriguez-Albala, A. Morales, **R. Tolosana**, J. Fierrez, R. Vera-Rodriguez. <a href="https://link.springer.com/chapter/10.1007/978-3-031-36616-1_50" target="_blank">Fishing Gear Classification from Vessel Trajectories and Velocity Profiles: Database and Benchmark</a>. in *Proc. Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA*, Alicante, Spain, June 2023.
 
 - R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, Washington DC, USA, February 2023.
 
