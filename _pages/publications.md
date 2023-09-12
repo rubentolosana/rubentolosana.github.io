@@ -38,6 +38,8 @@ Book Chapters
 Journal Articles
 -----
 
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, P. Lamb, A. Khmelnitsky, C. Coughlan, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">SwipeFormer: Transformers for Mobile Touchscreen Biometrics</a>. *Expert Systems with Applications*, 2023.
+
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">M-GaitFormer: Mobile Biometric Gait Verification Using Transformers</a>. *Engineering Applications of Artificial Intelligence*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032300496X" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
@@ -114,6 +116,8 @@ Journal Articles
 
 Conference Papers
 -----
+
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">Synthetic Data for the Mitigation of Demographic Biases in Face Recognition</a>. in *Proc. IEEE International Joint Conference on Biometrics, IJCB*, Ljubljana, Slovenia, September 2023.
 
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations</a>. in *Proc. IEEE/CVF International Conference on Computer Vision Workshops, ICCVw*, Paris, France, October 2023.
 
