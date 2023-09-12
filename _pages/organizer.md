@@ -53,6 +53,7 @@ Local Organizer
 Workshop Organizer
 -----
 
+- Workshop Face Recognition Challenge in the Era of Synthetic Data (FRCSyn) at the IEEE/CVF Winter Conf. on Applications of Computer Vision, WACV 2024, Waikoloa, Hawaii, January 2024. <a href="https://frcsyn.github.io/">[Web]</a>
 - Workshop on Advances of Mobile and Wearable Biometrics (WAMWB) at the ACM Intl. Conf. on Mobile Human-Computer Interaction, MobileHCI 2023, Athens, Greece, September 2023. <a href="https://sites.google.com/view/wamwb/home-page">[Web]</a> 
 - Workshop on Digital Face Manipulation and Detection, European Association for Biometrics (EAB), July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
 
@@ -60,6 +61,7 @@ Workshop Organizer
 Competition Organizer
 -----
 
+- FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the IEEE/CVF Winter Conf. on Applications of Computer Vision, WACV 2024, Waikoloa, Hawaii, January 2024. <a href="https://frcsyn.github.io/">[Web]</a>
 - KVC: Keystroke Verification Challenge, official competition at IEEE Intl. Conf. on Big Data, BigData 2023, Sorrento, Italy, December 2023. <a href="https://sites.google.com/view/bida-kvc/home">[Web]</a> 
 - MobileB2C: Mobile Behavioral Biometrics Competition, official competition at IEEE/IAPR Intl. Joint Conf. on Biometrics, IJCB 2022, Abu Dhabi, United Arab Emirates, October 2022. <a href="https://sites.google.com/view/mobileb2c">[Web]</a>
 - SVC-onGoing: Signature Verification Competition, official competition at IAPR Intl. Conf. on Document Analysis and Recognition, ICDAR 2021, Lausanne, Switzerland, September 2021. <a href="https://sites.google.com/view/SVC2021/">[Web]</a>
