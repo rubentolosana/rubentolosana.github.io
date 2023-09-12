@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **September, 2023:** Co-Organizer of the Workshop/Challenge [Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)](https://frcsyn.github.io/) at the [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)](https://wacv2024.thecvf.com/). The platform used in the FRCSyn challenge is [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485).
+
 - **June, 2023:** I received the Best Ph.D. Thesis Award in 2019-2022 from the Spanish Association for Pattern Recognition and Image Analysis [(AERFAI)](https://www.aerfai.org/).
 
 - **June, 2023:** Co-Organizer of the [Keystroke Verification Challenge (KVC)](https://sites.google.com/view/bida-kvc/home) at the [IEEE International Conference on Big Data (BigData 2023)](http://bigdataieee.org/BigData2023/index.html).
