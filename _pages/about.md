@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **October, 2023:** Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/). 
+
 - **September, 2023:** I received the Outstanding Reviewer Award in the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/).
   
 - **September, 2023:** Co-Organizer of the Workshop/Challenge [Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)](https://frcsyn.github.io/) at the [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)](https://wacv2024.thecvf.com/). The platform used in the FRCSyn challenge is [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485).
