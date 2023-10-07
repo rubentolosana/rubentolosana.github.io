@@ -9,7 +9,7 @@ Best Paper Award at AMFG Workshop, IEEE/CVF ICCV 2023, Paris, France (October 20
 -----
 - Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/).
 
-<img src="https://rubentolosana.github.io/images/AMFG_ICCV23_BestPaperAward.jpg" align="center" width="450"/>
+<img src="https://rubentolosana.github.io/images/AMFG_ICCV23_BestPaperAward.jpg" align="center" width="350"/>
 
 Best Ph.D. Thesis Award in 2019-2022, Alicante, Spain (June 2023)
 -----
