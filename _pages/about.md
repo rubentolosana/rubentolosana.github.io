@@ -22,11 +22,11 @@ News
 
 - **October, 2023:** Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/). 
 
-- **September, 2023:** I received the Outstanding Reviewer Award in the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/).
+- **September, 2023:** I received the "Outstanding Reviewer Award" in the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/).
   
 - **September, 2023:** Co-Organizer of the Workshop/Challenge [Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)](https://frcsyn.github.io/) at the [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)](https://wacv2024.thecvf.com/). The platform used in the FRCSyn challenge is [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15485).
 
-- **June, 2023:** I received the Best Ph.D. Thesis Award in 2019-2022 from the Spanish Association for Pattern Recognition and Image Analysis [(AERFAI)](https://www.aerfai.org/).
+- **June, 2023:** I received the "Best Ph.D. Thesis Award in 2019-2022" from the Spanish Association for Pattern Recognition and Image Analysis [(AERFAI)](https://www.aerfai.org/).
 
 - **June, 2023:** Co-Organizer of the [Keystroke Verification Challenge (KVC)](https://sites.google.com/view/bida-kvc/home) at the [IEEE International Conference on Big Data (BigData 2023)](http://bigdataieee.org/BigData2023/index.html).
 
@@ -58,7 +58,7 @@ News
 
 - **2021:** Co-Editor of the [Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks](https://link.springer.com/book/10.1007/978-3-030-87664-7) (Advances in Computer Vision and Pattern Recognition Series, Springer).
 
-- **September, 2021:** I received the Outstanding Reviewer Award in the [16th International Conference on Document Analysis and Recognition (ICDAR 2021)](https://icdar2021.org/).
+- **September, 2021:** I received the "Outstanding Reviewer Award" in the [16th International Conference on Document Analysis and Recognition (ICDAR 2021)](https://icdar2021.org/).
 
 - **September, 2021:** Co-Organizer of the [ICDAR 2021 Competition on On-Line Signature Verification (SVC 2021)](https://sites.google.com/view/SVC2021/home). 
 
