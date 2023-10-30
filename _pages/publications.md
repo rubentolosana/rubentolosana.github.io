@@ -38,11 +38,13 @@ Book Chapters
 Journal Articles
 -----
 
+- P. Melzi, R. Vera-Rodriguez, **R. Tolosana**, A. Sanz‑Garcia, A. Cecconi, G. Ortega and L. Jimenez‑Borreguero. <a href="https://www.sciencedirect.com/science/article/pii/S195903182300060X" target="_blank">Prediction of Atrial Fibrillation from Sinus-Rhythm Electrocardiograms Based on Deep Neural Networks: Analysis of Time Intervals and Longitudinal Study</a>. *Innovation and Research in BioMedical Engineering (IRBM)*, 2023.
+
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032300496X" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, P. Lamb, A. Khmelnitsky, C. Coughlan, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0957417423020390" target="_blank">SwipeFormer: Transformers for Mobile Touchscreen Biometrics</a>. *Expert Systems with Applications*, 2023.
   
-- S. Romero-Tapiador, **R. Tolosana**, A. Morales, I. Espinosa-Salinas, G. Freixer, J. Fierrez, R. Vera-Rodriguez, E. Carrillo de Santa Pau, A. Ramírez de Molina, J. Ortega-Garcia. <a href="https://arxiv.org/abs/2309.06308" target="_blank">AI4Food-NutritionFW: A Novel Framework for the Automatic Synthesis and Analysis of Eating Behaviours</a>. *IEEE Access*, 2023.
+- S. Romero-Tapiador, **R. Tolosana**, A. Morales, I. Espinosa-Salinas, G. Freixer, J. Fierrez, R. Vera-Rodriguez, E. Carrillo de Santa Pau, A. Ramírez de Molina, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/abstract/document/10274080" target="_blank">AI4Food-NutritionFW: A Novel Framework for the Automatic Synthesis and Analysis of Eating Behaviours</a>. *IEEE Access*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">M-GaitFormer: Mobile Biometric Gait Verification Using Transformers</a>. *Engineering Applications of Artificial Intelligence*, 2023.
  
