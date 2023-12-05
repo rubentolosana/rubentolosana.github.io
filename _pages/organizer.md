@@ -53,6 +53,7 @@ Local Organizer
 Workshop Organizer
 -----
 
+- 1st International Workshop on Responsible Face Image Processing (ReFIP) at the IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG 2024), Istanbul, Turkey, May 2024 <a href="https://responsiblefaceimageprocessing.github.io/fg2024/">[Web]</a>.
 - Workshop Face Recognition Challenge in the Era of Synthetic Data (FRCSyn) at the IEEE/CVF Winter Conf. on Applications of Computer Vision, WACV 2024, Waikoloa, Hawaii, January 2024. <a href="https://frcsyn.github.io/">[Web]</a>
 - Workshop on Advances of Mobile and Wearable Biometrics (WAMWB) at the ACM Intl. Conf. on Mobile Human-Computer Interaction, MobileHCI 2023, Athens, Greece, September 2023. <a href="https://sites.google.com/view/wamwb/home-page">[Web]</a> 
 - Workshop on Digital Face Manipulation and Detection, European Association for Biometrics (EAB), July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
