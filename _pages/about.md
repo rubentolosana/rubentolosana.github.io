@@ -20,6 +20,8 @@ About me
 News 
 ======
 
+- **December, 2023:** Co-Organizer of the [1st International Workshop on Responsible Face Image Processing (ReFIP)](https://responsiblefaceimageprocessing.github.io/fg2024/) at the [IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024)](https://fg2024.ieee-biometrics.org/).
+
 - **October, 2023:** Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/). 
 
 - **September, 2023:** I received the "Outstanding Reviewer Award" in the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/).
