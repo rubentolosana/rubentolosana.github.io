@@ -40,6 +40,7 @@ Journal Reviewer (since 2016)
 Program Committee Member (since 2016)
 -----
 
+- Computer Vision and Pattern Recognition Conference (CVPR).
 - International Conference on Document Analysis and Recognition (ICDAR).
 - Winter Conference on Applications of Computer Vision (WACV).
 - International Conference on Pattern Recogntion (ICPR).
