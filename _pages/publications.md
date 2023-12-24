@@ -38,6 +38,8 @@ Book Chapters
 Journal Articles
 -----
 
+- G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, N. Damer, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10367999" target="_blank">Keystroke Verification Challenge (KVC): Biometric and Fairness Benchmark Evaluation</a>. *IEEE Access*, 2023.
+
 - P. Melzi, R. Vera-Rodriguez, **R. Tolosana**, A. Sanz‑Garcia, A. Cecconi, G. Ortega and L. Jimenez‑Borreguero. <a href="https://www.sciencedirect.com/science/article/pii/S195903182300060X" target="_blank">Prediction of Atrial Fibrillation from Sinus-Rhythm Electrocardiograms Based on Deep Neural Networks: Analysis of Time Intervals and Longitudinal Study</a>. *Innovation and Research in BioMedical Engineering (IRBM)*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032300496X" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
