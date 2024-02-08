@@ -7,6 +7,27 @@ author_profile: true
 
 <br>
 
+<p align="left"><b>Ivan DeAndres Tame</b></p>
+
+<p> 
+<img src="https://rubentolosana.github.io/images/ivan_2024.jpeg" align="left" height="350" width="200"> 
+<DIV align="center">
+ <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Human Interaction with Smart Devices in Security and Digital Health Domains
+ <p><a href="https://scholar.google.com/citations?user=4ulTK3wAAAAJ&hl=en">Google Scholar</a>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<br/>
+
+
 <p align="left"><b>Paula Delgado-Santos</b></p>
 
 <p> 
