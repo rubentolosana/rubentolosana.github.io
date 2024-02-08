@@ -108,7 +108,7 @@ author_profile: true
 <p align="left"><b>Ivan DeAndres Tame</b></p>
 
 <p> 
-<img src="https://rubentolosana.github.io/images/ivan.png" align="left" height="350" width="200"> 
+<img src="https://rubentolosana.github.io/images/ivan_2024.jpeg" align="left" height="350" width="200"> 
 <DIV align="center">
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
