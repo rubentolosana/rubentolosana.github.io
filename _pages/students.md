@@ -21,6 +21,8 @@ author_profile: true
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <br/>
 
@@ -115,6 +117,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://www.kent.ac.uk/engineering/people/669/guest-richard">Richard Guest</a>
  <p><b>Thesis:</b> Mobile Device Background Sensors: Authentication vs Privacy
+ <p><b>Dates: 2020 - 2023</b> 
  <p><a href="https://scholar.google.es/citations?hl=en&user=-UgABOgAAAAJ">Google Scholar</a> 
 </p>
 
