@@ -38,14 +38,14 @@ Book Chapters
 Journal Articles
 -----
 
+- P. Delgado-Santos, **R. Tolosana**, R. Guest, P. Lamb, A. Khmelnitsky, C. Coughlan, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0957417423020390" target="_blank">SwipeFormer: Transformers for Mobile Touchscreen Biometrics</a>. *Expert Systems with Applications*, 2024.
+  
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, N. Damer, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10367999" target="_blank">Keystroke Verification Challenge (KVC): Biometric and Fairness Benchmark Evaluation</a>. *IEEE Access*, 2023.
 
 - P. Melzi, R. Vera-Rodriguez, **R. Tolosana**, A. Sanz‑Garcia, A. Cecconi, G. Ortega and L. Jimenez‑Borreguero. <a href="https://www.sciencedirect.com/science/article/pii/S195903182300060X" target="_blank">Prediction of Atrial Fibrillation from Sinus-Rhythm Electrocardiograms Based on Deep Neural Networks: Analysis of Time Intervals and Longitudinal Study</a>. *Innovation and Research in BioMedical Engineering (IRBM)*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, F. Deravi and R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032300496X" target="_blank">Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition</a>. *Pattern Recognition*, 2023.
 
-- P. Delgado-Santos, **R. Tolosana**, R. Guest, P. Lamb, A. Khmelnitsky, C. Coughlan, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0957417423020390" target="_blank">SwipeFormer: Transformers for Mobile Touchscreen Biometrics</a>. *Expert Systems with Applications*, 2023.
-  
 - S. Romero-Tapiador, **R. Tolosana**, A. Morales, I. Espinosa-Salinas, G. Freixer, J. Fierrez, R. Vera-Rodriguez, E. Carrillo de Santa Pau, A. Ramírez de Molina, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/abstract/document/10274080" target="_blank">AI4Food-NutritionFW: A Novel Framework for the Automatic Synthesis and Analysis of Eating Behaviours</a>. *IEEE Access*, 2023.
 
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">M-GaitFormer: Mobile Biometric Gait Verification Using Transformers</a>. *Engineering Applications of Artificial Intelligence*, 2023.
@@ -122,6 +122,8 @@ Journal Articles
 
 Conference Papers
 -----
+
+- P. Melzi, R. Tolosana, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, Á. Sánchez-Pérez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/html/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.html" target="_blank">FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, Hawaii, USA, January 2024.
 
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">Synthetic Data for the Mitigation of Demographic Biases in Face Recognition</a>. in *Proc. IEEE International Joint Conference on Biometrics, IJCB*, Ljubljana, Slovenia, September 2023.
 
