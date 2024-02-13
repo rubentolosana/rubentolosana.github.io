@@ -123,6 +123,8 @@ Journal Articles
 Conference Papers
 -----
 
+- P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/html/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.html" target="_blank">FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, Hawaii, USA, January 2024.
+
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">Synthetic Data for the Mitigation of Demographic Biases in Face Recognition</a>. in *Proc. IEEE International Joint Conference on Biometrics, IJCB*, Ljubljana, Slovenia, September 2023.
 
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, D. Lawatsch, F. Domin, M. Schaubert. <a href="https://arxiv.org/abs/2305.19962" target="_blank">GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations</a>. in *Proc. IEEE/CVF International Conference on Computer Vision Workshops, ICCVw*, Paris, France, October 2023. **Best Paper Award**
@@ -133,13 +135,13 @@ Conference Papers
 
 - L.F. Gomez, J. Fierrez, A. Morales, M. Ghafourian, **R. Tolosana**, I. Solano, A. Garcia, F. Zamora-Martinez. <a href="https://ieeexplore.ieee.org/abstract/document/10197034" target="_blank">PAD-Phys: Exploiting Physiology for Presentation Attack Detection in Face Biometrics</a>. in *Proc. IEEE 47th Annual Computers, Software, and Applications Conference, COMPSAC*, Torino, Italy, July 2023.
 
-- D. DeAlcala, A. Morales, **R. Tolosana**, A. Acien, J. Fierrez, S. Hernández, M.A. Ferrer and M. Diaz. <a href="https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/DeAlcala_BeCAPTCHA-Type_Biometric_Keystroke_Data_Generation_for_Improved_Bot_Detection_CVPRW_2023_paper.html">BeCAPTCHA-Type: Biometric Keystroke Data Generation for Improved Bot Detection</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Vancouver, Canada, June 2023.
+- D. DeAlcala, A. Morales, **R. Tolosana**, A. Acien, J. Fierrez, S. Hernández, M.A. Ferrer and M. Diaz. <a href="https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/DeAlcala_BeCAPTCHA-Type_Biometric_Keystroke_Data_Generation_for_Improved_Bot_Detection_CVPRW_2023_paper.html" target="_blank">BeCAPTCHA-Type: Biometric Keystroke Data Generation for Improved Bot Detection</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Vancouver, Canada, June 2023.
 
 - P. Melzi, J.M. Rodriguez-Albala, A. Morales, **R. Tolosana**, J. Fierrez, R. Vera-Rodriguez. <a href="https://link.springer.com/chapter/10.1007/978-3-031-36616-1_50" target="_blank">Fishing Gear Classification from Vessel Trajectories and Velocity Profiles: Database and Benchmark</a>. in *Proc. Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA*, Alicante, Spain, June 2023.
 
-- R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, Washington DC, USA, February 2023.
+- R. Daza, L.F. Gomez, A. Morales, J. Fierrez, **R. Tolosana**, R. Cobos and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2301.09174" target="_blank">MATT: Multimodal Attention Level Estimation for e-learning Platforms</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, Washington DC, USA, February 2023.
 
-- R. Daza, A. Morales, **R. Tolosana**, L.F. Gomez, J. Fierrez and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.09210">edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms</a>. in *Proc. AAAI Conference on Artificial Intelligence, AAAI*, Washington DC, USA, February 2023.
+- R. Daza, A. Morales, **R. Tolosana**, L.F. Gomez, J. Fierrez and J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.09210" target="_blank">edBB-Demo: Biometrics and Behavior Analysis for Online Educational Platforms</a>. in *Proc. AAAI Conference on Artificial Intelligence, AAAI*, Washington DC, USA, February 2023.
 
 - P. Melzi, H.O. Shahreza, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, S. Marcel and C. Busch. <a href="https://openaccess.thecvf.com/content/WACV2023W/DVPBA/html/Melzi_Multi-IVE_Privacy_Enhancement_of_Multiple_Soft-Biometrics_in_Face_Embeddings_WACVW_2023_paper.html" target="_blank">Multi-IVE: Privacy Enhancement of Multiple Soft-Biometrics in Face Embeddings</a>. in *Proc. IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVw*, Waikoloa, Hawaii, USA, January 2023.
 
@@ -147,7 +149,7 @@ Conference Papers
 
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, J. Fierrez, J. Ortega-Garcia, S. Rasnayaka, S. Seneviratne, V. Dissanayake, J. Liebers, A. Islam, S.B. Belhaouari, S. Ahmad, S. Jabin. <a href="https://ieeexplore.ieee.org/abstract/document/10007985" target="_blank">IJCB 2022 Mobile Behavioral Biometrics Competition (MobileB2C)</a>.  in *Proc. IEEE International Joint Conference on Biometrics, IJCB*, October 2022.
 
-- R. Daza, D. DeAlcala, A. Morales, **R. Tolosana**, R. Cobos and J. Fierrez. <a href="https://arxiv.org/abs/2112.09165">ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2022.
+- R. Daza, D. DeAlcala, A. Morales, **R. Tolosana**, R. Cobos and J. Fierrez. <a href="https://arxiv.org/abs/2112.09165" target="_blank">ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning</a>. in *Proc. AAAI Workshop on Artificial Intelligence for Education, AI4EDU*, February 2022.
 
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, A. Acien and G. L. Lan. <a href="https://ieeexplore.ieee.org/document/9794524" target="_blank">Mobile Passive Authentication through Touchscreen and Background Sensor Data</a>.  in *Proc. IEEE International Workshop on Biometrics and Forensics, IWBF*, April 2022.
 
