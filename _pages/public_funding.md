@@ -9,6 +9,35 @@ Participation as member of the research team:
 
 <br>
 
+
+<a> 
+<img src="https://rubentolosana.github.io/images/CatedraENIA.jpg" align="right" height="150" width="225"> 
+</a>
+
+# (2023-2026) Cátedra ENIA UAM-VERIDAS en IA Responsable
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Cátedra ENIA UAM-VERIDAS en IA Responsable</p>
+ <p><b>Type:</b> NextGenerationEU</p>
+ <p><b>Code:</b> TSI-100927-2023-2</p>
+ <p><b>Funding:</b> ca. 500 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2023 - December 2026</p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <b><u>Ruben Tolosana</u></b>b></p>
+ <p><b>Objectives:</b></p>
+ <p>- Improve the robustness and security performance of biometric systems against attacks such as DeepFakes, posisoning and backdoor attacks, etc.</p>
+ <p>- Analysis and proposal of novel methods to reduce the bias in AI models.</p>
+ <p>- Proposal of novel methods to improve the explainability of the AI models.</p>
+ <p>- Analysis and proposal of novel methods to detect and mitigate the extraction/use of sensitive information in AI models.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+
 <a> 
 <img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
