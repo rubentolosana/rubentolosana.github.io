@@ -24,7 +24,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 500 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> January 2023 - December 2026</p>
- <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <b><u>Ruben Tolosana</u></b>b></p>
+ <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <b><u>Ruben Tolosana</u></b></p>
  <p><b>Objectives:</b></p>
  <p>- Improve the robustness and security performance of biometric systems against attacks such as DeepFakes, posisoning and backdoor attacks, etc.</p>
  <p>- Analysis and proposal of novel methods to reduce the bias in AI models.</p>
