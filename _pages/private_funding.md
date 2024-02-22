@@ -22,7 +22,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> May 2022 - December 2023</p>
- <p><b>Principal investigator(s):</b> <u>Ruben Tolosana</u> and <u>Ruben Vera-Rodriguez</u></p>
+ <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b> and <u>Ruben Vera-Rodriguez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to detect falls in elderly population using mobile devices and Artificial Intelligence methods.</p>
 </DIV>
@@ -47,7 +47,7 @@ Participation as member of the research team:
  <p><b>Funding:</b> ca. 40K</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> March 2022 - June 2023</p>
- <p><b>Principal investigator(s):</b> <u>Aythami Morales</u> and <u>Ruben Tolosana</u></p>
+ <p><b>Principal investigator(s):</b> <u>Aythami Morales</u> and <b><u>Ruben Tolosana</u></b></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of a software module able to detect presentation attacks to facial biometric systems (e.g., facial masks, printed faces, replay attacks) in accordance to NIST and ISO developments in this area.</p>
 </DIV>
