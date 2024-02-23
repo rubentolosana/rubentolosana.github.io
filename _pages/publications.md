@@ -38,6 +38,10 @@ Book Chapters
 Journal Articles
 -----
 
+- I. DeAndres-Tame, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia. <a href="https://link.springer.com/article/10.1007/s10032-0" target="_blank">How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability</a>. *IEEE Access*, 2024.
+
+- J.C. Ruiz-Garcia, C. Hojas, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://link.springer.com/article/10.1007/s10032-0" target="_blank">Children Age Group Detection based on Human-Computer Interaction and Time Series Analysis</a>. *International Journal on Document Analysis and Recognition*, 2024.
+
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, P. Lamb, A. Khmelnitsky, C. Coughlan, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0957417423020390" target="_blank">SwipeFormer: Transformers for Mobile Touchscreen Biometrics</a>. *Expert Systems with Applications*, 2024.
   
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, N. Damer, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10367999" target="_blank">Keystroke Verification Challenge (KVC): Biometric and Fairness Benchmark Evaluation</a>. *IEEE Access*, 2023.
