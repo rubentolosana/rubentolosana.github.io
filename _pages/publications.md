@@ -38,6 +38,8 @@ Book Chapters
 Journal Articles
 -----
 
+- P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://openaccess.thecvf.com/content/WACV2024W/FRCSyn/html/Melzi_FRCSyn_Challenge_at_WACV_2024_Face_Recognition_Challenge_in_the_WACVW_2024_paper.html" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
+
 - I. DeAndres-Tame, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10445251" target="_blank">How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability</a>. *IEEE Access*, 2024.
 
 - J.C. Ruiz-Garcia, C. Hojas, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://link.springer.com/article/10.1007/s10032-0" target="_blank">Children Age Group Detection based on Human-Computer Interaction and Time Series Analysis</a>. *International Journal on Document Analysis and Recognition*, 2024.
