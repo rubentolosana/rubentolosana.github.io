@@ -40,11 +40,13 @@ Journal Articles
 
 - P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001003" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
 
+- J.C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Herreros-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S138904172400024X?via%3Dihub" target="_blank">ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection</a>. *Cognitive Systems Research*, 2024.
+
 - I. DeAndres-Tame, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10445251" target="_blank">How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability</a>. *IEEE Access*, 2024.
 
-- J.C. Ruiz-Garcia, C. Hojas, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://link.springer.com/article/10.1007/s10032-024-00462-1" target="_blank">Children Age Group Detection based on Human-Computer Interaction and Time Series Analysis</a>. *International Journal on Document Analysis and Recognition*, 2024.
-
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, P. Lamb, A. Khmelnitsky, C. Coughlan, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0957417423020390" target="_blank">SwipeFormer: Transformers for Mobile Touchscreen Biometrics</a>. *Expert Systems with Applications*, 2024.
+  
+- J.C. Ruiz-Garcia, C. Hojas, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://link.springer.com/article/10.1007/s10032-024-00462-1" target="_blank">Children Age Group Detection based on Human-Computer Interaction and Time Series Analysis</a>. *International Journal on Document Analysis and Recognition*, 2024.
   
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**, A. Morales, N. Damer, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10367999" target="_blank">Keystroke Verification Challenge (KVC): Biometric and Fairness Benchmark Evaluation</a>. *IEEE Access*, 2023.
 
