@@ -40,6 +40,8 @@ Journal Articles
 
 - P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001003" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
 
+- S. Romero-Tapiador, **R. Tolosana**, A. Morales, J. Fierrez, R. Vera-Rodriguez, I. Espinosa-Salinas, G. Freixer, E. Carrillo de Santa Pau, A. Ramírez de Molina, J. Ortega-Garcia. <a href="https://arxiv.org/abs/2211.07440" target="_blank">Leveraging Automatic Personalised Nutrition: Food Image Recognition Benchmark and Dataset based on Nutrition Taxonomy</a>. *Multimedia Tools and Applications*, 2024.
+
 - J.C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Herreros-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S138904172400024X?via%3Dihub" target="_blank">ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection</a>. *Cognitive Systems Research*, 2024.
 
 - I. DeAndres-Tame, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10445251" target="_blank">How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability</a>. *IEEE Access*, 2024.
@@ -71,8 +73,6 @@ Journal Articles
 - P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://ieeexplore.ieee.org/document/10043674" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *IEEE Access*, 2023.
 
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://arxiv.org/abs/2206.10465" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *arXiv preprint arXiv:2206.10465*, 2022.
-
-- J. C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez and J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2204.04236" target="_blank">ChildCI Framework: Analysis of Motor and Cognitive Development in Children-Computer Interaction for Age Detection</a>. *arXiv preprint arXiv:2204.04236*, 2022.
 
 - **R. Tolosana**, S. Romero-Tapiador, R. Vera-Rodriguez, E. Gonzalez-Sosa and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197622000070" target="_blank">DeepFakes Detection across Generations: Analysis of Facial Regions, Fusion, and Performance Evaluation</a>. *Engineering Applications of Artificial Intelligence*, Vol. 110, 104673, 2022.
 
