@@ -19,7 +19,7 @@ About me
 News 
 ======
 
-- **March, 2024:** Hiring alert!! 2 Postdoctoral and 5 PhD students Positions at Universidad Autónoma de Madrid. If you are interested, please check the following [document](https://drive.google.com/file/d/1YSMEr4_SseqDQCv5NpLPYv57BEG-Ql8z/view?usp=sharing) <font color='red'>CLOSED</font>.
+- **March, 2024:** Hiring alert!! 2 Postdoctoral and 5 PhD students Positions at UAM. If you are interested, please check the following [document](https://drive.google.com/file/d/1YSMEr4_SseqDQCv5NpLPYv57BEG-Ql8z/view?usp=sharing) <font color='red'>[CLOSED]</font>.
 
 - **January, 2024:** Co-Organizer of the Workshop/Challenge [2nd Edition Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)](https://frcsyn.github.io/) at the [IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2024)](https://cvpr.thecvf.com/). The platform used in the 2nd edition of FRCSyn challenge is [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/16970).
 
