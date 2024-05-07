@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-<p align="left"><b>Ivan DeAndres Tame</b></p>
+<p align="left"><b>Ivan DeAndres-Tame</b></p>
 
 <p> 
 <img src="https://rubentolosana.github.io/images/ivan_2024.jpeg" align="left" height="350" width="200"> 
