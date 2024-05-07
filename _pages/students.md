@@ -15,7 +15,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Human Interaction with Smart Devices in Security and Digital Health Domains
- <p><b>Dates:</b> September 2023 - Ongoing
+ <p><b>Dates:</b> May 2023 - Ongoing
  <p><a href="https://scholar.google.com/citations?user=4ulTK3wAAAAJ&hl=en">Google Scholar</a>
 </p>
 
