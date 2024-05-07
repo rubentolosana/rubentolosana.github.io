@@ -15,7 +15,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Human Interaction with Smart Devices in Security and Digital Health Domains
- <p><b>Dates:</b> 2023 - Ongoing
+ <p><b>Dates:</b> September 2023 - Ongoing
  <p><a href="https://scholar.google.com/citations?user=4ulTK3wAAAAJ&hl=en">Google Scholar</a>
 </p>
 
@@ -36,7 +36,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://aythami.me/">Aythami Morales</a>
  <p><b>Thesis:</b> Artificial Intelligence Applied to Precision Nutrition
- <p><b>Dates:</b> 2022 - Ongoing
+ <p><b>Dates:</b> March 2022 - Ongoing
  <p><a href="https://scholar.google.es/citations?user=fjh1KJUAAAAJ&hl=es&oi=ao">Google Scholar</a>
 </p>
 
@@ -57,7 +57,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Analysis of Human-Machine Interaction for Digital Health
- <p><b>Dates:</b> 2021 - Ongoing
+ <p><b>Dates:</b> September 2021 - Ongoing
  <p><a href="https://scholar.google.es/citations?user=CTaqwlYAAAAJ&hl=es&oi=ao">Google Scholar</a>
 </p>
 
@@ -80,7 +80,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Biometric Recognition based on Mobile Human-Computer Interaction
- <p><b>Dates:</b> 2021 - 2024
+ <p><b>Dates:</b> November 2020 - May 2024
  <p><a href="https://scholar.google.es/citations?user=98KBPccAAAAJ&hl=en&oi=ao">Google Scholar</a>
 </p>
 
@@ -101,7 +101,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Security and Privacy Enhancement in Biometric and eHealth Systems: New Machine Learning Approaches for ECG, Face, and Data Synthesis
- <p><b>Dates:</b> 2021 - 2024 
+ <p><b>Dates:</b> November 2020 - May 2024 
  <p><a href="https://scholar.google.es/citations?user=iGAKK84AAAAJ&hl=en&oi=ao">Google Scholar</a>
 </p>
 
