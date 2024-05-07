@@ -19,7 +19,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Automatic Fall Detection through Mobile Devices and AI Methods</p>
  <p><b>Type:</b> R&D Contract with Cartronic</p>
- <p><b>Funding:</b> ca. 40 Keuros</p>
+ <p><b>Funding:</b> ca. 47 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> May 2022 - December 2023</p>
  <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b> and <u>Ruben Vera-Rodriguez</u></p>
