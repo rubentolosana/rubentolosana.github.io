@@ -40,6 +40,12 @@ Journal Articles
 
 - P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001003" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
 
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://arxiv.org/abs/2206.10465" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *ACM Computing Surveys*, 2024.
+  
+- R. Daza, A. Morales, J. Fierrez, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001120" target="_blank">mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection</a>. *Pattern Recognition Letters*, 2024.
+  
+- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2212.13075" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *Neural Computing and Applications*, 2024.
+
 - S. Romero-Tapiador, **R. Tolosana**, A. Morales, J. Fierrez, R. Vera-Rodriguez, I. Espinosa-Salinas, G. Freixer, E. Carrillo de Santa Pau, A. Ramírez de Molina, J. Ortega-Garcia. <a href="https://link.springer.com/article/10.1007/s11042-024-19161-4" target="_blank">Leveraging Automatic Personalised Nutrition: Food Image Recognition Benchmark and Dataset based on Nutrition Taxonomy</a>. *Multimedia Tools and Applications*, 2024.
   
 - J.M. Rodriguez-Albala, A. Peña, P. Melzi, A. Morales, R. Tolosana, J. Fierrez, R. Vera-Rodriguez, J. Ortega-Garcia. <a href="https://link.springer.com/article/10.1007/s10044-024-01263-2" target="_blank">Spatio-Temporal Trajectory Data Modeling for Fishing Gear Classification</a>. *Pattern Analysis and Applications*, 2024.
@@ -64,8 +70,6 @@ Journal Articles
  
 - S. Romero-Tapiador, B. Lacruz-Pleguezuelos, **R. Tolosana**, G. Freixer, R. Daza, C.M. Fernández-Díaz, E. Aguilar-Aguilar, J. Fernández-Cabezas, S. Cruz Gil, S. Molina-Arranz, M.C. Crespo, T. Laguna-Lobo, L.J. Marcos-Zambrano, R. Vera-Rodriguez, J. Fierrez, A. Ramírez de Molina, J. Ortega-Garcia, I. Espinosa-Salinas, A. Morales and E. Carrillo de Santa Pau. <a href="https://academic.oup.com/database/article/doi/10.1093/database/baad049/7226275" target="_blank">AI4FoodDB: A Database for Personalized e-Health Nutrition and Lifestyle through Wearable Devices and Artificial Intelligence</a>. *Database: The Journal of Biological Databases and Curation*, 2023.
 
-- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2212.13075" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *arXiv preprint arXiv:2212.13075*, 2023.
-
 - M. Ghafourian, B. Sumer, R. Vera-Rodriguez, J. Fierrez, **R. Tolosana**, A. Morales and E. Kindt. <a href="https://arxiv.org/abs/2302.10883" target="_blank">Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis</a>. *arXiv preprint arXiv:2302.10883*, 2023.
 
 - H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2302.13286" target="_blank">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *arXiv preprint arXiv:2302.13286*, 2023.
@@ -73,8 +77,6 @@ Journal Articles
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana** and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">BehavePassDB: Public Database for Mobile Behavioral Biometrics and Benchmark Evaluation</a>. *Pattern Recognition*. Vol. 123, 109089, 2023.
 
 - P. Melzi, **R. Tolosana** and R. Vera-Rodriguez. <a href="https://ieeexplore.ieee.org/document/10043674" target="_blank">ECG Biometric Recognition: Review, System Proposal, and Benchmark Evaluation</a>. *IEEE Access*, 2023.
-
-- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://arxiv.org/abs/2206.10465" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *arXiv preprint arXiv:2206.10465*, 2022.
 
 - **R. Tolosana**, S. Romero-Tapiador, R. Vera-Rodriguez, E. Gonzalez-Sosa and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197622000070" target="_blank">DeepFakes Detection across Generations: Analysis of Facial Regions, Fusion, and Performance Evaluation</a>. *Engineering Applications of Artificial Intelligence*, Vol. 110, 104673, 2022.
 
