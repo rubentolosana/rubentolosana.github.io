@@ -40,7 +40,7 @@ Journal Articles
 
 - P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001003" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
 
-- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://arxiv.org/abs/2206.10465" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *ACM Computing Surveys*, 2024.
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://dl.acm.org/doi/10.1145/3664596" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *ACM Computing Surveys*, 2024.
   
 - R. Daza, A. Morales, J. Fierrez, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001120" target="_blank">mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection</a>. *Pattern Recognition Letters*, 2024.
   
