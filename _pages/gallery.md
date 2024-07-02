@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Organization of 2nd FRCSyn Workshop at IEEE/CVF CVPR 2024, Seattle, USA (June 2024)
+-----
+- Organization of the Workshop [2nd Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)](https://frcsyn.github.io/CVPR2024.html) at [IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2024](https://cvpr.thecvf.com/).
+
+<img src="https://rubentolosana.github.io/images/2nd_FRCSyn_CVPR2024.png" align="center" width="1000"/>
+
 Best Paper Award at AMFG Workshop, IEEE/CVF ICCV 2023, Paris, France (October 2023)
 -----
 - Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/).
