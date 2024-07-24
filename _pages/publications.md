@@ -175,7 +175,7 @@ Conference Papers
 
 - **R. Tolosana**, R. Vera-Rodriguez, C. Gonzalez-Garcia, J. Fierrez, S. Rengifo, A. Morales, J. Ortega-Garcia, J. C. Ruiz-Garcia, S. Romero-Tapiador, J. Jiang, S. Lai, L. Jin, Y. Zhu, J. Galbally, M. Diaz, M. Ferrer, M. Gomez-Barrero, I. Hodashinsky, K. Sarin, A. Slezkin, M. Bardamova, M. Svetlakov, M. Saleem, C. Szucs, B. Kovari, F. Pulsmeyer, M. Wehbi, D. Zanca, S. Ahmad, S. Mishra and S. Jabin. <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-86337-1_48" target="_blank">ICDAR 2021 Competition on On-Line Signature Verification</a>. in *Proc. International Conference on Document Analysis and Recogniton, ICDAR*, Lausanne, Switzerland, September 2021.
 
-- **R. Tolosana**, P. Delgado-Santos, A. Perez-Uribe, R. Vera-Rodriguez, J. Fierrez and A. Morales. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16139/15946" target="_blank">DeepWriteSYN: On-Line Handwriting Synthesis via Deep Short-Term Representations</a>. in *Proc. 35th AAAI Conference on Artificial Intelligence, AAAI*, Vancouver, Canada, February 2021.
+- **R. Tolosana**, P. Delgado-Santos, A. Perez-Uribe, R. Vera-Rodriguez, J. Fierrez and A. Morales. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16139" target="_blank">DeepWriteSYN: On-Line Handwriting Synthesis via Deep Short-Term Representations</a>. in *Proc. 35th AAAI Conference on Artificial Intelligence, AAAI*, Vancouver, Canada, February 2021.
 
 - J. Hernandez-Ortega, **R. Tolosana**, J. Fierrez and A. Morales. <a href="https://arxiv.org/abs/2010.00400" target="_blank">DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation</a>. in *Proc. 35th AAAI Conference on Artificial Intelligence Workshops, AAAIw*, Vancouver, Canada, February 2021.
 
