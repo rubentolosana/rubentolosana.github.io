@@ -44,7 +44,7 @@ Journal Articles
   
 - R. Daza, A. Morales, J. Fierrez, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001120" target="_blank">mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection</a>. *Pattern Recognition Letters*, 2024.
   
-- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://arxiv.org/abs/2212.13075" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *Neural Computing and Applications*, 2024.
+- G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://link.springer.com/article/10.1007/s00521-024-10140-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240730&utm_content=10.1007%2Fs00521-024-10140-2" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *Neural Computing and Applications*, 2024.
 
 - S. Romero-Tapiador, **R. Tolosana**, A. Morales, J. Fierrez, R. Vera-Rodriguez, I. Espinosa-Salinas, G. Freixer, E. Carrillo de Santa Pau, A. Ramírez de Molina, J. Ortega-Garcia. <a href="https://link.springer.com/article/10.1007/s11042-024-19161-4" target="_blank">Leveraging Automatic Personalised Nutrition: Food Image Recognition Benchmark and Dataset based on Nutrition Taxonomy</a>. *Multimedia Tools and Applications*, 2024.
   
