@@ -39,10 +39,14 @@ Journal Articles
 -----
 
 - P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001003" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
-
-- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://dl.acm.org/doi/10.1145/3664596" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *ACM Computing Surveys*, 2024.
+  
+- J.C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2404.06919v2" target="_blank">Longitudinal Analysis and Quantitative Assessment of Child Development through Mobile Interaction</a>. *IEEE Access*, 2024.
   
 - R. Daza, A. Morales, J. Fierrez, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001120" target="_blank">mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection</a>. *Pattern Recognition Letters*, 2024.
+  
+- P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://dl.acm.org/doi/10.1145/3664596" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *ACM Computing Surveys*, 2024.
+  
+- R. Daza, L.F. Gomez, J. Fierrez, A. Morales, **R. Tolosana**, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10633208" target="_blank">DeepFace-Attention: Enhancing Attention Level Estimation in E-Learning Environments using Face Biometrics</a>. *IEEE Access*, 2024.
   
 - G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://link.springer.com/article/10.1007/s00521-024-10140-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240730&utm_content=10.1007%2Fs00521-024-10140-2" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *Neural Computing and Applications*, 2024.
 
