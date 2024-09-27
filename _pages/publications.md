@@ -39,14 +39,16 @@ Journal Articles
 -----
 
 - P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, I. DeAndres-Tame, A. Morales, J. Fierrez, J. Ortega-Garcia, W. Zhao, X. Zhu, Z. Yan, X.Y. Zhang, J. Wu, Z. Lei, S. Tripathi, M. Kothari, M.H. Zama, D. Deb, B. Biesseck, P. Vidal, R. Granada, G. Fickel, G. Führ, D. Menotti, A. Unnervik, A. George, C. Ecabert, H. Otroshi Shahreza, P. Rahimi, S. Marcel, I. Sarridis, C. Koutlis, G. Baltsou, S. Papadopoulos, C. Diou, N. Di Domenico, G. Borghi, L. Pellegrini, E. Mas-Candela, A. Sanchez-Perez, A. Atzori, F. Boutros, N. Damer, G. Fenu, M. Marras. <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001003" target="_blank">FRCSyn-onGoing: Benchmarking and Comprehensive Evaluation of Real and Synthetic Data to Improve Face Recognition Systems</a>. *Information Fusion*, 2024.
+
+- S. Romero-Tapiador, **R. Tolosana**, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://arxiv.org/abs/2409.08700" target="_blank">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *arXiv:2409.08700*, 2024.
   
-- J.C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2404.06919v2" target="_blank">Longitudinal Analysis and Quantitative Assessment of Child Development through Mobile Interaction</a>. *IEEE Access*, 2024.
+- J.C. Ruiz-Garcia, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia and J. Herreros-Rodriguez. <a href="https://ieeexplore.ieee.org/document/10639398" target="_blank">Longitudinal Analysis and Quantitative Assessment of Child Development through Mobile Interaction</a>. *IEEE Access*, 2024.
   
 - R. Daza, A. Morales, J. Fierrez, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001120" target="_blank">mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection</a>. *Pattern Recognition Letters*, 2024.
   
 - P. Melzi, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez and C. Busch. <a href="https://dl.acm.org/doi/10.1145/3664596" target="_blank">An Overview of Privacy-enhancing Technologies in Biometric Recognition</a>. *ACM Computing Surveys*, 2024.
   
-- R. Daza, L.F. Gomez, J. Fierrez, A. Morales, **R. Tolosana**, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10633208" target="_blank">DeepFace-Attention: Enhancing Attention Level Estimation in E-Learning Environments using Face Biometrics</a>. *IEEE Access*, 2024.
+- R. Daza, L.F. Gomez, J. Fierrez, A. Morales, **R. Tolosana**, J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10633208" target="_blank">DeepFace-Attention: Multimodal Face Biometrics for Attention Estimation With Application to e-Learning</a>. *IEEE Access*, 2024.
   
 - G. Stragapede, P. Delgado-Santos, **R. Tolosana**, R. Vera-Rodriguez, R. Guest and A. Morales. <a href="https://link.springer.com/article/10.1007/s00521-024-10140-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240730&utm_content=10.1007%2Fs00521-024-10140-2" target="_blank">TypeFormer: Transformers for Mobile Keystroke Biometrics</a>. *Neural Computing and Applications*, 2024.
 
@@ -139,7 +141,13 @@ Journal Articles
 Conference Papers
 -----
 
-- S.M. La Cava, S. Concas, **R. Tolosana**, R. Casula, G. Orru, M. Drahansky, J. Fierrez, G.L. Marciallis. <a href="https://" target="_blank">Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance</a>. in *Proc. IEEE/CVF European Conference on Computer Vision Workshops, ECCVw*, Milan, Italy, September-October 2024.
+- I. DeAndres-Tame, M. Faisal, **R. Tolosana**, R. Al-Refai, R. Vera-Rodriguez, P. Terhorst. <a href="https://arxiv.org/abs/2409.16089" target="_blank">From Pixels to Words: Leveraging Explainability in Face Recognition through Interactive Natural Language Processing</a>. in *Proc. International Conference on Pattern Recognition Workshops, ICPRw*, Kolkata, India, December 2024.
+
+- I. Solano, A. Peña, A. Morales, J. Fierrez, **R. Tolosana**, F. Zamora-Martinez, J. San Agustin. <a href="https://arxiv.org/abs/2409.01928" target="_blank">Comprehensive Equity Index (CEI): Definition and Application to Bias Evaluation in Biometrics</a>. in *Proc. International Conference on Pattern Recognition, ICPR*, Kolkata, India, December 2024.
+
+- G. Garrido-Lopez, L.F. Gomez, J. Fierrez, A. Morales, **R. Tolosana**, J. Rueda, E. Navarro. <a href="https://arxiv.org/abs/2409.10175" target="_blank">VideoRun2D: Cost-Effective Markerless Motion Capture for Sprint Biomechanics</a>. in *Proc. International Conference on Pattern Recognition Workshops, ICPRw*, Kolkata, India, December 2024.
+
+- S.M. La Cava, S. Concas, **R. Tolosana**, R. Casula, G. Orru, M. Drahansky, J. Fierrez, G.L. Marciallis. <a href="https://arxiv.org/abs/2409.10481" target="_blank">Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance</a>. in *Proc. IEEE/CVF European Conference on Computer Vision Workshops, ECCVw*, Milan, Italy, September-October 2024.
   
 - I. DeAndres-Tame, **R. Tolosana**, P. Melzi, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Zhong, Y. Huang, Y. Mi, S. Ding, S. Zhou, S. He, L. Fu, H. Cong, R. Zhang, Z. Xiao, E. Smirnov, A. Pimenov, A. Grigorev, D. Timoshenko, K.M. Asfaw, C.Y. Low, H. Liu, C. Wang, Q. Zuo, Z. He, H.O. Shahreza, A. George, A. Unnervik, P. Rahimi, S. Marcel, P.C. Neto, M. Huber, J.N. Kolf, N. Damer, F. Boutros, J.S. Cardoso, A.F. Sequeira, A. Atzori, G. Fenu, M. Marras, V. Štruc, J. Yu, Z. Li, J. Li, W. Zhao, Z. Lei, X. Zhu, X.Y. Zhang, B. Biesseck, P. Vidal, L. Coelho, R. Granada, D. Menotti. <a href="https://openaccess.thecvf.com/content/CVPR2024W/FRCSyn/html/Deandres-Tame_Second_Edition_FRCSyn_Challenge_at_CVPR_2024_Face_Recognition_Challenge_CVPRW_2024_paper.html" target="_blank">Second Edition FRCSyn Challenge at CVPR 2024: Face Recognition Challenge in the Era of Synthetic Data</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Seattle, USA, June 2024.
   
