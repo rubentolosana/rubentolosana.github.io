@@ -7,6 +7,53 @@ author_profile: true
 
 <br>
 
+<p align="left"><b>Javier Muñoz-Haro</b></p>
+
+<p> 
+<img src="https://rubentolosana.github.io/images/javier.png" align="left" height="350" width="200"> 
+<DIV align="center">
+ <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Generative AI and Synthetic Data: New Approaches to Improve the Performance and Robustness of Security Systems
+ <p><b>Dates:</b> Sept 2024 - Ongoing
+ <p>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br/>
+
+<br>
+
+
+<br>
+
+<p align="left"><b>Laura Pedrouzo-Rodriguez</b></p>
+
+<p> 
+<img src="https://rubentolosana.github.io/images/laura.png" align="left" height="350" width="200"> 
+<DIV align="center">
+ <p>
+ <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
+ <p><b>Thesis:</b> Foundation Models in Biometric Recognition
+ <p><b>Dates:</b> Sept 2024 - Ongoing
+ <p>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br/>
+
+<br>
+
 <p align="left"><b>Ivan DeAndres-Tame</b></p>
 
 <p> 
