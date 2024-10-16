@@ -19,7 +19,7 @@ About me
 News 
 ======
 
-- **October, 2024:** I'm very happy to be selected as one of the most influential researchers in the world according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)", carried out by Stanford University and Elsevier. Check also additional information posted by [Universidad Autonoma de Madrid](https://www.uam.es/uam/noticias/ranking-standford-2024).
+- **October, 2024:** Selected as one of the most influential researchers in the world according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)", carried out by Stanford University and Elsevier. Check also additional information posted by [Universidad Autonoma de Madrid](https://www.uam.es/uam/noticias/ranking-standford-2024).
 
 - **March, 2024:** Hiring alert!! 2 Postdoctoral and 5 PhD students Positions at UAM. If you are interested, please check the following [document](https://drive.google.com/file/d/1YSMEr4_SseqDQCv5NpLPYv57BEG-Ql8z/view?usp=sharing) <font color='red'>[CLOSED]</font>.
 
