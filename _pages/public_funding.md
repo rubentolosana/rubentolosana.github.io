@@ -11,7 +11,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/CatedraENIA.jpg" align="right" height="250" width="150"> 
+<img src="https://rubentolosana.github.io/images/ENIA_EU_Ministerio.PNG" align="right" height="350" width="150"> 
 </a>
 
 # (2023-2026) Cátedra ENIA UAM-VERIDAS en IA Responsable
