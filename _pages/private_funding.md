@@ -217,10 +217,10 @@ Participation as Principal Investigator / Member of the Research Team:
 <DIV align="left">
  <p><b>Title:</b> Cognitive Analytics for Biometric Signature Authentication in Banking Scenarios</p>
  <p><b>Type:</b> R&D Contract with Cecabank</p>
- <p><b>Funding:</b> ca. 40K euros</p>
+ <p><b>Funding:</b> ca. 200K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> October 2016 - September 2020</p>
- <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p> (UAM technical lead: <u>Ruben Tolosana</u>)
+ <p><b>Principal investigator(s):</b> <u>Javier Ortega-Garcia</u></p> (UAM technical lead: <u>Ruben Tolosana</u>)
  <p><b>Objectives:</b></p>
  <p>- Research and Development in biometrics for improving the security and the user experience in banking applications at bank branches, remotely using desktop computing, and in mobile scenarios using smartphones.</p>
 
