@@ -5,7 +5,7 @@ permalink: /public_funding/
 author_profile: true
 ---
 
-Participation as member of the research team:
+Participation as Principal Investigator / Member of the Research Team:
 
 <br>
 
@@ -54,8 +54,8 @@ Participation as member of the research team:
  <p><b>Period:</b> January 2025 - December 2026</p>
  <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b></p>
  <p><b>Objectives:</b></p>
- <p>- Exploration and proposal of novel Generative AI methods for the synthesis of useful data in the scenarios considered.</p>
- <p>- Exploration of novel Foundational Models to overcome traditional limitations in Machine Learning and real-life scenarios.</p>
+ <p>- Exploration and proposal of novel Generative AI methods for the synthesis of data in the scenarios considered.</p>
+ <p>- Exploration of novel Foundational Models to overcome traditional limitations in Machine Learning and in real-life scenarios.</p>
  <p>- Application of the insights in scenarios such as Security, Health, and Human Behavior.</p>
 </DIV>
 </p>
