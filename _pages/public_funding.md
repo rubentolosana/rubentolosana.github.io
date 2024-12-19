@@ -39,7 +39,7 @@ Participation as member of the research team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/CM_UAM.PNG" align="right" height="150" width="225"> 
+<img src="https://rubentolosana.github.io/images/CM_UAM.PNG" align="right" height="150" width="175"> 
 </a>
 
 # (2025-2026) PowerAI+
