@@ -39,6 +39,34 @@ Participation as member of the research team:
 
 
 <a> 
+<img src="https://rubentolosana.github.io/images/CM_UAM.PNG" align="right" height="150" width="225"> 
+</a>
+
+# (2025-2026) PowerAI+
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Empowering AI Technologies through Large Language/Vision Models and Generative AI with Applications to Security, Health and Human Behavior</p>
+ <p><b>Type:</b> Comunidad de Madrid R&D Program</p>
+ <p><b>Code:</b> SI4/PJI/2024-00062</p>
+ <p><b>Funding:</b> ca. 54 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> January 2025 - December 2026</p>
+ <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b></p>
+ <p><b>Objectives:</b></p>
+ <p>- Exploration and proposal of novel Generative AI methods for the synthesis of useful data in the scenarios considered.</p>
+ <p>- Exploration of novel Foundational Models to overcome traditional limitations in Machine Learning and real-life scenarios.</p>
+ <p>- Application of the insights in scenarios such as Security, Health, and Human Behavior.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
+
+
+<a> 
 <img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
@@ -76,7 +104,7 @@ Participation as member of the research team:
 <p> 
 <DIV align="left">
  <p><b>Title:</b> Inteligencia Artificial para la Prevención de Enfermedades Crónicas a través de una Nutrición Personalizada</p>
- <p><b>Type:</b> CAM Synergy Program</p>
+ <p><b>Type:</b> Comunidad de Madrid Synergy Program</p>
  <p><b>Code:</b> Y2020/TCS6654</p>
  <p><b>Funding:</b> ca. 310 Keuros UAM (620 Keuros in total)</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid and IMDEA-Food Institute</p>
