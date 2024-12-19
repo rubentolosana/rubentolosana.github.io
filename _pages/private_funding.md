@@ -5,9 +5,33 @@ permalink: /private_funding/
 author_profile: true
 ---
 
-Participation as member of the research team:
+Participation as Principal Investigator / Member of the Research Team:
 
 <br>
+
+<a> 
+<img src="https://rubentolosana.github.io/images/Gradiant.png" align="right" height="150" width="250"> 
+</a>
+
+# (2024-2026) DeepFakesDB
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Database Generation and Benchmark</p>
+ <p><b>Type:</b> R&D Contract with Gradiant</p>
+ <p><b>Funding:</b> ca. 150K euros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> November 2024 - February 2026</p>
+ <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b> and <u>Julian Fierrez</u></p>
+ <p><b>Objectives:</b></p>
+ <p>- Research and Development of a novel database composed of real and DeepFake videos in virtual meeting scenarios. Proposal of a benchmark for DeepFake detection.</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
 
 <a> 
 <img src="https://rubentolosana.github.io/images/cartronic.png" align="right" height="150" width="250"> 
@@ -19,7 +43,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Automatic Fall Detection through Mobile Devices and AI Methods</p>
  <p><b>Type:</b> R&D Contract with Cartronic</p>
- <p><b>Funding:</b> ca. 47 Keuros</p>
+ <p><b>Funding:</b> ca. 47K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> May 2022 - December 2023</p>
  <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b> and <u>Ruben Vera-Rodriguez</u></p>
@@ -44,7 +68,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Detecting Fraud in Facial Biometric Systems</p>
  <p><b>Type:</b> R&D Contract with Veridas</p>
- <p><b>Funding:</b> ca. 40K</p>
+ <p><b>Funding:</b> ca. 47K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> March 2022 - June 2023</p>
  <p><b>Principal investigator(s):</b> <u>Aythami Morales</u> and <b><u>Ruben Tolosana</u></b></p>
@@ -67,7 +91,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Quality Measurement for Face Biometrics</p>
  <p><b>Type:</b> R&D Contract with Veridas</p>
- <p><b>Funding:</b> ca. 40K</p>
+ <p><b>Funding:</b> ca. 40K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> September 2020 - June 2021</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p>
@@ -91,7 +115,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Biometrics and Behavior for Assessing Remote Education</p>
  <p><b>Type:</b> R&D Commission funded by UAM</p>
- <p><b>Funding:</b> ca. 30 Keuros</p>
+ <p><b>Funding:</b> ca. 30K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> October 2019 - December 2021</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Aythami Morales</u></p>
@@ -115,7 +139,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Mobile User Monitoring from Heterogeneous Biometric Data</p>
  <p><b>Type:</b> Competitive Research Grant, BBVA Foundation</p>
- <p><b>Funding:</b> ca. 100 Keuros</p>
+ <p><b>Funding:</b> ca. 100K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> September 2018 - August 2020</p>
  <p><b>Principal investigator(s):</b> <u>Javier Ortega-Garcia</u></p>
@@ -143,7 +167,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Advanced Analytics</p>
  <p><b>Type:</b> Technical Support Contract with Accenture</p>
- <p><b>Funding:</b> ca. 80 Keuros</p>
+ <p><b>Funding:</b> ca. 80K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> February 2017 - January 2021</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p>
@@ -168,7 +192,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Characterization of Neuro-Degenerative Disorders with new Biomarkers</p>
  <p><b>Type:</b> Competitive Research Grant (UAM-CEAL), Banco Santander</p>
- <p><b>Funding:</b> 12.5 Keuros</p>
+ <p><b>Funding:</b> 12.5K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> July 2017 - December 2018</p>
  <p><b>Principal investigator(s):</b> <u>Aythami Morales</u></p>
@@ -193,7 +217,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> Cognitive Analytics for Biometric Signature Authentication in Banking Scenarios</p>
  <p><b>Type:</b> R&D Contract with Cecabank</p>
- <p><b>Funding:</b> ca. 40 Keuros</p>
+ <p><b>Funding:</b> ca. 40K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> October 2016 - September 2020</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u></p> (UAM technical lead: <u>Ruben Tolosana</u>)
@@ -217,7 +241,7 @@ Participation as member of the research team:
 <DIV align="left">
  <p><b>Title:</b> e-BioSign: Improvement of Signature Comparison Technology</p>
  <p><b>Type:</b>  R&D Contract with Cecabank</p>
- <p><b>Funding:</b> ca. 100 Keuros</p>
+ <p><b>Funding:</b> ca. 100K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid</p>
  <p><b>Period:</b> April 2014 - May 2016</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <u>Javier Ortega-Garcia</u></p> (UAM technical lead: <u>Ruben Tolosana</u>)
