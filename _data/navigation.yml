@@ -18,12 +18,14 @@ main:
   - title: "Organizer"
     url: /organizer/ 
 
+  - title: "Gallery"
+    url: /gallery/
+
   - title: "Reviewer"
     url: /reviewer/ 
     
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Gallery"
-    url: /gallery/ 
+   
 
