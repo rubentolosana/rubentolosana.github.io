@@ -9,6 +9,9 @@ main:
   - title: "Private Funding"
     url: /private_funding/ 
 
+  - title: "Awards"
+    url: /awards/ 
+
   - title: "PhD Students"
     url: /students/ 
     
