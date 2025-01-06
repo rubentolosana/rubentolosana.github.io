@@ -31,7 +31,9 @@ News
 
 - **December, 2023:** Co-Organizer of the [1st International Workshop on Responsible Face Image Processing (ReFIP)](https://responsiblefaceimageprocessing.github.io/fg2024/) at the [IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024)](https://fg2024.ieee-biometrics.org/).
 
-- **October, 2023:** Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/). 
+- **October, 2023:** Our paper [GANDiffFace](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Melzi_GANDiffFace_Controllable_Generation_of_Synthetic_Datasets_for_Face_Recognition_with_ICCVW_2023_paper.html) received the "Best Paper Award" at the 11th IEEE International Workshop on Analysis and Modeling of Faces and Gestures in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/).
+
+- **October, 2023:** Selected as one of the most influential researchers in the world according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)", carried out by Stanford University and Elsevier. 
 
 - **September, 2023:** I received the "Outstanding Reviewer Award" in the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/).
   
@@ -69,7 +71,7 @@ News
 
 - **2021:** Co-Editor of the [Handbook of Digital Face Manipulation and Detection: From DeepFakes to Morphing Attacks](https://link.springer.com/book/10.1007/978-3-030-87664-7) (Advances in Computer Vision and Pattern Recognition Series, Springer).
 
-- **September, 2021:** I received the "Outstanding Reviewer Award" in the [16th International Conference on Document Analysis and Recognition (ICDAR 2021)](https://icdar2021.org/).
+- **September, 2021:** I received the "Outstanding Reviewer Award" in the [16th International Conference on Document Analysis and Recognition (ICDAR 2021)](https://iapr.org/archives/icdar2021/index.html).
 
 - **September, 2021:** Co-Organizer of the [ICDAR 2021 Competition on On-Line Signature Verification (SVC 2021)](https://sites.google.com/view/SVC2021/home). 
 
@@ -77,7 +79,7 @@ News
 
 - **October, 2018:** I have been accepted as Editorial Board in the [IEEE Biometrics Council Newsletter](http://ieee-biometrics.org/index.php/publications/newsletter).
 
-- **September, 2018:** I received the [EAB Industry Award](https://eab.org/award/reports/report2018.html?ts=1651190400055) by the European Association for Biometrics (EAB).
+- **September, 2018:** I received the ["European Biometrics Industry Award (2018)"](https://eab.org/award/reports/report2018.html?ts=1651190400055) by the [European Association for Biometrics (EAB)](https://eab.org/).
 
 
 &nbsp;
