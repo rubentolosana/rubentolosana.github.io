@@ -19,7 +19,7 @@ About me
 News 
 ======
 
-- **January, 2025:** I received the ["Juan Lopez de Peñalver Award (2024)"](https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/) from the Spanish Royal Academy of Engineering [(RAING)](https://www.raing.es/). This award recognises researchers/engineers under 40 years of age who have carried out outstanding development and innovation work in the field of engineering.
+- **January, 2025:** I received the ["Juan Lopez de Peñalver Award (2024)"](https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/) from the Spanish Royal Academy of Engineering [(RAING)](https://www.raing.es/). This award recognises researchers/engineers under 40 years who have carried out outstanding development and innovation work in the field of engineering.
 
 - **December, 2024:** New position at Universidad Autonoma de Madrid: Associate Professor (Profesor Permanente Laboral).
 
