@@ -104,7 +104,7 @@ author_profile: true
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Analysis of Human-Machine Interaction for Digital Health
- <p><b>Dates:</b> September 2021 - January 2025
+ <p><b>Dates:</b> September 2021 - Ongoing
  <p><a href="https://scholar.google.es/citations?user=CTaqwlYAAAAJ&hl=es&oi=ao">Google Scholar</a>
 </p>
 
