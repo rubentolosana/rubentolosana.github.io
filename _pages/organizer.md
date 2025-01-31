@@ -28,6 +28,7 @@ Area Chair
 Publicity Chair
 -----
 
+- IEEE International Workshop on Biometrics and Forensics, IWBF, Munich, Germany, April 2025. <a href="https://www.unibw.de/iwbf2025">[Web]</a>
 - IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Daegu, South Korea, November 2023. <a href="https://www.avss2023.org/">[Web]</a>
 
 
