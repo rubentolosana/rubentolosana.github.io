@@ -147,6 +147,10 @@ Journal Articles
 Conference Papers
 -----
 
+- S. Romero-Tapiador, **R. Tolosana**, B. Lacruz-Pleguezuelos, L.J. Marcos Zambrano, G. X Bazán, I. Espinosa-Salinas, J. Fierrez, J. Ortega-Garcia, E. Carrillo de Santa Pau, A. Morales. <a href="https://arxiv.org/abs/2504.06925" target="_blank">Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Nashville, USA, June 2025.
+
+- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, **R. Tolosana**. <a href="https://arxiv.org/abs/2504.06925" target="_blank">gMINT: Gradiant-based Membership Inference Test applied to Image Models</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Nashville, USA, June 2025.
+
 - I. DeAndres-Tame, M. Faisal, **R. Tolosana**, R. Al-Refai, R. Vera-Rodriguez, P. Terhorst. <a href="https://arxiv.org/abs/2409.16089" target="_blank">From Pixels to Words: Leveraging Explainability in Face Recognition through Interactive Natural Language Processing</a>. in *Proc. International Conference on Pattern Recognition Workshops, ICPRw*, Kolkata, India, December 2024.
 
 - I. Solano, A. Peña, A. Morales, J. Fierrez, **R. Tolosana**, F. Zamora-Martinez, J. San Agustin. <a href="https://link.springer.com/chapter/10.1007/978-3-031-78341-8_8" target="_blank">Comprehensive Equity Index (CEI): Definition and Application to Bias Evaluation in Biometrics</a>. in *Proc. International Conference on Pattern Recognition, ICPR*, Kolkata, India, December 2024.
