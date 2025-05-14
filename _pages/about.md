@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **May, 2025:** I received the ["Best Young Researchers Award (2024)"](https://www.uam.es/uam/investigacion/premios-jovenes-investigadores) from the Universidad Autonoma de Madrid [(UAM)](https://www.uam.es/uam/inicio). This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.
+
 - **April, 2025:** Giving a Talk in the topic of "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at [Universidad Rey Juan Carlos (URJC)](https://en.urjc.es/).
 
 - **April, 2025:** Two papers accepted in different workshops of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025). Topics: [Vision-Language Models in Food Image Recognition](https://arxiv.org/abs/2504.06925) and [Membership Inference Test applied to Images](https://arxiv.org/abs/2504.06925).
