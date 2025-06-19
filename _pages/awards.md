@@ -9,7 +9,7 @@ author_profile: true
 Awards and Recognitions
 -----
 
-- **May, 2025:** I received the ["Best Young Researchers Award (2024)"](https://www.uam.es/uam/investigacion/premios-jovenes-investigadores) from the [Universidad Autonoma de Madrid (UAM)](https://www.uam.es/uam/inicio). This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.
+- **May, 2025:** I received the ["Best Young Researchers Award (2024)"](https://www.uam.es/uam/noticia/fallo-jurado-premio-jovenes-investigadores-uam-2024) from the [Universidad Autonoma de Madrid (UAM)](https://www.uam.es/uam/inicio). This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.
 
 - **January, 2025:** I received the ["Juan Lopez de Peñalver Award (2024)"](https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/) from the Spanish Royal Academy of Engineering [(RAING)](https://www.raing.es/). This award recognises researchers/engineers under 40 years who have carried out outstanding development and innovation work in the field of engineering.
 
