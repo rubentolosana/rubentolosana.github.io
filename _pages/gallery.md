@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Best Paper Award at 2nd MetaFood Workshop, IEEE/CVF CVPR 2025, Nashville, USA (June 2025)
+-----
+- Our paper ["Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition"](https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html) received the "Best Paper Award" at the [2nd MetaFood Workshop](https://sites.google.com/view/cvpr-metafood-2025) organized within [IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2025](https://cvpr.thecvf.com/).
+
+<img src="https://rubentolosana.github.io/images/CVPR_2025.jpg" align="center" width="1000"/>
+
 Talk about Biometrics and Media Forensics, Universidad Rey Juan Carlos (URJC), Spain (April 2025)
 -----
 - Giving a Talk in the topic of "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at [Universidad Rey Juan Carlos (URJC)](https://en.urjc.es/). 
