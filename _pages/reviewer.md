@@ -41,11 +41,11 @@ Program Committee Member (since 2016)
 -----
 
 - Computer Vision and Pattern Recognition Conference (CVPR).
+- International Conference on Computer Vision (ICCV).
+- ACM Multimedia (ACMMM).
 - International Conference on Document Analysis and Recognition (ICDAR).
 - Winter Conference on Applications of Computer Vision (WACV).
 - International Conference on Pattern Recogntion (ICPR).
-- ACM Multimedia (ACMMM).
-- International Conference on Computer Vision Workshops (ICCVw).
 - International Joint Conference on Biometrics (IJCB).
 - International Conference on Biometrics (ICB).
 - International Conference on Biometrics: Theory, Applications and Systems (BTAS).
