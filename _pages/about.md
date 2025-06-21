@@ -25,7 +25,7 @@ News
 
 - **April, 2025:** Giving a Talk in the topic of "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at [Universidad Rey Juan Carlos (URJC)](https://en.urjc.es/).
 
-- **April, 2025:** Two papers accepted in different workshops of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025). Topics: [Vision-Language Models in Food Image Recognition](https://arxiv.org/abs/2504.06925) and [Membership Inference Test applied to Images](https://arxiv.org/abs/2504.06925).
+- **April, 2025:** Two papers accepted in different workshops of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025). Topics: [Vision-Language Models in Food Image Recognition](https://arxiv.org/abs/2504.06925) and [gMINT: Membership Inference Test applied to Images](https://openaccess.thecvf.com/content/CVPR2025W/XAI4CV/html/DeAlcala_gMINT_Gradiant-based_Membership_Inference_Test_applied_to_Image_Models._CVPRW_2025_paper.html).
 
 - **February, 2025:** Co-Organizer of the Workshop [1st International Workshop on Foundation, Multimodal Large Language and Generative Models for Face and Gesture Recognition (FM&LLM&GM2025)](https://sites.google.com/view/fmllmgm-fg25) at the [IEEE Automatic Face and Gesture Recognition Conference (FG 2025)](https://fg2025.ieee-biometrics.org/).
   
