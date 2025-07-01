@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **July, 2025:** Our proposal, X-TFCLIP, has won the [Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)](https://agvpreid25.github.io/) organized within [IEEE International Joint Conference on Biometrics, IJCB 2025](https://ijcb2025.ieee-biometrics.org/). All the details of the AG-VPReID 2025 challenge are publicly available in the [corresponding paper](https://arxiv.org/abs/2506.22843). 
+
 - **June, 2025:** Our paper ["Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition"](https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html) received the "Best Paper Award" at the [2nd MetaFood Workshop](https://sites.google.com/view/cvpr-metafood-2025) organized within [IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2025](https://cvpr.thecvf.com/).
 
 - **May, 2025:** I received the ["Best Young Researchers Award (2024)"](https://www.uam.es/uam/noticia/fallo-jurado-premio-jovenes-investigadores-uam-2024) from the [Universidad Autonoma de Madrid (UAM)](https://www.uam.es/uam/inicio). This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.
