@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+Talks / Keynotes
+-----
+
+- Keynote: "Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications" at 4th International Conference on Computing, IoT and Data Analytics, ICCIDA 2025, Madrid, Spain, July 2025. <a href="https://iccida.net/index.html">[Web]</a>
+- Talk: "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at Universidad Rey Juan Carlos, URJC, Madrid, Spain, April 2025. <a href="https://en.urjc.es/">[Web]</a>
+- Talk: Description of my Research Career and Technology Transfer after receiving “Juan López de Peñalver Award (2024)” from the Spanish Royal Academy of Engineering, Madrid, Spain, February 2025. <a href="https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/">[Web]</a>
+- Talk: "Improving Password-Based Mobile Authentication Systems through Handwritten Touch Biometrics" at European Biometrics Awards 2018. I received the "European Biometrics Industry Award" from the European Association for Biometrics, EAB, Darmstadt, Germany, 2018. <a href="https://eab.org/award/reports/report2018.html?ts=1651190400055">[Web]</a>
+
+
 General Chair
 -----
 
