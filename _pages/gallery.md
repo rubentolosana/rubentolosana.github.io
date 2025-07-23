@@ -11,11 +11,13 @@ Keynote about Synthetic Data and Foundation Models, ICCIDA 2025, Spain (July 202
 
 <img src="https://rubentolosana.github.io/images/ICCIDA_2025_Keynote.png" align="center" width="1000"/>
 
+
 Best Paper Award at 2nd MetaFood Workshop, IEEE/CVF CVPR 2025, Nashville, USA (June 2025)
 -----
 - Our paper ["Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition"](https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html) received the "Best Paper Award" at the [2nd MetaFood Workshop](https://sites.google.com/view/cvpr-metafood-2025) organized within [IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2025](https://cvpr.thecvf.com/).
 
 <img src="https://rubentolosana.github.io/images/CVPR_2025.jpg" align="center" width="1000"/>
+
 
 Talk about Biometrics and Media Forensics, Universidad Rey Juan Carlos (URJC), Spain (April 2025)
 -----
@@ -23,11 +25,13 @@ Talk about Biometrics and Media Forensics, Universidad Rey Juan Carlos (URJC), S
 
 <img src="https://rubentolosana.github.io/images/2025_04_30_Talk_URJC.jpg" align="center" width="1000"/>
 
+
 Juan López de Peñalver Award (2024), Spanish Royal Academy of Engineering, Spain (February 2025)
 -----
 - I received the [“Juan López de Peñalver Award (2024)”](https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/) from the [Spanish Royal Academy of Engineering](https://www.raing.es/). This award is granted to researchers/engineers under the age of 40 who have made outstanding contributions in any professional field of Spanish engineering. 
 
 <img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="1000"/>
+
 
 Organization of 2nd FRCSyn Workshop at IEEE/CVF CVPR 2024, Seattle, USA (June 2024)
 -----
@@ -35,11 +39,13 @@ Organization of 2nd FRCSyn Workshop at IEEE/CVF CVPR 2024, Seattle, USA (June 20
 
 <img src="https://rubentolosana.github.io/images/2nd_FRCSyn_CVPR2024.png" align="center" width="1000"/>
 
+
 Best Paper Award at AMFG Workshop, IEEE/CVF ICCV 2023, Paris, France (October 2023)
 -----
 - Our paper [GANDiffFace](https://arxiv.org/abs/2305.19962) received the "Best Paper Award" at the [AMFG Workshop](https://web.northeastern.edu/smilelab/amfg2023/) in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/).
 
 <img src="https://rubentolosana.github.io/images/AMFG_ICCV23_BestPaperAward.jpg" align="center" width="350"/>
+
 
 Best Ph.D. Thesis Award in 2019-2022, Alicante, Spain (June 2023)
 -----
