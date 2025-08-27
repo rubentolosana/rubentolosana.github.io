@@ -19,6 +19,10 @@ About me
 News 
 ======
 
+- **September, 2025:** Four papers accepted in different workshops of IEEE/IAPR International Joint Conference on Biometrics (IJCB 2025). Topics: [Fake ID Detection](https://arxiv.org/abs/2504.07761v2), [Biometric Verification in Avatar Scenarios](https://arxiv.org/abs/2508.00748v2), [In-Air Signature Biometrics](https://arxiv.org/abs/2508.08502), and [Aerial-Ground Person Re-identification](https://arxiv.org/abs/2506.22843).
+  
+- **September, 2025:** Two papers accepted in different workshops of IAPR International Conference on Document Analysis and Recognition (ICDAR). Topics: [Document Layout Analysis](https://arxiv.org/abs/2505.14699), and [Privacy- and Bias-Aware in NLP](https://arxiv.org/abs/2507.02966).
+
 - **July, 2025:** Giving a Keynote in the topic of "Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications" at [4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)](https://iccida.net/index.html).
 
 - **July, 2025:** Our proposal, X-TFCLIP, has won the [Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)](https://agvpreid25.github.io/) organized within [IEEE International Joint Conference on Biometrics, IJCB 2025](https://ijcb2025.ieee-biometrics.org/). All the details of the AG-VPReID 2025 challenge are publicly available in the [corresponding paper](https://arxiv.org/abs/2506.22843). 
