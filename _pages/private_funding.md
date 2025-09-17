@@ -23,7 +23,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Funding:</b> ca. 100K euros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> April 2025 - December 2026</p>
- <p><b>Principal investigator(s):</b> <u>Ruben Tolosana</u> and <b><u>Julian Fierrez</u></b></p>
+ <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b> and <u>Julian Fierrez</u></p>
  <p><b>Objectives:</b></p>
  <p>- Research and Development of novel AI methods able to detect fake ID documents (i.e., Physical Attacks such as print, screen, and composite, and Digital Attacks created using GenerativeAI methods such as face-swapping or text inpainting).</p>
 </DIV>
