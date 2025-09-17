@@ -9,8 +9,9 @@ Participation as Principal Investigator / Member of the Research Team:
 
 <br>
 
-<a> 
-<img src="https://rubentolosana.github.io/images/Gradiant.png" align="right" height="150" width="250"> 
+
+ <a> 
+<img src="https://rubentolosana.github.io/images/veridas.png" align="right" height="150" width="250"> 
 </a>
 
 # (2025-2026) Fake ID Detection
@@ -31,9 +32,11 @@ Participation as Principal Investigator / Member of the Research Team:
 <br>
 <br>
 <br/>
-  
- <a> 
-<img src="https://rubentolosana.github.io/images/veridas.png" align="right" height="150" width="250"> 
+
+
+ 
+<a> 
+<img src="https://rubentolosana.github.io/images/Gradiant.png" align="right" height="150" width="250"> 
 </a>
 
 # (2024-2026) DeepFakesDB
