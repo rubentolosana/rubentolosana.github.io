@@ -13,6 +13,29 @@ Participation as Principal Investigator / Member of the Research Team:
 <img src="https://rubentolosana.github.io/images/Gradiant.png" align="right" height="150" width="250"> 
 </a>
 
+# (2025-2026) Fake ID Detection
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Detecting Fake ID Documents in Real Scenarios</p>
+ <p><b>Type:</b> R&D Contract with Veridas</p>
+ <p><b>Funding:</b> ca. 100K euros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
+ <p><b>Period:</b> April 2025 - December 2026</p>
+ <p><b>Principal investigator(s):</b> <u>Ruben Tolosana</u> and <b><u>Julian Fierrez</u></b></p>
+ <p><b>Objectives:</b></p>
+ <p>- Research and Development of novel AI methods able to detect fake ID documents (i.e., Physical Attacks such as print, screen, and composite, and Digital Attacks created using GenerativeAI methods such as face-swapping or text inpainting).</p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+  
+ <a> 
+<img src="https://rubentolosana.github.io/images/veridas.png" align="right" height="150" width="250"> 
+</a>
+
 # (2024-2026) DeepFakesDB
 
 <p> 
