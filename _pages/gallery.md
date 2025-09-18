@@ -5,6 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
+IEEE/IAPR IJCB 2025, Osaka, Japan (September 2025)
+-----
+- Presenting our research and technology at [IEEE/IAPR International Joint Conference on Biometrics](https://ijcb2025.ieee-biometrics.org/). We got three papers accepted in different topics: [Fake ID Detection](https://arxiv.org/abs/2504.07761v2), [Biometric Verification in Avatar Scenarios](https://arxiv.org/abs/2508.00748v2), and [In-Air Signature Biometrics](https://arxiv.org/abs/2508.08502), and [Aerial-Ground Person Re-identification](https://arxiv.org/abs/2506.22843). We are also the winners of the [Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)](https://agvpreid25.github.io/). All the details of the AG-VPReID 2025 challenge are publicly available in the [corresponding paper](https://arxiv.org/abs/2506.22843). 
+
+<img src="https://rubentolosana.github.io/images/IJCB_2025.png" align="center" width="1000"/>
+
+
 Keynote about Synthetic Data and Foundation Models, ICCIDA 2025, Spain (July 2025)
 -----
 - Giving a Keynote in the topic of "Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications" at [4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)](https://iccida.net/index.html). 
