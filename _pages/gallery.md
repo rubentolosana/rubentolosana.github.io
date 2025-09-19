@@ -5,6 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Prof. Anil K. Jain visits BiDA-Lab, Madrid, Spain (September 2025)
+-----
+- [Prof. Anil K. Jain](https://scholar.google.com/citations?user=g-_ZXGsAAAAJ&hl=en) visited our BiDA-Lab research group. We had the honor to discuss interesting topics in Artificial Intelligence, including our recent research lines and advances in topics such as DeepFakes and Fake ID Detection, Behavioral Biometrics, Explainability and Bias, etc.
+
+<img src="https://rubentolosana.github.io/images/Anil_Jain_BiDALab.png" align="center" width="1000"/>
+
+
 IEEE/IAPR IJCB 2025, Osaka, Japan (September 2025)
 -----
 - Presenting our research and technology at [IEEE/IAPR International Joint Conference on Biometrics](https://ijcb2025.ieee-biometrics.org/). We got three papers accepted in different topics: [Fake ID Detection](https://arxiv.org/abs/2504.07761v2), [Biometric Verification in Avatar Scenarios](https://arxiv.org/abs/2508.00748v2), and [In-Air Signature Biometrics](https://arxiv.org/abs/2508.08502). We are also the winners of the [Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)](https://agvpreid25.github.io/). All the details of the AG-VPReID 2025 challenge are publicly available in the [corresponding paper](https://arxiv.org/abs/2506.22843). 
