@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **October, 2025:** Selected as one of the most influential researchers in the world in 2024 according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)", carried out by Stanford University and Elsevier.
+
 - **October, 2025:** Our proposed Fake ID Detection Method has achieved the 2nd and 4th position in the localization and detection tasks, respectively, in [The Challenge of Detecting Synthetic Manipulations in ID Documents (DeepID Challenge)](https://deepid-iccv.github.io/#home) organized within [IEEE/CVF International Conference on Computer Vision, ICCV 2025](https://iccv.thecvf.com/). Also, on the private dataset, our proposed method has achieved the highest scores, showing a better out-of-domain generalization capabilities in comparison to other approaches. All the details of the DeepID challenge are publicly available in the [corresponding paper](https://publications.idiap.ch/attachments/papers/2025/Korshunov_ICCV_2025.pdf).
 
 - **September, 2025:** Four papers accepted in different workshops of [IEEE/IAPR International Joint Conference on Biometrics, IJCB 2025](https://ijcb2025.ieee-biometrics.org/). Topics: [Fake ID Detection](https://arxiv.org/abs/2504.07761v2), [Biometric Verification in Avatar Scenarios](https://arxiv.org/abs/2508.00748v2), [In-Air Signature Biometrics](https://arxiv.org/abs/2508.08502), and [Aerial-Ground Person Re-identification](https://arxiv.org/abs/2506.22843).
@@ -43,7 +45,7 @@ News
 
 - **December, 2024:** New position at Universidad Autonoma de Madrid: Associate Professor (Profesor Permanente Laboral).
 
-- **October, 2024:** Selected as one of the most influential researchers in the world according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)", carried out by Stanford University and Elsevier. Check also additional information posted by [Universidad Autonoma de Madrid](https://www.uam.es/uam/noticias/ranking-standford-2024).
+- **October, 2024:** Selected as one of the most influential researchers in the world in 2023 according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)", carried out by Stanford University and Elsevier. Check also additional information posted by [Universidad Autonoma de Madrid](https://www.uam.es/uam/noticias/ranking-standford-2024).
 
 - **March, 2024:** Hiring alert!! 2 Postdoctoral and 5 PhD students Positions at UAM. If you are interested, please check the following [document](https://drive.google.com/file/d/1YSMEr4_SseqDQCv5NpLPYv57BEG-Ql8z/view?usp=sharing) <font color='red'>[CLOSED]</font>.
 
@@ -53,7 +55,7 @@ News
 
 - **October, 2023:** Our paper [GANDiffFace](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Melzi_GANDiffFace_Controllable_Generation_of_Synthetic_Datasets_for_Face_Recognition_with_ICCVW_2023_paper.html) received the "Best Paper Award" at the 11th IEEE International Workshop on Analysis and Modeling of Faces and Gestures in [IEEE/CVF International Conference on Computer Vision, ICCV 2023](https://iccv2023.thecvf.com/).
 
-- **October, 2023:** Selected as one of the most influential researchers in the world according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)", carried out by Stanford University and Elsevier. 
+- **October, 2023:** Selected as one of the most influential researchers in the world in 2022 according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)", carried out by Stanford University and Elsevier. 
 
 - **September, 2023:** I received the "Outstanding Reviewer Award" in the [IEEE International Joint Conference on Biometrics (IJCB 2023)](https://ijcb2023.ieee-biometrics.org/).
   
