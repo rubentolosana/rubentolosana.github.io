@@ -151,9 +151,11 @@ Journal Articles
 Conference Papers
 -----
 
-- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, **R. Tolosana** and J. Ortega-Garcia. <a href="https://rubentolosana.github.io/publications/" target="_blank">Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision, ICCV*, Honolulu, Hawaii, October 2025.
+- P. Korshunov, V. Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. Dealcala, T. Endrei, J. Muñoz-Haro, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya and M. Sharma, P. Dwivedi. <a href="https://openaccess.thecvf.com/ICCV2025_workshops/DeepID" target="_blank">The Challenge of Detecting Synthetic Manipulations in ID Documents</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, Honolulu, Hawaii, October 2025.
+
+- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, **R. Tolosana** and J. Ortega-Garcia. <a href="https://openaccess.thecvf.com/content/ICCV2025/html/DeAlcala_Active_Membership_Inference_Test_aMINT_Enhancing_Model_Auditability_with_Multi-Task_ICCV_2025_paper.html" target="_blank">Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision, ICCV*, Honolulu, Hawaii, October 2025.
   
-- D. DeAlcala, A. Morales, J. Fierrez, **R. Tolosana**. <a href="https://arxiv.org/abs/2508.03625" target="_blank">AttZoom: Attention Zoom for Better Visual Features</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, Honolulu, Hawaii, October 2025.
+- D. DeAlcala, A. Morales, J. Fierrez, **R. Tolosana**. <a href="https://openaccess.thecvf.com/content/ICCV2025W/HCV/html/DeAlcala_AttZoom_Attention_Zoom_for_Better_Visual_Features_ICCVW_2025_paper.html" target="_blank">AttZoom: Attention Zoom for Better Visual Features</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, Honolulu, Hawaii, October 2025.
   
 - A. Peña, J. Fierrez, A. Morales, G. Mancera, M. Lopez-Duran, **R. Tolosana**. <a href="https://arxiv.org/abs/2506.11880" target="_blank">Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment</a>. in *Proc. AAAI/ACM Conf. on AI, Ethics, and Society, AIES*, Madrid, Spain, October 2025.
 
