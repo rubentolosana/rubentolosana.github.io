@@ -38,6 +38,8 @@ Book Chapters
 Journal Articles
 -----
 
+- J. Muñoz-Haro, **R. Tolosana**, J. Fierrez, R. Vera-Rodriguez, A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525010310" target="_blank">Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Algorithms (FakeIDet2)</a>. *Information Fusion*, 2025.
+
 - N. González, G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**. <a href="https://ieeexplore.ieee.org/abstract/document/11018101" target="_blank">Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss</a>. *IEEE Transactions on Information Forensics and Security*, 2025.
 
 - I. DeAndres-Tame, **R. Tolosana**, P. Melzi, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, L.F. Gomez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Zhong, Y. Huang, Y. Mi, S. Ding, S. Zhou, S. He, L. Fu, H. Cong, R. Zhang, Z. Xiao, E. Smirnov, A. Pimenov, A. Grigorev, D. Timoshenko, K.M. Asfaw, C.Y. Low, H. Liu, C. Wang, Q. Zuo, Z. He, H. Otroshi Shahreza, A. George, A. Unnervik, P. Rahimi, S. Marcel, P.C. Neto, M. Huber, J.N. Kolf, N. Damer, F. Boutros, J.S. Cardoso, A.F. Sequeira, A. Atzori, G. Fenu, M. Marras, V. Struc, J. Yu, Z. Li, J. Li, W. Zhao, Z. Lei, X. Zhu, X.-Yu Zhang, B. Biesseck, P. Vidal, L. Coelho, R. Granada, D. Menotti. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525001721" target="_blank">Second FRCSyn-onGoing: Winning Solutions and Post-Challenge Analysis to Improve Face Recognition with Synthetic Data</a>. *Information Fusion*, 2025.
