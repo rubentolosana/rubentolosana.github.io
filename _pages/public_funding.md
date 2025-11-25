@@ -21,7 +21,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Title:</b> Cátedra ENIA UAM-VERIDAS en IA Responsable</p>
  <p><b>Type:</b> NextGenerationEU Plan de Recuperación, Transformación y Resiliencia</p>
  <p><b>Code:</b> TSI-100927-2023-2</p>
- <p><b>Funding:</b> ca. 800 Keuros</p>
+ <p><b>Funding:</b> ca. 655 Keuros</p>
  <p><b>Website:</b><a href="https://catedraeniauam.github.io/" target="_blank"> https://catedraeniauam.github.io/</a></p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> January 2023 - December 2026</p>
