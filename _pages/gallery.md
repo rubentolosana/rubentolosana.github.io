@@ -5,6 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Best Young Researchers Award (2024), Universidad Autonoma de Madrid, Spain (December 2025)
+-----
+- I received the ["Best Young Researchers Award (2024)"](https://www.uam.es/uam/noticias/entrega-diplomas-premios-jovenes-investigadores-2025) from the [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio). This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center. 
+
+<img src="https://rubentolosana.github.io/images/UAM_Under40_Award.jpg" align="center" width="1000"/>
+
+
 Prof. Anil K. Jain visits BiDA-Lab, Madrid, Spain (September 2025)
 -----
 - [Prof. Anil K. Jain](https://scholar.google.com/citations?user=g-_ZXGsAAAAJ&hl=en) visited our BiDA-Lab research group. We had the honor to discuss interesting topics in Artificial Intelligence, including our recent research lines and advances in topics such as DeepFakes and Fake ID Detection, Behavioral Biometrics, Explainability and Bias, etc.
