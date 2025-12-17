@@ -19,6 +19,7 @@ Talks / Keynotes
 Workshop Organizer
 -----
 
+- Workshop From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026) at the IEEE Automatic Face and Gesture Recognition Conference, FG 2026, Kyoto, Japan, May 2026. <a href="https://sites.google.com/view/trustfa-fg2026/home">[Web]</a>
 - Workshop 1st International Workshop on Foundation, Multimodal Large Language and Generative Models for Face and Gesture Recognition (FM&LLM&GM2025) at the IEEE Automatic Face and Gesture Recognition Conference, FG 2025, Clearwater, USA, May 2025. <a href="https://sites.google.com/view/fmllmgm-fg25">[Web]</a>
 - Workshop 2nd Edition Face Recognition Challenge in the Era of Synthetic Data (FRCSyn) at the IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2024, Seattle, USA, June 2024. <a href="https://frcsyn.github.io/">[Web]</a>
 - 1st International Workshop on Responsible Face Image Processing (ReFIP) at the IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG 2024, Istanbul, Turkey, May 2024 <a href="https://responsiblefaceimageprocessing.github.io/fg2024/">[Web]</a>.
