@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **January, 2026:** Co-Organizer of the Workshop [From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026)](https://sites.google.com/view/trustfa-fg2026/home) at the [IEEE Automatic Face and Gesture Recognition Conference (FG 2026)](https://fg2026.ieee-biometrics.org/).
+
 - **October, 2025:** Selected as one of the most influential researchers in the world in 2024 according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)", carried out by Stanford University and Elsevier.
 
 - **October, 2025:** Our proposed Fake ID Detection Method has achieved the 2nd and 4th position in the localization and detection tasks, respectively, in [The Challenge of Detecting Synthetic Manipulations in ID Documents (DeepID Challenge)](https://deepid-iccv.github.io/#home) organized within [IEEE/CVF International Conference on Computer Vision, ICCV 2025](https://iccv.thecvf.com/). Also, on the private dataset, our proposed method has achieved the highest scores, showing a better out-of-domain generalization capabilities in comparison to other approaches. All the details of the DeepID challenge are publicly available in the [corresponding paper](https://openaccess.thecvf.com/ICCV2025_workshops/DeepID).
