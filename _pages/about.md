@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **February, 2026:** Publicity Chair of [The 25th International Conference of the Biometrics Special Interest Group (BIOSIG)](https://biosig.de/). 
+
 - **January, 2026:** Co-Organizer of the Workshop [From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026)](https://sites.google.com/view/trustfa-fg2026/home) at the [IEEE Automatic Face and Gesture Recognition Conference (FG 2026)](https://fg2026.ieee-biometrics.org/).
 
 - **October, 2025:** Selected as one of the most influential researchers in the world in 2024 according to "[Ranking of the World Scientist: World Top 2%](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)", carried out by Stanford University and Elsevier.
