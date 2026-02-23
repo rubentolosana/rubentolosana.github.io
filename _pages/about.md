@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **February, 2026:** My PhD student [Sergio Romero-Tapiador](https://scholar.google.com/citations?user=fjh1KJUAAAAJ&hl=en) defended his PhD Thesis entitled “Artificial Intelligence and Wearable Devices for Digital Healthcare” on February 20, 2026. Advisors: [Ruben Tolosana](https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en) and [Aythami Morales](https://scholar.google.es/citations?user=yRP16B4AAAAJ&hl=en). 
+
 - **February, 2026:** Publicity Chair of [The 25th International Conference of the Biometrics Special Interest Group (BIOSIG)](https://biosig.de/). 
 
 - **January, 2026:** Co-Organizer of the Workshop [From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026)](https://sites.google.com/view/trustfa-fg2026/home) at the [IEEE Automatic Face and Gesture Recognition Conference (FG 2026)](https://fg2026.ieee-biometrics.org/).
