@@ -82,8 +82,8 @@ author_profile: true
 <DIV align="center">
  <p>
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://aythami.me/">Aythami Morales</a>
- <p><b>Thesis:</b> Artificial Intelligence Applied to Precision Nutrition
- <p><b>Dates:</b> March 2022 - Ongoing
+ <p><b>Thesis:</b> Artificial Intelligence and Wearable Devices for Digital Healthcare
+ <p><b>Dates:</b> March 2022 - February 2026
  <p><a href="https://scholar.google.es/citations?user=fjh1KJUAAAAJ&hl=es&oi=ao">Google Scholar</a>
 </p>
 
