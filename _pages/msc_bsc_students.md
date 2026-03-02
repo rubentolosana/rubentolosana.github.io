@@ -9,9 +9,9 @@ author_profile: true
 M.Sc. Students
 -----
 
-- **Alejandra Parés Rodríguez**: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Laura Pedrouzo-Rodriguez, 2025-Ongoing.
-- **Laura Pedrouzo-Rodriguez**: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
-- **Andrés Teruel Fernández**: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master in Data Science, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, 2025-Ongoing.
+- **Alejandra Parés Rodríguez**: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Laura Pedrouzo-Rodriguez, Ongoing.
+- **Laura Pedrouzo-Rodriguez**: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, Ongoing.
+- **Andrés Teruel Fernández**: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master in Data Science, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, Ongoing.
 - **Tamás Endrei**: “Aerial-Ground Person Re-Identification in Surveillance Scenarios”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, September 2025. **Rating**: 10/10 (with honors).
 - **Pedro Delgado de Robles**: “Exploring Identity Verification through Behavioral Patterns in Videos”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, September 2025. **Rating**: 10/10.
 - **Sergio Romero-Tapiador**: "Improving Health through the Analysis of Eating Habits Using Automated Systems", Master in Research and Innovation in Computational Intelligence and Interactive Systems, Supervisors: Ruben Tolosana, February 2022. **Rating**: 9.5/10 (with honors).
