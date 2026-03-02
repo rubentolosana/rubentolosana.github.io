@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Gallery"
+    url: /gallery/
+    
   - title: "Publications"
     url: /publications/ 
 
@@ -11,16 +14,16 @@ main:
 
   - title: "Awards"
     url: /awards/ 
-
-  - title: "PhD Students"
-    url: /students/ 
     
   - title: "Organizer"
     url: /organizer/ 
 
-  - title: "Gallery"
-    url: /gallery/
+  - title: "PhD Students"
+    url: /students/ 
 
+  - title: "MSc/BSc Students"
+    url: /msc_bsc_students/ 
+    
   - title: "Reviewer"
     url: /reviewer/ 
     
