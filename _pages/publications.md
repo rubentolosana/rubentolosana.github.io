@@ -38,6 +38,14 @@ Book Chapters
 Journal Articles
 -----
 
+- S. Romero-Tapiador, P. Rodriguez-Mier, M. Garrido-Rodriguez, **R. Tolosana**, A. Morales, J. Saez-Rodriguez. <a href="https://www.biorxiv.org/content/10.1101/2025.09.08.674873v1.abstract" target="_blank">ScAPE: A Lightweight Multitask Learning Baseline Method to Predict Transcriptomic Responses to Perturbations</a>. *Bioinformatics*, under review.
+
+- I. Solano, J. Fierrez, A. Morales, A. Peña, **R. Tolosana**, F. Zamora-Martinez, J. San Agustin. <a href="https://arxiv.org/abs/2506.10564" target="_blank">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*, minor revision.
+
+- S. Romero-Tapiador, **R. Tolosana**, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://arxiv.org/abs/2409.08700" target="_blank">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, minor revision.
+
+- B. Biesseck, P. Vidal, L. Coelho, R. Granada, **R. Tolosana**, D. Menotti. <a href="https://ieeexplore.ieee.org/abstract/document/11345108" target="_blank">Are Synthetic Data As Good As Real Data For Recognizing Doppelgängers and Twins Faces?</a>. *IEEE Access*, 2026.
+
 - J. Muñoz-Haro, **R. Tolosana**, J. Fierrez, R. Vera-Rodriguez, A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525010310" target="_blank">Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Algorithms (FakeIDet2)</a>. *Information Fusion*, 2025.
 
 - N. González, G. Stragapede, R. Vera-Rodriguez, **R. Tolosana**. <a href="https://ieeexplore.ieee.org/abstract/document/11018101" target="_blank">Type2Branch: Keystroke Biometrics based on a Dual-branch Architecture with Attention Mechanisms and Set2set Loss</a>. *IEEE Transactions on Information Forensics and Security*, 2025.
@@ -153,25 +161,39 @@ Journal Articles
 Conference Papers
 -----
 
+- P. Jimenez, S. Romero Tapiador, **R. Tolosana**, A. Morales, G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
+
+- D. Jimenez Oviedo, R. Vera-Rodriguez, **R. Tolosana**, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
+
+- G. Mancera Fernandez, D. DeAlcala, **R. Tolosana**, J. Fierrez, A. Morales. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
+
+- J. Irigoyen, R. Daza, A. Morales, J. Fierrez, F. Jurado, A. Ortigosa, **R. Tolosana**. <a href="https://arxiv.org/abs/2602.15531" target="_blank">EduEVAL-DB: A Role-Based Dataset for Pedagogical Risk Evaluation in Educational Explanations</a>. in *Proc. the 16th International Learning Analytics & Knowledge Conference*, Bergen, Norway, April 2026.
+
+- I. DeAndres-Tame, C. Ye, **R. Tolosana**, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275" target="_blank">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. *Under Review*.
+
+- M. Lopez-Duran, J. Fierrez, A. Morales, D. DeAlcala, G. Mancera, J. Irigoyen, **R. Tolosana**, O. Delgado, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2603.02150" target="_blank">Zero-and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)</a>. *Under Review*.
+
 - P. Korshunov, V. Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. Dealcala, T. Endrei, J. Muñoz-Haro, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya and M. Sharma, P. Dwivedi. <a href="https://openaccess.thecvf.com/ICCV2025_workshops/DeepID" target="_blank">The Challenge of Detecting Synthetic Manipulations in ID Documents</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, Honolulu, Hawaii, October 2025.
 
 - D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, **R. Tolosana** and J. Ortega-Garcia. <a href="https://openaccess.thecvf.com/content/ICCV2025/html/DeAlcala_Active_Membership_Inference_Test_aMINT_Enhancing_Model_Auditability_with_Multi-Task_ICCV_2025_paper.html" target="_blank">Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision, ICCV*, Honolulu, Hawaii, October 2025.
   
 - D. DeAlcala, A. Morales, J. Fierrez, **R. Tolosana**. <a href="https://openaccess.thecvf.com/content/ICCV2025W/HCV/html/DeAlcala_AttZoom_Attention_Zoom_for_Better_Visual_Features_ICCVW_2025_paper.html" target="_blank">AttZoom: Attention Zoom for Better Visual Features</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, Honolulu, Hawaii, October 2025.
   
-- A. Peña, J. Fierrez, A. Morales, G. Mancera, M. Lopez-Duran, **R. Tolosana**. <a href="https://arxiv.org/abs/2506.11880" target="_blank">Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment</a>. in *Proc. AAAI/ACM Conf. on AI, Ethics, and Society, AIES*, Madrid, Spain, October 2025.
+- A. Peña, J. Fierrez, A. Morales, G. Mancera, M. Lopez-Duran, **R. Tolosana**. <a href="https://ojs.aaai.org/index.php/AIES/article/view/36689" target="_blank">Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment</a>. in *Proc. AAAI/ACM Conf. on AI, Ethics, and Society, AIES*, Madrid, Spain, October 2025.
 
-- J. Muñoz-Haro, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez. <a href="https://arxiv.org/abs/2504.07761v2" target="_blank">FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025.
+- J. Muñoz-Haro, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez. <a href="https://ieeexplore.ieee.org/document/11411481" target="_blank">FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025.
 
-- L. Pedrouzo-Rodriguez, P. Delgado-DeRobles, L. F Gomez, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez. <a href="https://arxiv.org/abs/2508.00748" target="_blank">Is It Really You? Exploring Biometric Verification Scenarios in Photorealistic Talking-Head Avatar Videos</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025.
+- L. Pedrouzo-Rodriguez, P. Delgado-DeRobles, L. F Gomez, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez. <a href="https://ieeexplore.ieee.org/document/11411089" target="_blank">Is It Really You? Exploring Biometric Verification Scenarios in Photorealistic Talking-Head Avatar Videos</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025.
 
-- M. Robledo-Moreno, R. Vera-Rodriguez, **R. Tolosana**, J. Ortega-Garcia, A. Huergo, J. Fierrez. <a href="https://arxiv.org/abs/2508.08502" target="_blank">AirSignatureDB: Exploring In-Air Signature Biometrics in the Wild and its Privacy Concerns</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025. 
+- M. Robledo-Moreno, R. Vera-Rodriguez, **R. Tolosana**, J. Ortega-Garcia, A. Huergo, J. Fierrez. <a href="https://ieeexplore.ieee.org/document/11411102" target="_blank">AirSignatureDB: Exploring In-Air Signature Biometrics in the Wild and its Privacy Concerns</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025. 
 
-- K. Nguyen, C. Fookes, S. Sridharan, H. Nguyen, F. Liu, X. Liu, A. Ross, D. Michalski, T. Endrei, I. DeAndres-Tame, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Gong, Y. Wang, X. Liu, P. Zhang, Md Rashidunnabi, H. Proença, K. A. Hambarde, S. Rezaei. <a href="https://www.arxiv.org/abs/2506.22843" target="_blank">AG-VPReID 2025: Aerial-Ground Video-based Person Re-identification Challenge Results</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025. **(Winners of the Challenge)**
+- K. Nguyen, C. Fookes, S. Sridharan, H. Nguyen, F. Liu, X. Liu, A. Ross, D. Michalski, T. Endrei, I. DeAndres-Tame, **R. Tolosana**, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Gong, Y. Wang, X. Liu, P. Zhang, Md Rashidunnabi, H. Proença, K. A. Hambarde, S. Rezaei. <a href="https://ieeexplore.ieee.org/document/11410726" target="_blank">AG-VPReID 2025: Aerial-Ground Video-based Person Re-identification Challenge Results</a>. in *Proc. IEEE/IAPR International Joint Conference on Biometrics, IJCB*, Osaka, Japan, September 2025. **(Winners of the Challenge)**
   
-- G. Mancera, A. Morales, J. Fierrez, **R. Tolosana**, A. Peña, M. Lopez-Duran, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2507.02966" target="_blank">PBa-LLM: Privacy- and Bias-aware NLP using Named-Entity Recognition (NER)</a>. in *IAPR Intl. Conf. on Document Analysis and Recognition Workshops, ICDARw*, Wuhan, China, September 2025.
+- G. Mancera, A. Morales, J. Fierrez, **R. Tolosana**, A. Peña, M. Lopez-Duran, F. Jurado, A. Ortigosa. <a href="https://link.springer.com/chapter/10.1007/978-3-032-09368-4_1" target="_blank">PBa-LLM: Privacy- and Bias-aware NLP using Named-Entity Recognition (NER)</a>. in *IAPR Intl. Conf. on Document Analysis and Recognition Workshops, ICDARw*, Wuhan, China, September 2025.
   
-- M. Lopez-Duran, J. Fierrez, A. Morales, **R. Tolosana**, O. Delgado-Mohatar, A. Ortigosa. <a href="https://arxiv.org/abs/2505.14699" target="_blank">Benchmarking Graph Neural Networks for Document Layout Analysis in Public Affairs</a>. in *IAPR Intl. Conf. on Document Analysis and Recognition Workshops, ICDARw*, Wuhan, China, September 2025.
+- M. Lopez-Duran, J. Fierrez, A. Morales, **R. Tolosana**, O. Delgado-Mohatar, A. Ortigosa. <a href="https://link.springer.com/chapter/10.1007/978-3-032-09368-4_2" target="_blank">Benchmarking Graph Neural Networks for Document Layout Analysis in Public Affairs</a>. in *Proc. IAPR Intl. Conf. on Document Analysis and Recognition Workshops, ICDARw*, Wuhan, China, September 2025.
+
+- S. Jain, S.L. Ahier, P. Melzi, **R. Tolosana**, R. Vera-Rodriguez, C. Rathgeb. <a href="https://ieeexplore.ieee.org/abstract/document/11358294/" target="_blank">GANDiffKids: Benchmarking Face Recognition for Children on Synthetic Data</a>. in *Proc. International Conference of the Biometrics Special Interest Group, BIOSIG*, Darmstadt, Germany, September 2025.
 
 - S. Romero-Tapiador, **R. Tolosana**, B. Lacruz-Pleguezuelos, L.J. Marcos Zambrano, G. X Bazán, I. Espinosa-Salinas, J. Fierrez, J. Ortega-Garcia, E. Carrillo de Santa Pau, A. Morales. <a href="https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html" target="_blank">Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, Nashville, USA, June 2025. **(Best Paper Award)**
 
@@ -180,6 +202,8 @@ Conference Papers
 - L. F Gomez, G. Garrido-Lopez, J. Fierrez, A. Morales, **R. Tolosana**, J. Rueda, E. Navarro. <a href="https://arxiv.org/abs/2505.04713" target="_blank">Comparison of Visual Trackers for Biomechanical Analysis of Running</a>. in *Proc. IEEE Intl. Conf. on Automatic Face and Gesture Recognition, FG*, Clearwater, USA, May 2025.
   
 - D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2503.08332" target="_blank">MINT-Demo: Membership Inference Test Demonstrator</a>. in *Proc. AAAI Workshop on AI Governance: Alignment, Morality, and Law, AIGOV*, Philadelphia, USA, March 2025.
+
+- G. Mancera, D. DeAlcala, A. Morales, **R. Tolosana**, J. Fierrez. <a href="https://arxiv.org/abs/2601.12929" target="_blank">Membership Inference Test: Auditing Training Data in Object Classification Models</a>. in *Proc. AAAI Workshop on Deployable AI*, Philadelphia, USA, March 2025.
 
 - I. DeAndres-Tame, M. Faisal, **R. Tolosana**, R. Al-Refai, R. Vera-Rodriguez, P. Terhorst. <a href="https://link.springer.com/chapter/10.1007/978-3-031-87657-8_22" target="_blank">From Pixels to Words: Leveraging Explainability in Face Recognition through Interactive Natural Language Processing</a>. in *Proc. International Conference on Pattern Recognition Workshops, ICPRw*, Kolkata, India, December 2024.
 
