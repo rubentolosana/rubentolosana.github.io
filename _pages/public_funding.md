@@ -67,7 +67,7 @@ Participation as Principal Investigator / Member of the Research Team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/CM_UAM.PNG" align="right" height="150" width="175"> 
+<img src="https://rubentolosana.github.io/images/INSPIRA.PNG" align="right" height="150" width="175"> 
 </a>
 
 # (2023-2027) INSPIRA-CM
@@ -95,7 +95,7 @@ Participation as Principal Investigator / Member of the Research Team:
 
 
 <a> 
-<img src="https://rubentolosana.github.io/images/INSPIRA.PNG" align="right" height="150" width="225"> 
+<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
 </a>
 
 # (2022-2024) INTER-ACTION
