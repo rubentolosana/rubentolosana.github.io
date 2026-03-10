@@ -66,9 +66,36 @@ Participation as Principal Investigator / Member of the Research Team:
 <br/>
 
 
+<a> 
+<img src="https://rubentolosana.github.io/images/CM_UAM.PNG" align="right" height="150" width="175"> 
+</a>
+
+# (2023-2027) INSPIRA-CM
+
+<p> 
+<DIV align="left">
+ <p><b>Title:</b> Identification of Mechanisms, Biomarkers and Interventions in Comorbidity in Hypoxemic Respiratory Diseases through Preclinical, Clinical and Computational Approaches.</p>
+ <p><b>Type:</b> R&D Program in Biomedicine 2022 Comunidad de Madrid</p>
+ <p><b>Code:</b> TP2022/BMD-7224</p>
+ <p><b>Funding:</b> ca. 55 Keuros</p>
+ <p><b>Participants:</b> Univ. Autonoma de Madrid, Univ. Complutense de Madrid, Fundación para la Investigación Biomédica del Hospital Universitario La Paz </p>
+ <p><b>Period:</b> January 2023 - April 2027</p>
+ <p><b>Principal investigator(s):</b> <u>Aythami Morales</u> and <b><u>Ruben Tolosana (2026-2027)</u></b></p>
+ <p><b>Objectives:</b></p>
+ <p>- Design of computational models for the generation of synthetic biomedical data. Within this objective, techniques will be developed to automatically generate realistic and balanced data sets.</p>
+ <p>- Understand the natural processes involved in data related to EPOC and AOS, and then model those processes through automatic algorithms and generate new data with properties similar to real ones.</p>
+ <p>- Development of image analysis tools in infrared spectrum to support biomarker detection in EPOC and AOS. </p>
+ <p>- The use of Computer Vision technologies is proposed for the enhancement and extraction of patterns related to brown adipose tissue images. </p>
+</DIV>
+</p>
+
+<br>
+<br>
+<br/>
+
 
 <a> 
-<img src="https://rubentolosana.github.io/images/logoSpain.png" align="right" height="150" width="225"> 
+<img src="https://rubentolosana.github.io/images/INSPIRA.PNG" align="right" height="150" width="225"> 
 </a>
 
 # (2022-2024) INTER-ACTION
