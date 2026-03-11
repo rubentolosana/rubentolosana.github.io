@@ -161,7 +161,7 @@ Journal Articles
 Conference Papers
 -----
 
-- P. Jimenez, S. Romero Tapiador, **R. Tolosana**, A. Morales, G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
+- P. Jimenez-Lizcano, S. Romero-Tapiador, **R. Tolosana**, A. Morales, G.G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2603.08235" target="_blank">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
 - D. Jimenez Oviedo, R. Vera-Rodriguez, **R. Tolosana**, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
