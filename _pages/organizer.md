@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Talks / Keynotes
+Talks / Keynotes / Tutorials
 -----
 
 - Keynote: "Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications" at 4th International Conference on Computing, IoT and Data Analytics, ICCIDA 2025, Madrid, Spain, July 2025. <a href="https://iccida.net/index.html">[Web]</a>
