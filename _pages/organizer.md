@@ -12,8 +12,13 @@ Talks / Keynotes
 - Keynote: "Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications" at 4th International Conference on Computing, IoT and Data Analytics, ICCIDA 2025, Madrid, Spain, July 2025. <a href="https://iccida.net/index.html">[Web]</a>
 - Talk: "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at Universidad Rey Juan Carlos, URJC, Madrid, Spain, April 2025. <a href="https://en.urjc.es/">[Web]</a>
 - Talk: Description of my Research Career and Technology Transfer after receiving “Juan López de Peñalver Award (2024)” from the Spanish Royal Academy of Engineering, Madrid, Spain, February 2025. <a href="https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/">[Web]</a>
+- Talk: "An Introduction to Digital Face Manipulation" at Workshop on Digital Face Manipulation & Detection. Organized by European Association for Biometrics, July 2022. <a href="https://eab.org/events/program/291">[Web]</a>
 - Talk and Tutorial: "DeepFakes Generation and Detection" at PRIMA/TRESPASS Madrid Summer School 2022, EU Marie Curie Projects, Madrid, Spain, July 2022. <a href="https://rubentolosana.github.io/images/PRIMA_TRESPASS.jfif">[Web]</a>
+- Keynote (with Prof. Julian Fierrez): "Presentation Attacks y DeepFakes" at IAPR 11th Intl. Conf. on Pattern Recognition Systems (ICPRS), Chile, March 2021. <a href="http://s836450039.websitehome.co.uk/icprs21/">[Web]</a>
+- Talk and Tutorial: "Face Recognition" to SICPA company (Switzerland). Organized by European Association for Biometrics, May 2021. <a href="https://www.sicpa.com/">[Web]</a>
+- Talk: "Disruptive Approaches to Handwriting and Signature Authentication for Security-Enhanced Schemes" at School of Engineering, Universidad Autonoma de Madrid, Madrid, Spain, July 2019. <a href="https://www.uam.es/eps/inicio">[Web]</a>
 - Talk: "Improving Password-Based Mobile Authentication Systems through Handwritten Touch Biometrics" at European Biometrics Awards 2018. I received the "European Biometrics Industry Award" from the European Association for Biometrics, EAB, Darmstadt, Germany, 2018. <a href="https://eab.org/award/reports/report2018.html?ts=1651190400055">[Web]</a>
+- Talk: "Fingerprint Presentation Attack Detection" at Biometrics & Security Research Group (da/sec), Darmstadt, Germany, July 2018. <a href="https://dasec.h-da.de/">[Web]</a>
 
 
 Workshop Organizer
