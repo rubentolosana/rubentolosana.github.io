@@ -136,7 +136,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Code:</b> Y2020/TCS6654</p>
  <p><b>Funding:</b> ca. 310 Keuros UAM (620 Keuros in total)</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid and IMDEA-Food Institute</p>
- <p><b>Period:</b> July 2021 - June 2024</p>
+ <p><b>Period:</b> July 2021 - December 2024</p>
  <p><b>Principal investigator(s):</b> <u>Javier Ortega-García</u> (UAM technical lead: <u>Aythami Morales</u>)</p>
  <p><b>Objectives:</b></p>
  <p>- AI4Food will develop a series of enabling technologies to process, analyze and exploit a large number of biometric signals indicative of individual habits, phenotypic and molecular data.</p>
@@ -217,7 +217,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Code:</b> H2020-JTI-IMI2-2018-15-two-stage-853981</p>
  <p><b>Funding:</b> ca. 40 Meuros in total (ca. 200 Keuros for UAM)</p>
  <p><b>Participants:</b> UAM + 44 more: Janssen, Takeda, Lilly, Pfizer, Sanofi, ECRIN, Cambridge Cognition, Asociación de Parkinson Madrid, Imperial College London, etc.</p>
- <p><b>Period:</b> November 2019 - April 2025</p>
+ <p><b>Period:</b> November 2019 - April 2026</p>
  <p><b>Principal investigator(s):</b> Fai Ng from Newcastle Univ., UK (<u>Julian Fierrez</u> for UAM)</p>
  <p><b>Objectives:</b></p>
  <p>- Fatigue and sleep disturbances are two common and disabling symptoms that affect patients with neurodegenerative disorders (NDD) and immune-mediated inflammatory diseases (IMID). These symptoms are major predictors of poor quality of life and increased healthcare cost. Current questionnaire-based approaches to measure these symptoms have key limitations preventing them from being used as reliable endpoints in clinical trials to evaluate the effect of therapies.</p>
