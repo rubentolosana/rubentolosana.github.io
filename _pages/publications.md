@@ -52,7 +52,7 @@ Journal Articles
 
 - I. DeAndres-Tame, **R. Tolosana**, P. Melzi, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, L.F. Gomez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Zhong, Y. Huang, Y. Mi, S. Ding, S. Zhou, S. He, L. Fu, H. Cong, R. Zhang, Z. Xiao, E. Smirnov, A. Pimenov, A. Grigorev, D. Timoshenko, K.M. Asfaw, C.Y. Low, H. Liu, C. Wang, Q. Zuo, Z. He, H. Otroshi Shahreza, A. George, A. Unnervik, P. Rahimi, S. Marcel, P.C. Neto, M. Huber, J.N. Kolf, N. Damer, F. Boutros, J.S. Cardoso, A.F. Sequeira, A. Atzori, G. Fenu, M. Marras, V. Struc, J. Yu, Z. Li, J. Li, W. Zhao, Z. Lei, X. Zhu, X.-Yu Zhang, B. Biesseck, P. Vidal, L. Coelho, R. Granada, D. Menotti. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525001721" target="_blank">Second FRCSyn-onGoing: Winning Solutions and Post-Challenge Analysis to Improve Face Recognition with Synthetic Data</a>. *Information Fusion*, 2025.
   
-- H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2302.13286" target="_blank">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *EURASIP Journal on Image and Video Processing*, 2025.
+- H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, **R. Tolosana**, R. Vera-Rodriguez. <a href="https://link.springer.com/article/10.1186/s13640-025-00679-y" target="_blank">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *EURASIP Journal on Image and Video Processing*, 2025.
   
 - P. Melzi, H. Otroshi Shahreza, C. Rathgeb, **R. Tolosana**, R. Vera-Rodriguez, J. Fierrez, S. Marcel, C. Busch. <a href="https://ieeexplore.ieee.org/abstract/document/11086598" target="_blank">Cancelable Biometrics with Soft-biometric Privacy Enhancement</a>. *IEEE Access*, 2025.
 
@@ -161,6 +161,8 @@ Journal Articles
 Conference Papers
 -----
 
+- I. DeAndres-Tame, C. Ye, **R. Tolosana**, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275" target="_blank">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. IAPR International Conference on Pattern Recognition* Lyon, France, August 2026.
+  
 - P. Jimenez-Lizcano, S. Romero-Tapiador, **R. Tolosana**, A. Morales, G.G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2603.08235" target="_blank">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
 - D. Jimenez Oviedo, R. Vera-Rodriguez, **R. Tolosana**, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
@@ -168,8 +170,6 @@ Conference Papers
 - G. Mancera Fernandez, D. DeAlcala, **R. Tolosana**, J. Fierrez, A. Morales. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
 - J. Irigoyen, R. Daza, A. Morales, J. Fierrez, F. Jurado, A. Ortigosa, **R. Tolosana**. <a href="https://arxiv.org/abs/2602.15531" target="_blank">EduEVAL-DB: A Role-Based Dataset for Pedagogical Risk Evaluation in Educational Explanations</a>. in *Proc. the 16th International Learning Analytics & Knowledge Conference*, Bergen, Norway, April 2026.
-
-- I. DeAndres-Tame, C. Ye, **R. Tolosana**, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275" target="_blank">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. *Under Review*.
 
 - M. Lopez-Duran, J. Fierrez, A. Morales, D. DeAlcala, G. Mancera, J. Irigoyen, **R. Tolosana**, O. Delgado, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2603.02150" target="_blank">Zero-and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)</a>. *Under Review*.
 
