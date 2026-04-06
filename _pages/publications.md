@@ -167,7 +167,7 @@ Conference Papers
   
 - P. Jimenez-Lizcano, S. Romero-Tapiador, **R. Tolosana**, A. Morales, G.G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2603.08235" target="_blank">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
-- D. Jimenez Oviedo, R. Vera-Rodriguez, **R. Tolosana**, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
+- D. Jimenez Oviedo, R. Vera-Rodriguez, **R. Tolosana**, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2603.25673" target="_blank">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
 - G. Mancera Fernandez, D. DeAlcala, **R. Tolosana**, J. Fierrez, A. Morales. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, May 2026.
 
