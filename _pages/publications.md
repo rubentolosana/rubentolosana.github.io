@@ -44,7 +44,7 @@ Journal Articles
 
 - S. Romero-Tapiador, P. Rodriguez-Mier, M. Garrido-Rodriguez, **R. Tolosana**, A. Morales, J. Saez-Rodriguez. <a href="https://www.biorxiv.org/content/10.1101/2025.09.08.674873v1.abstract" target="_blank">ScAPE: A Lightweight Multitask Learning Baseline Method to Predict Transcriptomic Responses to Perturbations</a>. *under review*.
 
-- S. Romero-Tapiador, **R. Tolosana**, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://arxiv.org/abs/2409.08700" target="_blank">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, minor revision.
+- S. Romero-Tapiador, **R. Tolosana**, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://www.sciencedirect.com/science/article/pii/S0010482526002404" target="_blank">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, 2026.
 
 - B. Biesseck, P. Vidal, L. Coelho, R. Granada, **R. Tolosana**, D. Menotti. <a href="https://ieeexplore.ieee.org/abstract/document/11345108" target="_blank">Are Synthetic Data As Good As Real Data For Recognizing Doppelgängers and Twins Faces?</a>. *IEEE Access*, 2026.
 
