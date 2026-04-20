@@ -38,7 +38,7 @@ Book Chapters
 Journal Articles
 -----
 
-- S.M. La Cava , R. Casula , S. Concas , G. Orrù , **R. Tolosana**, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://arxiv.org/abs/2504.18886" target="_blank">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
+- S.M. La Cava , R. Casula , S. Concas , G. Orrù , **R. Tolosana**, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://www.sciencedirect.com/science/article/pii/S2590005626001177" target="_blank">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
 
 - I. Solano, J. Fierrez, A. Morales, A. Peña, **R. Tolosana**, F. Zamora-Martinez, J. San Agustin. <a href="https://www.sciencedirect.com/science/article/pii/S0031320326005819" target="_blank">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*. 2026.
 
