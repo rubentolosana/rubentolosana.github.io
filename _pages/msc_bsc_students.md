@@ -9,7 +9,7 @@ author_profile: true
 M.Sc. Students
 -----
 
-- **Alejandra Parés Rodríguez**: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Laura Pedrouzo-Rodriguez, Ongoing.
+- **Alejandra Parés Rodríguez**: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, Ongoing.
 - **Laura Pedrouzo-Rodriguez**: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, Ongoing.
 - **Andrés Teruel Fernández**: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master in Data Science, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, Ongoing.
 - **Tamás Endrei**: “Aerial-Ground Person Re-Identification in Surveillance Scenarios”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, September 2025. **Rating**: 10/10 (with honors).
