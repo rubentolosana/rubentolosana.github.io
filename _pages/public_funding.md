@@ -24,7 +24,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Funding:</b> ca. 655 Keuros</p>
  <p><b>Website:</b><a href="https://catedraeniauam.github.io/" target="_blank"> https://catedraeniauam.github.io/</a></p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
- <p><b>Period:</b> January 2023 - December 2026</p>
+ <p><b>Period:</b> March 2023 - December 2026</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <b><u>Ruben Tolosana</u></b></p>
  <p><b>Objectives:</b></p>
  <p>- Improve the robustness and security performance of biometric systems against attacks such as DeepFakes, posisoning and backdoor attacks, etc.</p>
