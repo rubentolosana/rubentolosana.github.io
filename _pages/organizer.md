@@ -55,6 +55,12 @@ Program Chair
 - IEEE Intl. Conf. on Advanced Video and Signal-Based Surveillance, AVSS, Madrid, Spain, November 2022. <a href="http://atvs.ii.uam.es/avss2022/">[Web]</a>
 
 
+Tutorial Chair
+-----
+
+- Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA, Springer, Barcelona, Spain, July 2027. <a href="http://www.ibpria.org/2019/">[Web]</a>
+
+
 Area Chair
 -----
 
