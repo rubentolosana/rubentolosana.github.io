@@ -22,7 +22,7 @@ M.Sc. Students
 B.Sc. Students
 -----
 
-- **Luna Charro Fernández**: "Application of Artificial Intelligence Techniques for the Characterization of Atheromatous Plaques in Early Ischemic Heart Disease", Bachelor in Biomedical Engineering, Supervisors: Ruben Tolosana, Ongoing. 
+- **Luna Charro Fernández**: "Application of Artificial Intelligence Techniques for the Characterization of Atheromatous Plaques in Early Ischemic Heart Disease", Bachelor in Biomedical Engineering, Supervisors: Ruben Tolosana, June 2026. **Rating**: 9.5/10. 
 - **Pablo Jiménez Lizcano**: "Application of Artificial Intelligence Techniques for the Analysis of Diabetic Retinopathy", Bachelor in Biomedical Engineering, Supervisors: Ruben Tolosana, July 2025. **Rating**: 10/10.
 - **Lucía Martín López**: "Application of Artificial Intelligence Techniques to Improve the Detection of Affected Axillary Lymph Nodes in Breast Cancer", Bachelor in Biomedical Engineering, Supervisors: Ruben Tolosana and R. Eduardo Pacios Blanco, July 2024. **Rating**: 9.5/10.
 - **Pablo Lozano Jiménez**: "Application of Artificial Intelligence Techniques to Echocardiography to Improve the Analysis of Aortic Stenosis", Bachelor in Biomedical Engineering, Supervisors: Ruben Tolosana and Luis Jesus Jimenez-Borreguero, July 2024. **Rating**: 9.7/10.
