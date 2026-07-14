@@ -16,6 +16,7 @@ author_profile: true
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Generative AI and Synthetic Data: New Approaches to Improve the Performance and Robustness of Security Systems
  <p><b>Dates:</b> Sept 2024 - Ongoing
+ <p><a href="https://scholar.google.com/citations?user=thSi0EoAAAAJ&hl=en&oi=ao">Google Scholar</a>
  <p>
 </p>
 
@@ -41,6 +42,7 @@ author_profile: true
  <p><b>Supervisors:</b> Ruben Tolosana and <a href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en&oi=ao">Ruben Vera-Rodriguez</a>
  <p><b>Thesis:</b> Foundation Models in Biometric Recognition
  <p><b>Dates:</b> Sept 2024 - Ongoing
+ <p><a href="https://scholar.google.com/citations?user=xYLElMkAAAAJ&hl=en">Google Scholar</a>
  <p>
 </p>
 
@@ -171,6 +173,8 @@ author_profile: true
  <p><b>Thesis:</b> Mobile Device Background Sensors: Authentication vs Privacy
  <p><b>Dates:</b> November 2020 - January 2024 
  <p><a href="https://scholar.google.es/citations?hl=en&user=-UgABOgAAAAJ">Google Scholar</a> 
+ <p><b>Awards:</b> <a href="https://www.fbbva.es/noticias/fallados-premios-informatica-scie-fundacion-bbva-2026/">SCIE-FBBVA Young Researchers in Computer Science</a>
+
 </p>
 
 <br>
