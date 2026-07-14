@@ -173,7 +173,7 @@ author_profile: true
  <p><b>Thesis:</b> Mobile Device Background Sensors: Authentication vs Privacy
  <p><b>Dates:</b> November 2020 - January 2024 
  <p><a href="https://scholar.google.es/citations?hl=en&user=-UgABOgAAAAJ">Google Scholar</a> 
- <p><b>Awards:</b> <a href="https://www.fbbva.es/noticias/fallados-premios-informatica-scie-fundacion-bbva-2026/">SCIE-FBBVA Young Researchers in Computer Science</a>
+ <p><b>Awards:</b> <a href="https://www.fbbva.es/noticias/fallados-premios-informatica-scie-fundacion-bbva-2026/">SCIE-FBBVA Young Researchers in Computer Science 2026</a>
 
 </p>
 
