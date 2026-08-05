@@ -24,7 +24,7 @@ Talks / Keynotes / Tutorials
 Workshop Organizer
 -----
 
-- Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos at the 18th Asian Conference on Computer Vision, ACCV 2026, Osaka, Japan, December 2026. <a href="https://www.codabench.org/competitions/17680/">[Web]</a>
+- Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos at the 18th Asian Conference on Computer Vision, ACCV 2026, Osaka, Japan, December 2026. <a href="https://sites.google.com/yy.d3c.osaka-u.ac.jp/wba2026/">[Web]</a>
 - Workshop From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026) at the IEEE Automatic Face and Gesture Recognition Conference, FG 2026, Kyoto, Japan, May 2026. <a href="https://sites.google.com/view/trustfa-fg2026/home">[Web]</a>
 - Workshop 1st International Workshop on Foundation, Multimodal Large Language and Generative Models for Face and Gesture Recognition (FM&LLM&GM2025) at the IEEE Automatic Face and Gesture Recognition Conference, FG 2025, Clearwater, USA, May 2025. <a href="https://sites.google.com/view/fmllmgm-fg25">[Web]</a>
 - Workshop 2nd Edition Face Recognition Challenge in the Era of Synthetic Data (FRCSyn) at the IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2024, Seattle, USA, June 2024. <a href="https://frcsyn.github.io/">[Web]</a>
@@ -37,7 +37,7 @@ Workshop Organizer
 Competition Organizer
 -----
 
-- Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos at the 18th Asian Conference on Computer Vision, ACCV 2026, Osaka, Japan, December 2026. <a href="https://www.codabench.org/competitions/17680/">[Web]</a>
+- Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos at the 18th Asian Conference on Computer Vision, ACCV 2026, Osaka, Japan, December 2026. <a href="https://sites.google.com/yy.d3c.osaka-u.ac.jp/wba2026/">[Web]</a>
 - 2nd Edition FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2024, Seattle, USA, June 2024. <a href="https://frcsyn.github.io/">[Web]</a>
 - 1st Edition FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the IEEE/CVF Winter Conf. on Applications of Computer Vision, WACV 2024, Waikoloa, Hawaii, January 2024. <a href="https://frcsyn.github.io/">[Web]</a>
 - KVC: Keystroke Verification Challenge, official competition at IEEE Intl. Conf. on Big Data, BigData 2023, Sorrento, Italy, December 2023. <a href="https://sites.google.com/view/bida-kvc/home">[Web]</a> 
