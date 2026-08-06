@@ -19,6 +19,8 @@ About me
 News 
 ======
 
+- **August, 2026:** Co-Organizer of the Workshop and Challenge [Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos](https://sites.google.com/yy.d3c.osaka-u.ac.jp/wba2026/) at the [18th Asian Conference on Computer Vision (ACCV 2026)](https://accv2026.org/).
+  
 - **February, 2026:** My PhD student [Sergio Romero-Tapiador](https://scholar.google.com/citations?user=fjh1KJUAAAAJ&hl=en) defended his PhD Thesis entitled “Artificial Intelligence and Wearable Devices for Digital Healthcare” on February 20, 2026. Advisors: [Ruben Tolosana](https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en) and [Aythami Morales](https://scholar.google.es/citations?user=yRP16B4AAAAJ&hl=en). 
 
 - **February, 2026:** Publicity Chair of [The 25th International Conference of the Biometrics Special Interest Group (BIOSIG)](https://biosig.de/). 
