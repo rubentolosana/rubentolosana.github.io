@@ -24,7 +24,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Funding:</b> ca. 655 Keuros</p>
  <p><b>Website:</b><a href="https://catedraeniauam.github.io/" target="_blank"> https://catedraeniauam.github.io/</a></p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
- <p><b>Period:</b> March 2023 - December 2026</p>
+ <p><b>Period:</b> March 2023 - June 2027</p>
  <p><b>Principal investigator(s):</b> <u>Julian Fierrez</u> and <b><u>Ruben Tolosana</u></b></p>
  <p><b>Objectives:</b></p>
  <p>- Improve the robustness and security performance of biometric systems against attacks such as DeepFakes, posisoning and backdoor attacks, etc.</p>
@@ -217,7 +217,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Code:</b> H2020-JTI-IMI2-2018-15-two-stage-853981</p>
  <p><b>Funding:</b> ca. 40 Meuros in total (ca. 200 Keuros for UAM)</p>
  <p><b>Participants:</b> UAM + 44 more: Janssen, Takeda, Lilly, Pfizer, Sanofi, ECRIN, Cambridge Cognition, Asociación de Parkinson Madrid, Imperial College London, etc.</p>
- <p><b>Period:</b> November 2019 - April 2026</p>
+ <p><b>Period:</b> November 2019 - August 2026</p>
  <p><b>Principal investigator(s):</b> Fai Ng from Newcastle Univ., UK (<u>Julian Fierrez</u> for UAM)</p>
  <p><b>Objectives:</b></p>
  <p>- Fatigue and sleep disturbances are two common and disabling symptoms that affect patients with neurodegenerative disorders (NDD) and immune-mediated inflammatory diseases (IMID). These symptoms are major predictors of poor quality of life and increased healthcare cost. Current questionnaire-based approaches to measure these symptoms have key limitations preventing them from being used as reliable endpoints in clinical trials to evaluate the effect of therapies.</p>
