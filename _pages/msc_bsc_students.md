@@ -10,6 +10,7 @@ M.Sc. Students
 -----
 
 - **Laura Pedrouzo-Rodriguez**: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, Ongoing.
+- **Pablo Lozano Jiménez**: “Automatic PET/CT Cancer Lesion Segmentation using Clinical Interactive Supervision”, Master in Artificial Intelligence (Amsterdam University), Supervisors: Ruben Tolosana and Clarisa I. Sánchez, September 2026. **Rating**: Exceptional.
 - **Andrés Teruel Fernández**: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master in Data Science, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, September 2026. **Rating**: 10/10.
 - **Alejandra Parés Rodríguez**: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, June 2026. **Rating**: 9.5/10.
 - **Tamás Endrei**: “Aerial-Ground Person Re-Identification in Surveillance Scenarios”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, September 2025. **Rating**: 10/10 (with honors). **Awards**: Winners of the "AG-VPReID 2025: The 2nd Aerial-Ground Person ReID Challenge" organized at IEEE International Joint Conference on Biometrics (IJCB 2025).
