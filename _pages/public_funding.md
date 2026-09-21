@@ -79,7 +79,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Code:</b> TP2022/BMD-7224</p>
  <p><b>Funding:</b> ca. 55 Keuros</p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid, Univ. Complutense de Madrid, Fundación para la Investigación Biomédica del Hospital Universitario La Paz </p>
- <p><b>Period:</b> January 2023 - April 2027</p>
+ <p><b>Period:</b> January 2023 - June 2027</p>
  <p><b>Principal investigator(s):</b> <u>Aythami Morales</u> and <b><u>Ruben Tolosana (2026-2027)</u></b></p>
  <p><b>Objectives:</b></p>
  <p>- Design of computational models for the generation of synthetic biomedical data. Within this objective, techniques will be developed to automatically generate realistic and balanced data sets.</p>
