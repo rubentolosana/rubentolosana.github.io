@@ -38,7 +38,7 @@ Book Chapters
 Journal Articles
 -----
 
-- L. Pedrouzo-Rodriguez, L.F. Gomez, **R. Tolosana**, R. Vera-Rodriguez, R. Daza, A. Morales, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032601798X?via%3Dihub" target="_blank">Leveraging Avatar Fingerprinting: A Multi-Generator Photorealistic Talking-Head Public Database and Benchmark</a>. *Pattern Recognition Letters*, 2026. 
+- L. Pedrouzo-Rodriguez, L.F. Gomez, **R. Tolosana**, R. Vera-Rodriguez, R. Daza, A. Morales, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032601798X?via%3Dihub" target="_blank">Leveraging Avatar Fingerprinting: A Multi-Generator Photorealistic Talking-Head Public Database and Benchmark</a>. *Pattern Recognition*, 2026. 
 
 - B. Lacruz-Pleguezuelos, A. Pérez-Cuervo, D. Coleto-Checa, G. X Bazán, S. Romero-Tapiador, G. Freixer, J. Fernández-Cabezas, E. Aguilar-Aguilar, A. Martín-Segura, N. Cárdenas-Roig, L. Carrasco-Guijarro, L. P Fernández, I. Espinosa-Salinas, A. Ramírez de Molina, A. Morales, **R. Tolosana**, J. Ortega-Garcia, V. Pancaldi, L. Judith Marcos-Zambrano, E. Carrillo de Santa Pau. <a href="https://www.nature.com/articles/s41467-026-72588-1" target="_blank">Network Topology of the Gut Microbiome Associates with Metabolic Health in Obesity</a>. *Nature Communications*, 2026. 
 
