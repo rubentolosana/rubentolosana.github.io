@@ -42,6 +42,8 @@ Journal Articles
 
 - B. Lacruz-Pleguezuelos, A. Pérez-Cuervo, D. Coleto-Checa, G. X Bazán, S. Romero-Tapiador, G. Freixer, J. Fernández-Cabezas, E. Aguilar-Aguilar, A. Martín-Segura, N. Cárdenas-Roig, L. Carrasco-Guijarro, L. P Fernández, I. Espinosa-Salinas, A. Ramírez de Molina, A. Morales, **R. Tolosana**, J. Ortega-Garcia, V. Pancaldi, L. Judith Marcos-Zambrano, E. Carrillo de Santa Pau. <a href="https://www.nature.com/articles/s41467-026-72588-1" target="_blank">Network Topology of the Gut Microbiome Associates with Metabolic Health in Obesity</a>. *Nature Communications*, 2026. 
 
+- M. Ghafourian, B. Sumer, R. Vera-Rodriguez, J. Fierrez, **R. Tolosana**, A. Morales and E. Kindt. <a href="https://arxiv.org/abs/2302.10883" target="_blank">Blockchain and Biometrics: Survey, GDPR Analysis, and Future Directions</a>. *Computers*, 2026.
+
 - M. Robledo-Moreno, R. Vera-Rodriguez, **R. Tolosana**, J. Ortega-Garcia. <a href="https://www.sciencedirect.com/science/article/pii/S0167865526003570" target="_blank">Kinematic Hallucinations in Vision-Language Models: A Study on Zero-Shot Signature Verification</a>. *Pattern Recognition Letters*, 2026. 
 
 - S.M. La Cava , R. Casula , S. Concas , G. Orrù , **R. Tolosana**, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://www.sciencedirect.com/science/article/pii/S2590005626001177" target="_blank">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
@@ -103,8 +105,6 @@ Journal Articles
 - P. Delgado-Santos, **R. Tolosana**, R. Guest, R. Vera-Rodriguez and J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S0952197623008667" target="_blank">M-GaitFormer: Mobile Biometric Gait Verification Using Transformers</a>. *Engineering Applications of Artificial Intelligence*, 2023.
  
 - S. Romero-Tapiador, B. Lacruz-Pleguezuelos, **R. Tolosana**, G. Freixer, R. Daza, C.M. Fernández-Díaz, E. Aguilar-Aguilar, J. Fernández-Cabezas, S. Cruz Gil, S. Molina-Arranz, M.C. Crespo, T. Laguna-Lobo, L.J. Marcos-Zambrano, R. Vera-Rodriguez, J. Fierrez, A. Ramírez de Molina, J. Ortega-Garcia, I. Espinosa-Salinas, A. Morales and E. Carrillo de Santa Pau. <a href="https://academic.oup.com/database/article/doi/10.1093/database/baad049/7226275" target="_blank">AI4FoodDB: A Database for Personalized e-Health Nutrition and Lifestyle through Wearable Devices and Artificial Intelligence</a>. *Database: The Journal of Biological Databases and Curation*, 2023.
-
-- M. Ghafourian, B. Sumer, R. Vera-Rodriguez, J. Fierrez, **R. Tolosana**, A. Morales and E. Kindt. <a href="https://arxiv.org/abs/2302.10883" target="_blank">Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis</a>. *arXiv preprint arXiv:2302.10883*, 2023.
 
 - G. Stragapede, R. Vera-Rodriguez, **R. Tolosana** and A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S0031320322005696" target="_blank">BehavePassDB: Public Database for Mobile Behavioral Biometrics and Benchmark Evaluation</a>. *Pattern Recognition*. Vol. 123, 109089, 2023.
 
