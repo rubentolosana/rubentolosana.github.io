@@ -51,6 +51,7 @@ Participation as Principal Investigator / Member of the Research Team:
  <p><b>Type:</b> Comunidad de Madrid R&D Program</p>
  <p><b>Code:</b> SI4/PJI/2024-00062</p>
  <p><b>Funding:</b> ca. 54 Keuros</p>
+ <p><b>Website:</b><a href="https://poweraiuam.github.io/" target="_blank"> https://poweraiuam.github.io/</a></p>
  <p><b>Participants:</b> Univ. Autonoma de Madrid </p>
  <p><b>Period:</b> January 2025 - December 2026</p>
  <p><b>Principal investigator(s):</b> <b><u>Ruben Tolosana</u></b></p>
